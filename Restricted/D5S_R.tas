@@ -81,25 +81,28 @@ console load 5
    1,R,J
   12,R,K
   12,L,J
-  11,K,G
+  10,K,G
    1,R,K
    1,J
-   7,R,K
-   9,L,J
-   1,L
    1,K
-   5,R,J
+   6,R,K
+   1,J
+   5,K,G
+   2,L,K
+   1,L
+   1,J
+   7,K,G
    1,R
-   1,R,K,G
    1,R,J,G
+   1,R,K,G
    9,R
    1,R,J
-   5,R
+   4,R
   40
 
 #lvl_a-00b (1)
 #0x
-   9,R
+  11,R
    1,R,J
   18,R
    1,R,J
@@ -130,14 +133,14 @@ console load 5
   14,R
    1,R,J
   14,R
-   1,R,J
-  14,R
+   8,R
   40
 
 #lvl_a-00d
 #0x
+   6,R
    1
-   7,R
+   1,R
   10,R,J
    1,R,K,G
    3,R,J,G
@@ -283,18 +286,24 @@ console load 5
    1,L,J
   18,L,D
    7,L,D,J
-   5,L
-   3,L,J
-  11,L,D,X
-   1,L,J
-  21,L,D
+   1,R,K,G
+   7,L,K
+  23,L,D
+   1,L
+   5,L,D
   40
 
 #lvl_a-04
 #1x
-  18,L,D
+  17,L,D
   11,L,J
- 109,L
+ 100,L
+   1
+   1,L
+   1
+   4,L
+   1
+   1,L
    3,L,J,G
   13,L
    2
@@ -808,14 +817,13 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
 #lvl_a-12 (1)
 #0x
   86,R
-  62,U,X
-   1,R,J
+  63,U,X
   40
 
 #lvl_a-15
 #0x
-   3,R,J,G
-   5,R,K,G
+   2
+   4,R,J
   12,U,X
    9,L,J
   24,U,X
@@ -1384,27 +1392,29 @@ Add 58
 #lvl_b-01c
 #1x
   13,R,D
-  26,D
-   1,J
-   8
-   2,J
-   5,R
+  17,D
+   3
+   1,R,D
+   2,R
+   1,R,D
+   1,R
+   1,R,D
   10,R,Z
    1,R,J
    1,L,K,G
-  15,R,K
-   1,J,G
+  14,R,K
+   2,J,G
    3,R,J
    5,J
    1,R,J
-   1,L,J
-   1,R,J
+   1,L
+   1,R
   13,R,K,G
    3,J,G
-   1,L,J
+   1,L
    1,L,K
   10,L,J
-   1
+   1,J
    1,L,K,G
    1,L,J,G
    9,L
@@ -4425,4 +4435,4 @@ EndRepeat
    1,S
    1,D,J
   18
-FileTime: 12:53.364(45492)
+FileTime: 12:52.922(45466)
