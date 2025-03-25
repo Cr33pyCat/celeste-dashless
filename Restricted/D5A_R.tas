@@ -191,7 +191,7 @@ console load 5
   40
 
 #lvl_a-08 (0)
-#1x
+#0x
   36
    1,L,J
    1,L,K,G
@@ -199,33 +199,28 @@ console load 5
   40
 
 #lvl_a-10
+#1x
    6,L,D,J
    8,L
    1
    1,L
-   9,R,D
+   9,R,D,J
+   1,D,J
+   1,J,G
+   1,J
+   1,J,G
+   3,J
+   1
+   1,R
    1
    1,G
-repeat 5
-   1
-   1,G
-EndRepeat
-   5,G
-repeat 4
-   3,D,G
-   3,G
-   3,U,G
-   2,G
    2
    1,G
    1
    1,G
-   1
-   6,G
-   1,D,G
+   2
    1,G
-EndRepeat
-   1,J,G
+   3,J,G
    2
    3,R
    1
@@ -253,6 +248,7 @@ EndRepeat
   40,J
 
 #lvl_a-08 (1)
+#0x
    5,R,J
    1,R
    1,R,D
@@ -266,6 +262,7 @@ EndRepeat
   40
 
 #lvl_a-12
+#0x
    1,D
    9,R,D,J
    1,R
@@ -2622,4 +2619,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-ChapterTime: 5:50.472(20616)
+ChapterTime: 5:48.840(20520)
