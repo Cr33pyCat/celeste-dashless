@@ -1292,30 +1292,25 @@ AnalogMode,Ignore
   24,U,X
   18,U,C
    5,L
-   1,L
-   6,L,J,G
+   3,L,K,G
+   2,J,G
+   1,R,J
   40
 
 #lvl_d-01
 #1x
-   1,K,G
-  13
-   1,L
-   1
-   1
-   1
-   3,G
-   1,J
-   1,R
    1,L,K,G
+   1,L
    1,J,G
-  10
+   6
+   1,K
+   1
    1,R
-  10,R,J
+   9,R,J
+   1,R
    1,R,K,G
    3,R,J,G
-   1,J
-   1,J
+   2,J
    3,R
    1
    2,R
@@ -1347,47 +1342,51 @@ AnalogMode,Ignore
   17,R
   10,R,J
    8,R
-  49
-  84
-  20
-   8,R
+  48
+   1,L
+  15
+   4,D
+  65
+  18
+  10,R
   50,D
-  20,R,G
+  16,R,G
    4,R,U,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  11
-
-  15,L,J
-  22,R,G
+  85,R
+   5,R,D
+   1,R
+   1,R,D
+   1,R,J,G
+   7,R,K,G
+   1
+   4,R
+   3,R,K
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  16,R
-  13,R
-   2
-   8,R
-   1,R,J,G
-   6,R,K,G
-   1,K
-   8,R
-   1,R,J,G
-   1,R,K,G
-  15,R,D
+  15,R
    1,R,J
   14,R
+   1,R,J
   14,R
    1,R,J
-   8,R
+   5,R
   40
 
 #lvl_d-02
 #0x
- 198
+   9
+   6,D
+   1,L,J
+   5
+   2,R
+   4
+   1,R
+ 170
   36,R
    1,R,D
    6,D
@@ -1710,4 +1709,4 @@ EndRepeat
   32,R,J
   18,R,U,X
  135,D
-ChapterTime: 4:47.640(16920)
+ChapterTime: 4:47.130(16890)
