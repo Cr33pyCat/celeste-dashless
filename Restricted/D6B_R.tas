@@ -1,4 +1,4 @@
-#6B 78x (R)
+#6B 77x (R)
 
 console hard 6
    1
@@ -963,7 +963,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-00
-#3x
+#2x
    3,L,J
    6,R,J
    1,L,K,G
@@ -1002,13 +1002,31 @@ AnalogMode,Ignore
   16,R
    1,R,K,G
    1,R,J,G
-  30,R,D
-  15,L,D
-   1,R,J
-  30,R,K
-   8,U,X
-   6,R,J
-  20,R
+  20,R,D
+   1,D
+   1,R,D
+   1,D
+   5,R,D
+   4,D
+   1,R,D
+   1,L,D
+   1,D
+   4,G
+   1,D
+   1,G
+   1,J,G
+   4,L
+   2
+   1,R
+   1,S,N
+  10,J,O
+   3,R,D,J
+   2,R
+  23,R,K
+   1,R
+  24,R,K
+   1,R,J,G
+  21,R
   46,L
   13,R,J
    7,R
@@ -1709,4 +1727,4 @@ EndRepeat
   32,R,J
   18,R,U,X
  135,D
-ChapterTime: 4:47.130(16890)
+ChapterTime: 4:47.606(16918)
