@@ -2540,7 +2540,9 @@ EndRepeat
    6,R,D
    9,D
    3,L,D
+AnalogMode,Square
   27,F,141.606
+AnalogMode,Precise
    6,F,171.313
    1,F,166.006
   11,F,106
@@ -2956,5 +2958,6 @@ EndRepeat
   43
    1,S
    1,D,J
+AnalogMode, Ignore
   18
 ChapterTime: 7:16.424(25672)
