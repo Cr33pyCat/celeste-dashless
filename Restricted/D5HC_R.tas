@@ -1,4 +1,4 @@
-#5HC 24x (R)
+#5HC +8x (R)
 
 console load 5
    1
@@ -7,7 +7,7 @@ console load 5
 Read,D5A,Start,lvl_b-02
 #5x
 
-#lvl_b-02
+#lvl_b-02 (0)
 #0x
   14,R
    1,R,J
@@ -26,7 +26,7 @@ Read,D5A,Start,lvl_b-02
    2,R
   40
 
-#lvl_b-11
+#lvl_b-11 (0)
 #1x
   12,R,D
   12,R,J
@@ -60,7 +60,7 @@ Read,D5A,Start,lvl_b-02
    3,R,J
   40
 
-#lvl_b-13
+#lvl_b-13 (0)
 #2x
    7,R,J
   12,L,J,G
@@ -109,7 +109,7 @@ Read,D5A,Start,lvl_b-02
    1,R,J
   58
 
-#lvl_b-17
+#lvl_b-17 (0)
 #0x
   14,R
    1,R,J
@@ -231,7 +231,7 @@ Read,D5A,Start,lvl_b-02
    6,L
   40
 
-#lvl_b-17
+#lvl_b-17 (1)
 #0x
    1,L
    3,L,J
@@ -277,7 +277,7 @@ Read,D5A,Start,lvl_b-02
   11,L
   58
 
-#lvl_b-13
+#lvl_b-13 (1)
 #0x
    1,L
    1,L,J
@@ -306,7 +306,7 @@ Read,D5A,Start,lvl_b-02
   11,L
   40
 
-#lvl_b-11
+#lvl_b-11 (1)
 #0x
    3,L
    1,L,J
@@ -333,7 +333,7 @@ Read,D5A,Start,lvl_b-02
    5,L
   40
 
-#lvl_b-02
+#lvl_b-02 (1)
 #1x
    9,L
   19,L,J
@@ -396,7 +396,7 @@ Read,D5A,Start,lvl_b-02
   59,D
   40
 
-#lvl_b-02
+#lvl_b-02 (2)
 #0x
   75,R,D
    1,R,J
@@ -410,7 +410,7 @@ Read,D5A,Start,lvl_b-02
 Read,D5A,lvl_b-06,lvl_b-14
 #2x
 
-#lvl_b-14
+#lvl_b-14 (0)
 #1x
   28
   33,R,D
@@ -469,7 +469,7 @@ Read,D5A,lvl_b-06,lvl_b-14
    3,L
   40
 
-#lvl_b-14
+#lvl_b-14 (1)
 #1x
   11,L
    1,L,J
@@ -511,4 +511,4 @@ Read,D5A,lvl_b-06,lvl_b-14
 Read,D5A,lvl_b-16
 #8x
 
-ChapterTime: 7:04.473(24969)
+ChapterTime: 7:03.334(24902)
