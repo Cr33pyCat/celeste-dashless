@@ -8,7 +8,7 @@ console load 4
 
 #lvl_a-00
 #0x
-Read,D4A,lvl_a-00,lvl_a-07
+Read,D4A_,lvl_a-00,lvl_a-07
 
 #lvl_a-07
 #3x
@@ -353,6 +353,6 @@ endrepeat
   15,R,K
   40
 
-Read,D4A,lvl_a-09
+Read,D4A_,lvl_a-09
 
 ChapterTime: 4:29.654(15862)
