@@ -1,4 +1,4 @@
-#5B 26x (R)
+#5B 25x (R)
 
 console hard 5
    1
@@ -854,7 +854,7 @@ EndRepeat
   40
 
 #lvl_d-03
-#2x
+#1x
    1,R,G
    1,R,J,G
   14,R,G
@@ -876,27 +876,53 @@ EndRepeat
   12,R,K
   22,R,X
    2
-  31,D,G
-  36,R,G
-  49,R,X
-  35,R,G
-  11,L,K,G
-   5,R,J,G
+  25,D,G
+   5,R,G
+   1,G
+  10,R,G
+  35,R
+  17,R,D,X
+  21,R,G
+   1,D
+   1,G
+  42,R,J,G
+  23,R,G
+  11,L,J,G
+   4,R,K,G
+  10,R,G
+   6,R,J,G
+  35,L,D,J
+   1
+   1,L
+   1
+   1,L
+   1,J
+   3,K,G
+   4
+   1,R
+   4,R,K
+   1,R,J,G
+  13,G
    8,R,G
-   1,R,J,G
-  14,R,G
+   2,R
+   1,R,J
+  15,R
    4,R,J
-  48,R
-   9,R,U,X
-  29,R,G
-   1,R,J,G
-  14,R,G
-   1,R,J,G
-  14,R,D,G
-   1,R,J,G
-  23,R,D,G
-   1,R,J,G
-  21,R,D,G
+  41,R
+  37,R,J,G
+   1,K,G
+  27,R,K,G
+   1,J,G
+  27,R,J,G
+   1,K,G
+  34,R,K,G
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   1,R,J
+  43,R,G
+   5,R
    1,R,J
   11,R
   40
@@ -1053,4 +1079,4 @@ Repeat,13
    1,K
    1,J
 EndRepeat
-ChapterTime: 2:57.786(10458)
+ChapterTime: 3:01.254(10662)
