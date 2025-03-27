@@ -8,7 +8,7 @@ console load 5
 
 #lvl_a-00b
 #0x
-Read,D5A,lvl_a-00b,lvl_b-01b
+Read,D5A_,lvl_a-00b,lvl_b-01b
 
 #lvl_b-01b
 #1x
@@ -83,7 +83,7 @@ Read,D5A,lvl_a-00b,lvl_b-01b
    1,J
   40
 
-#lvl_b-02
+#lvl_b-02 (0)
 #1x
   12,J
   12,L,K,G
@@ -129,7 +129,7 @@ Read,D5A,lvl_a-00b,lvl_b-01b
   59,D
   40
 
-#lvl_b-02
+#lvl_b-02 (1)
 #0x
   75,R,D
    1,R,J
@@ -140,9 +140,9 @@ Read,D5A,lvl_a-00b,lvl_b-01b
    8,R
   40
 
-Read,D5A,lvl_b-06,lvl_b-14
+Read,D5A_,lvl_b-06,lvl_b-14
 
-#lvl_b-14
+#lvl_b-14 (0)
 #1x
   28
   33,R,D
@@ -201,7 +201,7 @@ Read,D5A,lvl_b-06,lvl_b-14
    3,L
   40
 
-#lvl_b-14
+#lvl_b-14 (1)
 #1x
   11,L
    1,L,J
@@ -240,6 +240,6 @@ Read,D5A,lvl_b-06,lvl_b-14
   13,U,X
   40
 
-Read,D5A,lvl_b-16
+Read,D5A_,lvl_b-16
 
-ChapterTime: 6:13.456(21968)
+ChapterTime: 6:12.317(21901)
