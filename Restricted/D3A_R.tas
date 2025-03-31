@@ -2768,9 +2768,6 @@ EndRepeat
 #0x
    2,L
    8,L,J
-
-
-
   16,L
    2,R
    1,R,D
@@ -2842,6 +2839,7 @@ EndRepeat
 #0x
   14,R
   88,D
+#C-Return
    3,L,D,J
   16,J
   12,K,G
