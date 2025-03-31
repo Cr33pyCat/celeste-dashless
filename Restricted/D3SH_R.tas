@@ -2610,20 +2610,22 @@ Read,D3A,lvl_04-d (0),lvl_04-c (0)
   11,L,K
   26,L,D
    3,D
-   2
+   1,R
+   1
    1,R,D
    4,D,X
    1,L,J
    6,L
   10,L,J
-   5,L
+   6,L
    5,L,J
-  11,L
+  13,L
+   1,L
   15,L,U,X
-  25,L
+  21,L
 #Rooftop
 
-Read,oD3A,Rooftop,lvl_roof03
+Read,D3A,Rooftop,lvl_roof03
 #1x
 
 #lvl_roof03
@@ -2923,4 +2925,4 @@ Read,D3A,lvl_roof04,lvl_roof06
    1,S
    1,D,J
   18
-ChapterTime: 8:33.230(30190)
+ChapterTime: 8:32.635(30155)
