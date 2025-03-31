@@ -1,7 +1,7 @@
 #5SHC 56x (R)
 
 unsafe
-console load1 5
+console load 5
    1
 
 #Start
