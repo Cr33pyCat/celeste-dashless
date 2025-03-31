@@ -5,7 +5,7 @@ console load 3
 
 #Start
 
-Read, D3SH, Start, lvl_02-c (1)
+Read, D3SH_, Start, lvl_02-c (1)
 #24x
 
 #lvl_02-c (1)
@@ -176,7 +176,7 @@ EndRepeat
    9,R,J,G
   40
 
-Read, D3SH, lvl_04-d
+Read, D3SH_, lvl_04-d
 #7x
 
-ChapterTime: 8:56.809(31577)
+ChapterTime: 8:51.590(31270)
