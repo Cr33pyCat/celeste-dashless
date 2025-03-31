@@ -1,15 +1,15 @@
-#5SHC 57x (R)
+#5SHC 56x (R)
 
 unsafe
-console load 5
+console load1 5
    1
 
 #Start
 
-Read,D5S,Start,cassette
-#33x
+Read,D5S_,Start,cassette
+#32x
 
-#lvl_b-17
+#lvl_b-17 (0)
 #0x
   10,D
   26,L,D
@@ -113,7 +113,7 @@ Read,D5S,Start,cassette
    6,L
   40
 
-#lvl_b-17
+#lvl_b-17 (1)
 #0x
    1,L
    3,L,J
@@ -157,10 +157,10 @@ Read,D5S,Start,cassette
    8,L
   58
 
-Read,D5S,lvl_b-13 (2),lvl_b-02 (4)
+Read,D5S_,lvl_b-13 (2),lvl_b-02 (4)
 #8x
 
-#lvl_b-02
+#lvl_b-02 (0)
 #1x
    1,L,J
   30,L,D
@@ -203,7 +203,7 @@ Read,D5S,lvl_b-13 (2),lvl_b-02 (4)
   59,D
   40
 
-#lvl_b-02
+#lvl_b-02 (1)
 #0x
   75,R,D
    1,R,J
@@ -218,7 +218,7 @@ Read,D5S,lvl_b-13 (2),lvl_b-02 (4)
 Read,D5A,lvl_b-06,lvl_b-14
 #2x
 
-#lvl_b-14
+#lvl_b-14 (0)
 #1x
   28
   33,R,D
@@ -232,7 +232,8 @@ Read,D5A,lvl_b-06,lvl_b-14
    1,R
    1,R,J
   18,R
-  91
+#key cycle
+  97
    1,J
   14,R
    1,R,J
@@ -277,7 +278,7 @@ Read,D5A,lvl_b-06,lvl_b-14
    3,L
   40
 
-#lvl_b-14
+#lvl_b-14 (1)
 #1x
   11,L
    1,L,J
@@ -319,7 +320,7 @@ Read,D5A,lvl_b-06,lvl_b-14
 Read,D5A,lvl_b-16,lvl_c-08
 #5x
 
-Read,D5S,lvl_c-08
+Read,D5S_,lvl_c-08
 #3x
 
-FileTime: 13:47.322(48666)
+FileTime: 13:33.399(47847)
