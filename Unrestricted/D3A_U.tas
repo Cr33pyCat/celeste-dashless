@@ -327,7 +327,7 @@ console load 3
    4,R,D,J
   40
 
-#lvl_02-a
+#lvl_02-a (0)
 #0x
    4,R,J
    4,R
@@ -421,7 +421,7 @@ console load 3
    7,R
   40
 
-#lvl_02-a
+#lvl_02-a (1)
 #0x
    8,R
    1,L
@@ -636,7 +636,7 @@ console load 3
    6,R,K,G
   40
 
-#lvl_07-a
+#lvl_07-a (0)
 #0x
    3,R,J
    1,L,K,G
@@ -649,7 +649,7 @@ console load 3
    1,L,K,G
   40
 
-#lvl_07-b
+#lvl_07-b (0)
 #0x
    2,J,G
    1
@@ -857,7 +857,7 @@ console load 3
   11,L
   40
 
-#lvl_07-b (2)
+#lvl_07-b (1)
 #0x
    3,L
    4,L,J
@@ -892,7 +892,7 @@ console load 3
   13,L,D
   40
 
-#lvl_07-a
+#lvl_07-a (1)
 #0x
   14,L,D
    1,R,D
@@ -1063,7 +1063,7 @@ console load 3
    6,R,J
   40
 
-#lvl_09-b
+#lvl_09-b (0)
 #0x
   12,R,J
    1,L,J
@@ -1245,7 +1245,7 @@ console load 3
   12,R,K
   40
 
-#lvl_10-c
+#lvl_10-c (0)
 #0x
    1,R,J,G
    2,R
@@ -1477,12 +1477,12 @@ EndstunPause
   35,L,D
   40
 
-#lvl_10-c
+#lvl_10-c (1)
 #0x
   43,L,D
   41
 
-#lvl_09-b
+#lvl_09-b (1)
 #0x
   11,D
    8,R,D
@@ -1555,7 +1555,7 @@ EndstunPause
   18,R,D
   40
 
-#lvl_10-x
+#lvl_10-x (0)
 #0x
    2,L,D
    6,R,D
@@ -1763,7 +1763,7 @@ EndstunPause
   12,L,J,G
   40
 
-#lvl_10-x
+#lvl_10-x (1)
 #1x
   11
    1,R,J
@@ -1800,7 +1800,7 @@ EndstunPause
   40
 
 #H2-Return
-#lvl_09-b
+#lvl_09-b (2)
 #0x
    4,L
   11,L,J,G
@@ -2103,7 +2103,7 @@ EndstunPause
   10,L
   40
 
-#lvl_09-b
+#lvl_09-b (3)
 #0x
    1,L
   10,L,J
@@ -2326,7 +2326,7 @@ EndStunPause
   10,L,D
 ###
  200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971086 * 170000l)
+console EvalLua Celeste.SaveData.Instance:AddTime(session.Area, 24971086 * 170000)
 Set, Level.TimeActive, 524281.625
 Set, Session.Time, 4247751240000
  200
@@ -2568,7 +2568,7 @@ EndStunPause
   22,R,J
 ###
  200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24984071 * 170000l)
+console EvalLua Celeste.SaveData.Instance:AddTime(session.Area, 24984071 * 170000)
 Set, Level.TimeActive, 524279.5625
 Set, Session.Time, 8495593090000
  200
