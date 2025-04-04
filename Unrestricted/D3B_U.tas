@@ -343,7 +343,7 @@ EndStunPause
    1,R,J
 ###
  200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24982353 * 170000l)
+console EvalLua Celeste.SaveData.Instance:AddTime(session.Area, 24982353 * 170000)
 Set, Level.TimeActive, 524267.09375
 Set, Session.Time, 4247672870000
  200
