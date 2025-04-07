@@ -321,7 +321,8 @@ console load 5
   26,D
   20,R,D
   47,R
-  33,R,D,X
+  23,R,D,X
+  10,R,D
    1,R,J
   61
 
@@ -329,29 +330,25 @@ console load 5
 #0x
   14,R
    1,R,J
-  13,R
-   1
-   1,R,J
   14,R
-   1,R,J
-  10,R
-   2
-   2,R
-  12,D
+  11,R
+   6,R,J
+   3,R
+   1,J
+   9,R
+   6
+   1,R
    1,R
    1
-   1,R
    1
-   1,R
-   1
-   1
-Repeat,23
+
+Repeat,25
    1,L,D
    1
    1,R,D
    1
 EndRepeat
-   9,R
+   8,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -681,8 +678,7 @@ EndRepeat
   13,R
    1,R,J
   21,R
-  15,R,X
- 137
+ 152,R,X
   40
 
 #lvl_b-14
@@ -778,6 +774,8 @@ AnalogMode,Ignore
 #0x
  111
    1,S
+#    1,D
+#    1,J,F,180
    1,D
    1,J,F,180
 SaveAndQuitReenter
@@ -2609,4 +2607,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-ChapterTime: 5:44.862(20286)
+ChapterTime: 5:44.828(20284)
