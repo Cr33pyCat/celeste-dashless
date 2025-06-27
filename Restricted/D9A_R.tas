@@ -35,9 +35,9 @@ Set,DashMode,Normal
 #play,Reconciliation 2
 
 #console load 10 74243 -10525 40
-#  37
+#   37
 #EvalLua level:Add(Celeste.Glider(Vector2(74243, -10525), false, false))
-#  13,G
+#   13,G
 #Set,Glider.Position,74244.1000,-10538.0474
 #play,Farewell
 
@@ -7193,62 +7193,67 @@ AnalogMode,Precise
   16,D,G
    7,R,D,G
    1,D,G
-  61,R,D,G
+  57,R,D,G
+   1,R,G
+   1,R,D,G
+   1,R,G
+   1,R,D,G
    1,R
   23,R,D
    1,R
-  24,R,U,Z
-   7,L,J,G
-   5,J
-   1,K,G
-   7
-  19,J,G
-   2,L,J,G
-   1,L,D
-   1,L,J,G
-   1,K,G
+  19,R,U,Z
    4,L
-   1
-   1,R,K
-  19,R,G
-   2,G
+   1,L,J,G
+   2,J
+   1,K
+   2,R,K
+   9,L,K
+   7,L
+  16,L,K,G
+   1,L,G
+   4,L,K,G
+   1,L,D
+   1,J,G
+   3,L,J
+   1,R,J
+  14,R,J,G
+   3,R,G
+   4,G
    1,D
   21,G
    1,R,D
-  17,R,G
-   4,G
-   1,R,D
-  15,R,G
-   6,G
-   1,R,D
-  18,R,G
-   3,G
-   1,D
-  16,R,G
-   4,G
-   1,R,G
-   1,G
-   1,D,J
   20,R,G
-   2,G
-   1,D,J
+   1,G
+   1,D
   14,R,G
-   2,G
+   1,G
    1,R,G
    5,G
    1,R,D
-  21,R,G
+  16,R,G
+   5,G
+   1,R,D
+  16,R,G
+   5,G
+   1,R,D
+  17,R,G
+   4,G
+   1,D
+  17,R,G
+   2,G
+   1,R,G
+   1,G
+   1,D
+  14,G
+   7,R,G
    1,L
-  46,R,U,J,G
-   4,R,D,G
-   8,D,G
-   6,R,D,G
-   1,D,G
-  40,R,D,G
-   1,R,G
-   1,R,D,G
-   1,R,G
-   1,R,D,G
+  33,R,U,J,G
+   1,R,U,G
+   2,R,U,J,G
+   6,R,U,G
+  10,R,D,G
+   5,D,G
+  50,R,D,G
    3,R
   14,U,G
    2,G
@@ -7260,8 +7265,8 @@ AnalogMode,Precise
    2,R,K,G
    1,R,J,G
    1,R,K,G
-   6,R
-   1
+   4,R
+   3
   13,R,G
    1,R,J,G
   13,R,D,G
@@ -7301,25 +7306,25 @@ AnalogMode,Precise
    7,L,K,G
   14,L,G
    4,L,J,G
-  31,L,D,G
-   6,L,J,G
-  14,L,U,G
-   1,L,U,J,G
-   2,L,U,G
-   1,U,G
- 234,L,U,G
-  55,L,U,J,G
-  16,L,D,G
-  34,L,U,K,G
-  41,L,U,G
-  11,L,J,G
-  75,L,U,G
+  14,L,G
+   1,L,D,J,G
+  18,L,D,G
+   9,L,J,G
+ 240,L,U,G
+   8,L,D,G
+  52,L,U,J,G
+  17,L,D,G
+  36,L,U,K,G
+  39,L,U,G
+   1,L,G
+  10,L,J,G
+  76,L,U,G
   10,L,D
   21,L,D,X
-   3,J
-   7,L
-   3,L,J
-  10,L
+   4,J
+   5,L
+   1,L,J
+  13,L
    1
    1,L
    1
@@ -7486,8 +7491,9 @@ AnalogMode,Precise
   27,L,U
  182,F,0.6
   38
+AnalogMode,Ignore
 #End_IGT
-ChapterTime: 17:22.559(61327)
+ChapterTime: 17:22.440(61320)
 
 # optional waiting for
 # visuals to play out
