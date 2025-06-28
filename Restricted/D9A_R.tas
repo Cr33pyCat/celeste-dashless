@@ -10,12 +10,12 @@ Set,DashMode,Two
 #play,Remembered,37
 
 #console load 10 18557 -6217
-#  37
+#   37
 #Set,Level.TimeActive,369.753845
 #play,Event Horizon,1
 
 #console load 10 28110.3 -8086
-#  37
+#   37
 #Set,Level.TimeActive,480.893371
 #play,Determination
 
@@ -28,9 +28,9 @@ Set,DashMode,Normal
 #play,Reconciliation 1,158
 
 #console load 10 61291 -10523.4
-#  37
+#   37
 #EvalLua level:Add(Celeste.Glider(Vector2(61291, -10523), false, false))
-#  13,G
+#   13,G
 #Set,Glider.Position,61290.5489,-10534.7507
 #play,Reconciliation 2
 
@@ -6635,60 +6635,50 @@ AnalogMode,Precise
    1,D
   21,R,G
    1,L
- 198,R,U,J,G
+ 198,R,U,G
    1,U,G
    1,R,U,G
    8,R,D
    1,D
   12,U,X
   16,G
-  96,R,U,G
-  17,R,D,G
-   2,R,J,G
-   3,R,J
+ 101,R,U,G
+   1,R,G
+   1,R,U,G
+  10,R
+   2
    1,R
-   8,R,D,X
-   6
+   2
+   9,L,Z
    1,R,J
-   6,R
+   1,R
+   1,R,J
+   2,R
    2,R,J
-   1,R
-   1,R,J
-   1,R
-   4,X
-   1,L,D,X
-  12
-   5,R,J
-   7,R
-  29,R,D,G
-   3,R,G
-   9,R,D,G
-   4,R,J,G
-   9,R,G
-   1,R,J,G
-  30,R,D,G
-   1,R,J,G
+  10,R,U,X
+  39,R,J,G
+  13,R,D,G
+   7,L,D,G
   18,R,D,G
   40
 
 #lvl_j-10
 #4x
-   4,D,G
-   2,R,D,G
    1,D,G
-   2,R,D,G
+  16,R,D,G
    1,D,G
-   7,R,J,G
-   1,R,D,G
+   1,R,G
    1,D,G
-   7,R,D,G
+   1,R,G
    1,R,J,G
-   8,R,D,G
-  17,D,G
+   9,R,G
+   1,R,J,G
+   2,R,G
+  18,D,G
   50,R,D,G
-  11,R,U,G
+  12,R,U,G
    1,R,D,G
-  24,R,U,G
+  23,R,U,G
   26
   72,R,D,G
   11,D,G
@@ -6788,7 +6778,9 @@ AnalogMode,Precise
   54,L,U,G
    1,L,D,G
    9,R,D,G
-  29,R,U,G
+  27,R,U,G
+   1,R,G
+   1,R,U,G
    1,R,G
    1,R,U,G
    1,R
@@ -6806,8 +6798,9 @@ AnalogMode,Precise
    3,L
    2,R
    1,R,J
-  17,R,D
+  16,R,D
    1,R
+   1,R,D
    2,G
 Repeat,47
    1
@@ -6823,9 +6816,9 @@ EndRepeat
    2
   14,D,J,G
    1,R,D,G
-   1,D,G
+   3,D,G
    1,D,J,G
-  10,D,G
+   8,D,G
    1,R,D,G
    1,D,G
    7,R,D,G
@@ -7491,9 +7484,9 @@ AnalogMode,Precise
   27,L,U
  182,F,0.6
   38
-AnalogMode,Ignore
 #End_IGT
-ChapterTime: 17:22.440(61320)
+AnalogMode,Ignore
+ChapterTime: 17:21.777(61281)
 
 # optional waiting for
 # visuals to play out
