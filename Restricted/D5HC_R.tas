@@ -424,7 +424,9 @@ Read,D5A,lvl_b-06,lvl_b-14
    1,R
    1,R,J
   18,R
-  91
+### Key Cycle
+  96
+###
    1,J
   14,R
    1,R,J
@@ -511,4 +513,4 @@ Read,D5A,lvl_b-06,lvl_b-14
 Read,D5A,lvl_b-16
 #8x
 
-ChapterTime: 6:59.645(24685)
+ChapterTime: 6:59.492(24676)
