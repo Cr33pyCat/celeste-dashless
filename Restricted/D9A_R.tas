@@ -7450,8 +7450,7 @@ AnalogMode,Precise
   96,R,U,J,G,AL
    1,G
    5,R,U,G
-   1,R,D,G
-  14,R,D,G
+  15,R,D,G
    1,R,G
    4,R,D,G
  514,R,U,G,AL
