@@ -1,4 +1,4 @@
-#4B 31x (R)
+#4B 30x (R)
 
 console hard 4
    1
@@ -669,7 +669,7 @@ EndRepeat
   40
 
 #lvl_c-01
-#2x
+#1x
    4,R
   10,R,J
   18,R,D
@@ -681,33 +681,39 @@ EndRepeat
    1,L
    7,R
   46,R,J
-  19,J
-  25,R,J
-  30,R,K
-   8,R
-  10,R,Z
-  12,R,J
-  17,R,D
-   3,D
-  10
-   1,R
-   2
-   1,R
-  26
-  19,R
-   1,R,J
-  26,L,J
-  35,D
+  66
+   5,L
+   2,L,D,J
+  35,R,J
+  66
+  50,R,J
+  71
    7,R
-  52,R,D,J
-  15,R,U,X
+  30,R,J
+  36
+   1,R
+   1,D
+   1
   10,R
-   8,R,J
-  35,R,D
-   3,D
-   1,R,J,G
-   1,R,K,G
-  13,R
+   1,R,J
+  24,R
+   1,R,D
+   1,R
+   5,R,D
+   1,R
+  14,R,Z
+   1,R,J
+   4,R
+  12,R,D,J
+   5,R
+   3
+   2,R
+   1
+   1,R
+   2,R,J
+   5,R
+   6,R,J
+  46,R
    1,R,J
   14,R
   40
@@ -1262,4 +1268,4 @@ endrepeat
   19
   17,R,D
  144,R,X
-ChapterTime: 3:22.725(11925)
+ChapterTime: 3:24.918(12054)
