@@ -7294,7 +7294,11 @@ AnalogMode,Precise
    1,R,G
   24,R,U,G
   26
- 130,R,U,G
+  29,R,D,G
+   1,D,G
+  52,R,D,G
+  38,R,U,J,G
+   9,R,U,G
    2,R,D
   15,R,D,X
    3,R
@@ -7503,7 +7507,7 @@ AnalogMode,Precise
   38
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:21.148(61244)
+ChapterTime: 17:21.131(61243)
 
 # optional waiting for
 # visuals to play out
