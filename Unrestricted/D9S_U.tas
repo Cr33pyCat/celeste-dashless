@@ -1,4 +1,4 @@
-#FAREWELL MOON BERRY 68x (U)
+#FAREWELL MOON BERRY 67x (U)
 
 #StunPauseMode,Simulate
 
@@ -8,7 +8,7 @@ console load 10
 
 #Start
 Read, D9A, Start, lvl_j-16
-#66x
+#65x
 
 #lvl_j-16
 #1x
@@ -107,11 +107,7 @@ StunPause
    7,L,D
   35,D
    6,L,D
-EndStunPause
-StunPause
    1,L,D
-EndStunPause
-StunPause
   32,L,D
   49,R,G
   31,R,D,G
@@ -125,16 +121,28 @@ StunPause
    1,D
   22,R,G
    1,R
-  24,R,D,G
+   6,R,D,G
+EndStunPause
+StunPause
+   1,R,D,G
+EndStunPause
+StunPause
+  17,R,D,G
   24,D,G
   21,R,D,G
 EndStunPause
-  48,R,U,G
+  47,R,U,G
 StunPause
-   2,R,U,G
+   3,R,U,G
    1,R
   29,L
- 160,R,J,G
+ 134,R,J,G
+EndStunPause
+StunPause
+   1,R,J,G
+EndStunPause
+StunPause
+  25,R,J,G
    7,D,G
   28,U,J,G
   10,R,U,J,G
@@ -172,17 +180,18 @@ StunPause
    3,U,G
    1,R
   36,L,U,G
+   1,L,D,G
 EndStunPause
-  35,L,D,G
+  34,L,D,G
    8,L,G
   46,R,G
    6,G
    1,L
   20,D
   60,R
-  10,R,U,G
+   8,R,U,G
 StunPause
-  21,R,U,G
+  23,R,U,G
    1,D
    1,K
   25,R,K
@@ -230,34 +239,26 @@ StunPause
   12,G
   13,R,G
    1,L
-  12,R,G
-EndStunPause
-StunPause
-   1,R,G
-EndStunPause
-StunPause
-   3,R,G
-   5,R,G
+  21,R,G
    1,L
    8,R,J
-EndStunPause
-  77,R,J
-#Didn't want to add waiting frames somewhere else
-#So this is just to wait about 3 secs
-StunPause
+  61,R,J
+  16,R,J
   29,R,J
-EndStunPause
+SkipInput 3 1
   14,R,U,J,X
-  33,R,U,J,G
+  16,R,U,J,G
+EndStunPause
+  17,R,U,J,G
 StunPause
-  21,R,U,J,G
+  19,R,U,J,G
 EndStunPause
 StunPause
    1,R,U,J,G
 EndStunPause
 StunPause
-SkipInput 3 81
- 101,R,U,J,G
+SkipInput 3 83
+ 103,R,U,J,G
    1,D
    1,R,J,G
    6,R,G
@@ -283,13 +284,13 @@ Repeat 3
    1,L,D
    1,D
 EndRepeat
-  24,L,G
+  22,L,G
 EndStunPause
 StunPause
    1,L,G
 EndStunPause
 StunPause
- 101,L,G
+ 103,L,G
   10,R,J,G
   24,R,J
 EndStunPause
@@ -332,7 +333,7 @@ EndStunPause
    1,K,G
   40
 
-#lvl_j-17
+#lvl_j-17 (0)
 #0x
   17,L,G
    1,R
@@ -357,7 +358,7 @@ EndStunPause
   19,D
   40
 
-#lvl_j-17
+#lvl_j-17 (1)
 #0x
    1,S,N
    1,U,N
@@ -525,7 +526,7 @@ EndStunPause
    1,U,G
    1,R,U,G
   27,L,U,G
-StunPause 
+StunPause
   63,L,U,G
    3,L,D,G
    1,L,D
@@ -740,7 +741,7 @@ EndStunPause
    1,S,N
    1,D,J
   18
-ChapterTime: 236:29:52.453(50081909)
+ChapterTime: 236:30:27.626(50083978)
 #Let moon berry sfx play
  100
 
