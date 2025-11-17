@@ -246,7 +246,11 @@ Read,D9A,Start,lvl_j-14
    1,R,G
   24,R,U,G
   26
- 130,R,U,G
+  29,R,D,G
+   1,D,G
+  52,R,D,G
+  38,R,U,J,G
+   9,R,U,G
    2,R,D
   15,R,D,X
    3,R
@@ -833,7 +837,7 @@ EndRepeat
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 18:29.369(65257)
+ChapterTime: 18:29.029(65237)
 
 #Let moon berry sfx play
  100
