@@ -12,7 +12,7 @@ Set,DashMode,Two
 #console load 10 18557 -6217
 #   37
 #Set,Level.TimeActive,369.753845
-#play,Event Horizon,1
+#play,Event Horizon,2
 
 #console load 10 28110.3 -8086
 #   37
@@ -2813,8 +2813,6 @@ EndRepeat
    1,S,N
    1,D,J
   34
-
-#Post-Heart
    2
   12,R,Z
    1,R,J
@@ -2827,161 +2825,88 @@ EndRepeat
    5,R
    2,R,K
    4,R
-  22,R,J
-   1,R,K,G
-   1
-  10,R
-   3,R,J
-  12,R
+  18,R,J
+   1,R
    1,R,J
-   5,R
-   2,R,J
+   2,R
+   1,R,K,G
+   1,R
+   1
+   7,R
+   3,R,J
+   9,R
+   1,R,J
+   3,R
+   1,R,K,G
+   8,R
+   1
   40
 
 #EVENT HORIZON 46x
 #lvl_f-door
 #3x
-   1,R
-   2,R,J
-   1,R
-   1,R,J
-   4,R
-  36,R,K
-  10,L,J
-  10,R,Z
-   1,R,J
    2,R
-   4
-   1,R,J
-  18,R,D,X
-   5,R
+   1
+   1,R
+   2,R,D,J
+   2,R
+   6,L
+   1,L,J
+   9,L,D
+   1,J,G
+   5,L
+   2
+   1,R
+   4,R,J
+   2,R
+  15,R,X
+   1,G
+   5,R,C
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+   1,R
+   3
+   6,R
+  11,R,J
+   8,R
    1,R,J
    6,R
-   8,R,J
-   5,R
-  16,R,J
-   1
-  15,R
-   1,K,G
-   1,R,K
-   1,L,K
-   1,R,K
-   7,R,J,G
-   7,K,G
-   1
-   1,L
-   1,J
-  16,R,K,G
-   1,R,J,G
    1,R,K,G
+   3
+   6,R
+   1,R,J
+   5,R
+   3,R,J
+  24,R,D
+   1,R,J
+   8,R
+  14,R,U,X
+   1,R,J,G
    1,R
    1
-   7,R
+   8,R
    1,R,J
   14,R
-   1,R,J
-   2
-  11,R
-   1
-   4,R,J
-   1,R,K,G
-   1,R,J,G
-   2,J
-   4
-  20,R
-  17,R,J
-   1,K,G
-   1,L,K
-  14,R,J,G
-  11,K,G
-   1,L,K
-  14,R,J,G
-  10,K,G
-   1,L,K
-   1,L,J
-  22,L,D
-  12,R,D
-Repeat,6
-   1,L,D
-   1,R,D
-EndRepeat
-   1,R,D,J
-Repeat,9
-   1,L
-   1,R
-EndRepeat
-   6,R,J
-   1,K
-Repeat,7
-   1,L,D
-   1,R,D
-EndRepeat
-   1,L,D
-Repeat,3
-   2,R,D
-   1,L
-EndRepeat
-   8,R,D
-   3,R
-Repeat,23
-   2,L,D
-   1,R
-EndRepeat
-  16,R,D,J
-   1,K,G
-   2,R,K
-   2,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-   1,K,G
-   1,R,K
-   1,L,K
-   1,R,K
-   1,J,G
-  24,L,D
-  12,R,D
-   1,J
-   4,R,J
-   9,L,J
-  14,R,Z
-   1,R,J,G
-   1,R
-   1
-   2,R
-   1,R,J
-   1,R,K
-   2,R,J
-   5,R
-   3,R,D,J
-   3,R
-   1,R,K,G
-   1,R
-   1
-   7,R
-   1,R,D,J
-   9,R
   40
 
 #lvl_f-00
 #4x
-   5,R
-   1
-   3,R
-   2,R,D,J
-   6,R
    1,R,J
-   2,R
-   2,R,J
+  12,R
+   6,R,J
    9,R
-   1,R,D,J
-  14,R
+   3,R,J
+   9,R
    1,R,J
-  13,R
+  12,R
    9,R,J
-  47,R,K
-  36,U,X
+   5,R
+  11,R,J
+  27,U,X
   33,R,C
   21,D,X
    9,R,D
@@ -3277,10 +3202,9 @@ EndRepeat
 #Spinner cycle (f-05)
 #0-1
 
-   0
+   1
 # ---------
 
-#9T1
    3,J,G
    1,R,J
    1,K
@@ -3344,7 +3268,6 @@ EndRepeat
    0,R
 # ---------
 
-#9T2
    1,J
   19
   15,R,Z
@@ -7507,7 +7430,7 @@ AnalogMode,Precise
   38
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:21.131(61243)
+ChapterTime: 17:12.716(60748)
 
 # optional waiting for
 # visuals to play out
