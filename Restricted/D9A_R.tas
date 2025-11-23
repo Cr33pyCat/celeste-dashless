@@ -2814,79 +2814,58 @@ EndRepeat
    1,R
    1
    7,R
-   3,R,J
-   9,R
-   1,R,J
-   3,R
-   1,R,K,G
-   8,R
+   2,R,J
+  14,R
+   1,R,J,G
+   1,R
    1
+   7,R
+   1,R,J
+   1,R
   40
 
 #EVENT HORIZON 46x
 #lvl_f-door
 #3x
-   2,R
-   1
-   1,R
-   2,R,D,J
-   2,R
-   6,L
-   1,L,J
-   9,L,D
-   1,J,G
-   5,L
-   2
-   1,R
-   4,R,J
-   2,R
-  15,R,X
-   1,G
-   5,R,C
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1,R,J,G
-   1,R
-   3
-   6,R
-  11,R,J
-   8,R
-   1,R,J
-   6,R
-   1,R,K,G
-   3
-   6,R
-   1,R,J
-   5,R
-   3,R,J
-  24,R,D
-   1,R,J
-   8,R
-  14,R,U,X
-   1,R,J,G
-   1,R
-   1
-   8,R
-   1,R,J
   14,R
-  40
+  14,R,D,J
+   2,J
+   2,R,J
+   1,R,K,G
+   5,R,J,G
+  18,R
+  10,L,X
+   1,L,J
+   5,L
+   2,L,J
+   4,L
+   7
+  15,R,Z
+   1,R,G
+   1,R
+   5,R,D,X
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+  30,R,J,G
+  35,R,K
+   6,R,D
+   1,R,J
+   9,R
+  43
 
 #lvl_f-00
 #4x
-   1,R,J
-  12,R
-   6,R,J
    9,R
    3,R,J
-   9,R
+   5,R
    1,R,J
   12,R
-   9,R,J
+   4,R,J
    5,R
-  11,R,J
+   6,R,J
+   1,R
+   6,R,J
   27,U,X
   33,R,C
   21,D,X
@@ -7414,7 +7393,7 @@ AnalogMode,Precise
   38
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:10.166(60598)
+ChapterTime: 17:09.860(60580)
 
 # optional waiting for
 # visuals to play out
