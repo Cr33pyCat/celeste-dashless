@@ -2863,11 +2863,13 @@ EndRepeat
    5,R
    8,R,J
   26,U,X
-  27,R,C
-  22,D,X
+  22,R,C
+   5
+   1,R
+  21,D,X
    9,R,D
    3,R
-  16,R,J
+  15,R,J
    1,R,K,G
    3,L,K
    2,K
@@ -3224,7 +3226,7 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   2,R
+   0,R
 # ---------
 
    1,J
@@ -7389,7 +7391,7 @@ AnalogMode,Precise
   38
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:09.860(60580)
+ChapterTime: 17:09.809(60577)
 
 # optional waiting for
 # visuals to play out
