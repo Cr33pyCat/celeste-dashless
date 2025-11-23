@@ -1243,70 +1243,70 @@ EndRepeat
    1,D,J
   24,J,G
    1,D,J
-  24,J,G
-   3,K,G
-   2,K
-  15,R,X
-   6
-   7,R,C
-  12
-  19,R
-  33,R,U,G
-   6,R,D,G
+  23,J,G
+   1,L,J,G
+   2,K,G
+   6,K
+  15,R,D,X
    1,R,G
-   9,R,D,G
+   6
+   5,R,D,C
+  12
+  28,R
+  28,R,U,G
+  13,R,D,G
    6,D,G
   13,L,D,G
    1,D,G
    2,L,D,G
   32,R,D,G
    1,D,G
-  16,R,D,G
-   1,R,G
-   1,R,D,G
-   1,R,G
+  15,R,D,G
+   4,R,G
    5,R,J,G
-   2,G
-   1,R,G
+   2,J,G
+   1,R,J,G
   38,R,U,G
-   8,L,U,G
-  18,L,D,G
-   8,L,U,G
-   1,L,D,G
-   1,L,U,G
+   7,L,U,G
+  19,L,D,G
+  10,L,U,G
    6,L,D
-   7,L,J,G
-  14,R,K
-  31,R,K,G
+   5,L,J,G
+   1,L
+   1,K,G
+  14,R,J
+  30,R,D,J,G
+   1,R,D,G
   43
 
 #lvl_d-04
 #0x
-  15,R,U,K,G
-  28,R,J,G
-   1,R,J
-  24,R,J,G
-   5,J,G
-   1,R,D,J
-  19,G
-   2,R,G
-   1,D
-  14,G
-   7,R,G
-   1,R,D
-  19,G
-   2,R,G
-   1,R,D
-  17,G
-   4,R,G
-   1,R,D
+   6,R,D,G
+  28,R,K,G
+   1,R,K
+  24,R,K,G
+   1,R,K
+  27,R,K,G
+   1,K,G
+   1,D,K
   20,G
    1,R,G
-   1,D
-  21,R,G
-   1,L
- 117,R,U,J,G
-  31,R,D,G
+   1,R,D
+  15,R,G
+   6,G
+   1,R,G
+   1,R,D,K
+  16,R,G
+   5,G
+   1,R,G
+   1,D,K
+  14,G
+   8,R,G
+   1,L,K
+ 117,R,U,K,G
+  19,R,D,G
+   1,R,G
+   8,R,D,G
    1,L
   15,R,D
    1,S,N
@@ -3256,7 +3256,7 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   0,R
+   2,R
 # ---------
 
    1,J
@@ -7211,38 +7211,38 @@ AnalogMode,Precise
   29,R,D,G
    1,D,G
   52,R,D,G
-  38,R,U,J,G
-   9,R,U,G
-   2,R,D
-  15,R,D,X
-   3,R
+   8,R,J,G
+   5,R,G
+   2,R,J,G
+  30,R,D,G
+   1
+  15,R,Z
+   1,R,G
    6
    1,J
-   4
+   6
    3,L
-   1,L,J
-   2,L
    4,X
    1,R,D,X
   12
-  13,L,J
-  62,L,U,J,G
-   4,L,D,G
-   1,L,G
-   1,L,D,G
+   1,L,J
+  63,L,U,J,G
+  11,L,D,G
    7,L,K,G
   14,L,G
    4,L,J,G
-  14,L,G
-   1,L,D,J,G
-  18,L,D,G
+  12,L,G
+   1,L,J,G
+  20,L,D,G
    9,L,J,G
  240,L,U,G
    8,L,D,G
-  52,L,U,J,G
-  17,L,D,G
-  36,L,U,K,G
-  39,L,U,G
+  53,L,U,J,G
+  15,L,D,G
+   1,L,G
+   1,L,D,G
+  34,L,U,K,G
+  40,L,U,G
    1,L,G
   10,L,J,G
   76,L,U,G
@@ -7421,7 +7421,7 @@ AnalogMode,Precise
   38
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:12.665(60745)
+ChapterTime: 17:12.053(60709)
 
 # optional waiting for
 # visuals to play out
