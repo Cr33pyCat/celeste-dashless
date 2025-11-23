@@ -2857,17 +2857,19 @@ EndRepeat
 #lvl_f-00
 #4x
    9,R
-   3,R,J
-   5,R
-   1,R,J
-  12,R
-   4,R,J
-   5,R
    6,R,J
-   1,R
+   5,R
+   2,R
+  11,R
+   1,R,D
+   1,R,D
+   2,R
    6,R,J
+   6,R
+   5,R,J
+   2,R,J
   27,U,X
-  33,R,C
+  27,R,C
   21,D,X
    9,R,D
    3,R
@@ -3228,9 +3230,8 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   0,R
+   2,R
 # ---------
-
    1,J
   19
   15,R,Z
