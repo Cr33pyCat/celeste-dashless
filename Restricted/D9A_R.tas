@@ -96,7 +96,7 @@ EndRepeat
    6,J
    3,O
    1,J
- 299,O
+ 310,O
    1,S,N
    1,D,J
   34
@@ -107,30 +107,26 @@ EndRepeat
 #5x
   26,R
    1,R,J,G
-   1,K
-   6,R,J,G
+   1,R,K,G
+   1
+  10,R
+  10,R,J
+  39,R,D
+   7,R,J
+   8,R
+   1,R,J
    9,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
    1
-   9,R
-  11,R,J
-  39,R,D
-   7,R,J
-   5,R
-   1,R,J
-  13,R,D
-   1,R,J
-   1,R,K,G
-   1,R
-   1
-  11,R
+   7,R
+   3
    5,L,D,X
    1,L,J,G
    2,L,K,G
-   3,K
-  19
+  22
   10,R,Z
    1,R,J
    1,R,K,G
@@ -140,21 +136,23 @@ EndRepeat
    1,R
   14,R,D,X
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
    7,R
-   3,R,J
+   2,R,J
+   1,R
    5,R,D,X
    1,R,J,G
    2,R,K,G
    1,R,J,G
    3,R,K,G
-   6
+   6,R
    1,S,N
   10,J
-   1,J
+   1,R,J
    1,R
-   7,R,J
-   5,J
+   2,R,J
+   9,J
+   1
    6,R,U,X
   40
 
@@ -980,7 +978,7 @@ EndRepeat
 #0x
    1,R,U,X
  105,R,D
-ChapterTime: 2:18.499(8147)
+ChapterTime: 2:18.346(8138)
 
 #end-granny
  122
