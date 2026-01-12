@@ -1,3 +1,4 @@
+FileTime: 4:16.921(15113)
 #Start from Begin
 
 Read,../CelesteTAS/StartFullGameFile
@@ -38,7 +39,6 @@ Read,../CelesteTAS/LoadCCheatMode,0,Core
 Read,../CelesteTAS/LoadCCheatMode,Core
 
 Read,D8C,Start
-
   59
    1,J
  196

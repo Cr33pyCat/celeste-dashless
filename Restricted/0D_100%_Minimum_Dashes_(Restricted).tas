@@ -1,5 +1,6 @@
+FileTime: 1:59:09.945(420585)
+#1268x
 #Start from Begin
-# 1268x
 
 #Ensures variants postcard
 #does not appear after 8C
@@ -14,7 +15,7 @@ Read,../CelesteTAS/LoadANoCollects,Prologue
 Read,D1SHC0,Start
 
 #Reenter City
-Read,../CelesteTAS/LoadA,0,control
+Read,../CelesteTAS/LoadA,0,Control
    1,L
    9
    1,J
@@ -40,7 +41,7 @@ Read,../CelesteTAS/LoadA
 
 Read,D4SHC0,Start
 #Reenter Ridge
-Read,../CelesteTAS/LoadA,0,control
+Read,../CelesteTAS/LoadA,0,Control
    1,L
    9
    1,J
@@ -52,10 +53,10 @@ Read,../CelesteTAS/LoadA,0,control
   46
 
 Read,D4SHC1,Start
-
- 297
+  51
+   1,S
    1,J
-  30
+  32
    1,R
    1,F,90
    1,J
@@ -66,7 +67,6 @@ Read, D4SHC2, Start
 Read,../CelesteTAS/LoadAFromB,SkipExit
 
 Read,D5SHC,Start
-
 Read,../CelesteTAS/LoadA
 
 Read,D6HC,Start
@@ -179,4 +179,3 @@ Add 58
    9
    1,L
 Read,../LoadJournalD
-FileTime: 1:59:09.945(420585)
