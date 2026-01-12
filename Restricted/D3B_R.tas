@@ -861,6 +861,7 @@ EndRepeat
    1,R,J
   12,R
   40
+
 #lvl_16
 #1x
    6,R
@@ -888,7 +889,6 @@ EndRepeat
 
 #lvl_17
 #0x
-
    1,J,G
   17
    1,G
@@ -1227,26 +1227,29 @@ EndRepeat
    1,R,J,G
    9,R
    1,R,J
-  18,R,D
+  10,R,D
+   8,D
   40
 
 #lvl_end
 #3x
-   8,R,D
-   3,D
-   2,R,D
-   5,L,D,X
-   9,R
+  11,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   5,L
+   4,R,Z
    1,R,J
-   7,R
-   4,R,J
-  28,R,D
-   6,D
-   4,R,J
    6,R
+   4,R,J
+  25,R,D
+   9,D
+   4,R,J
+   7,R
    3,R,K
    2,R
-   2,R,J,G
+   1,R,J,G
    1,R,K,G
    9,R
    1,R,J
@@ -1263,7 +1266,11 @@ EndRepeat
    1,R,K,G
   11,R,J,G
    7,R,K,G
-   5,U,X
- 141
-
-ChapterTime: 2:31.623(8919)
+  11,U,X
+  12
+Repeat,61
+   1,L
+   1,R
+EndRepeat
+   1,L
+ChapterTime: 2:31.555(8915)
