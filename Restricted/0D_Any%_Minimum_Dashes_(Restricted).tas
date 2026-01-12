@@ -6,27 +6,27 @@ Read,../CelesteTAS/0 - Prologue,Start
 
 Read,../CelesteTAS/LoadANoCollects,Prologue
 
-Read,D1A,Start
+Read,D1A_R_SR_U,Start
 
 Read,../CelesteTAS/LoadANoCollects
 
-Read,D2A,Start
-
-Read,../CelesteTAS/LoadANoCollects
-
-Read,D3A,Start
+Read,D2A_R_SR_U,Start
 
 Read,../CelesteTAS/LoadA
 
-Read,D4A,Start
-
-Read,../CelesteTAS/LoadANoCollects
-
-Read,D5A,Start
+Read,D3A_R,Start
 
 Read,../CelesteTAS/LoadA
 
-Read,D6A,Start
+Read,D4A_R,Start
+
+Read,../CelesteTAS/LoadANoCollects
+
+Read,D5A_R,Start
+
+Read,../CelesteTAS/LoadA
+
+Read,D6A_R,Start
 
 Read,../CelesteTAS/LoadANoCollects,0,Summit
 #Summit
@@ -36,7 +36,7 @@ Add 29
   32
 Add 1
 
-Read,D7A,Start
+Read,D7A_R,Start
 
 Read,../LoadCoreFromSummitD,0,Core
  300
@@ -45,3 +45,4 @@ Add 58
  427
 
 Read,../LoadJournalD,0,Any%
+FileTime: 38:13.181(134893)
