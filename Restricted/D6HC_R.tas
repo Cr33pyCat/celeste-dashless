@@ -69,25 +69,27 @@ Read, D6A, lvl_start, lvl_04
   20
   20
    3,G
-   1,L,J
-   2,L
+   1
+   1,R,J,G
+   1,K,G
    1,L,J,G
-   9,L
-   4,L,J
+   7,L
+   1,J
+   2,L
+   2,L,J
   43
 
 #lvl_04e
 #0x
-   1,R,J,G
-   2
-   7,L
-   1,L,K
-  13,L
-   4,L,D,J
-   1,L,K,G
-   3,K
-  14,L,K
-  20,L,J,G
+   6,L,J
+   5,L
+   2,L,J
+  12,L
+   5,L,D
+   3,L
+  13,L,J
+   1,R,K,G
+  13,L,K
  257
    1,J
  123
@@ -490,4 +492,4 @@ Read, D6A, lvl_start, lvl_04
 Read, D6A, lvl_06
 #25x
 
-ChapterTime: 7:50.271(27663)
+ChapterTime: 7:50.152(27656)
