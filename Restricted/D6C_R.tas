@@ -1,4 +1,4 @@
-#6C 12x (R)
+#6C 11x (R)
 
 console rmx2 6
    1
@@ -102,12 +102,12 @@ console rmx2 6
   40
 
 #lvl_02
-#6x
+#5x
    1,R,J
   34,L,D
   13,D
    1,L,D
- 169,D
+ 322,D
    5,D,X
    2,R,J
   11,L,J
@@ -136,31 +136,57 @@ console rmx2 6
   18,R,D
    1,R,J
    6,R
-  12,R,J
-   6,L,D,X
-   1,L,J,G
-  10
-   5,L
-   1,L,K,G
-  29,L
-   7,R
-   1,R,D,J
-  13,R
+  15,R,J
+   1,L,K
+  13,L
    2
-   2,R,J
-   6,R,D,X
+   5,L,D,X
    1,L,J,G
-  19,R
-   7,R,J
-   8,R
-  35,R,J
-  16,U,X
-  12,R,J
-  31,R,D
-   5,D
+  13,L
+   2
+  15,G
+   1,D,G
+   1,G
+   3,U,G
+   2
+   1,L,J,G
+   1,L,K,G
+   5,J,G
+   1,R,J
+  12,L,J
+   6,R,J
+   2,R
+   1,R,J
+   9,R
+   1,R,J
+   5,R
+   1,R,J
+   1,L,K,G
+   1,J,G
+  15,R,D,X
+   5,R,D
+   6,R,J
+   1,R
+   4
+   3,R,J
+   1,R
+   4,R,J
+  18,R
+   2,K
+  11,L,K
+   1,L,J,G
+   1,R,J
+   1,L,J
+   7,J,G
+   1,K
+   2,J,G
+  24,R,J
+  20,R,D
+   8,D
    1,R,D
-   3,L,D
-  31,R
+   6
+  26,R
   17,R,U,X
  135
-ChapterTime: 0:30.447(1791)
+
+ChapterTime: 0:33.524(1972)
