@@ -103,7 +103,7 @@ console rmx2 6
   34,L,D
   13,D
    1,L,D
-  49,D
+  41,D
    5,D,X
    2,R,J
   11,L,J
@@ -138,7 +138,7 @@ console rmx2 6
    2
    5,L,D,X
    1,L,J,G
-  13,L
+  13,L,D
    2
   15,G
    1,D,G
@@ -149,8 +149,10 @@ console rmx2 6
    1,L,K,G
    5,J,G
    1,R,J
-  12,L,J
-   6,R,J
+  11,L,J
+   2,R,J
+   1,J
+   4,R,J
    2,R
    1,R,J
    9,R
@@ -162,8 +164,8 @@ console rmx2 6
   15,R,D,X
    5,R,D
    6,R,J
-   1,R
    4
+   1,R
    3,R,J
    1,R
    4,R,J
@@ -184,4 +186,4 @@ console rmx2 6
   26,R
   17,R,U,X
  135
-ChapterTime: 0:28.883(1699)
+ChapterTime: 0:28.747(1691)
