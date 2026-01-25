@@ -14,7 +14,6 @@ console load 6
 
 Read, D6A, lvl_start, lvl_04
 #8x
-
 #lvl_04 (0)
 #3x
    1,L,J,G
@@ -73,23 +72,22 @@ Read, D6A, lvl_start, lvl_04
    1,R,J,G
    1,K,G
    1,L,J,G
-   7,L
-   1,J
-   2,L
-   2,L,J
+   8,L
+   4,L,J
   43
 
 #lvl_04e
 #0x
-   6,L,J
-   5,L
-   2,L,J
-  12,L
-   5,L,D
-   3,L
-  13,L,J
-   1,R,K,G
-  13,L,K
+   1,R,J,G
+   3,L,J
+   1
+  26,L,D
+   5,L,J
+   1,L
+   2,L,K
+   1,R,K
+  10,J,G
+   4,L,J
  257
    1,J
  123
@@ -492,4 +490,4 @@ Read, D6A, lvl_start, lvl_04
 Read, D6A, lvl_06
 #25x
 
-ChapterTime: 7:50.152(27656)
+ChapterTime: 7:50.050(27650)
