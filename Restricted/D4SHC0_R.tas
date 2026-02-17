@@ -925,18 +925,16 @@ endrepeat
    2,R
   43,R,J
 # get dultra for c-00
-  15,R,D,X
-   3,R,D
-   1,R,G
+  11,R,D,X
+  10,J,G
+   1,L,J
+   1,K
+   2,R,K
    1,R,J,G
-   7,L,J
   12,R,K,G
-   4,R,J,G
-   2,L,K
-  12,L,J
-  12,L,K,G
-   1,R,J
-  15,R,K
+  12,R,J,G
+  12,R,K,G
+   3,J
   40
 
 #lvl_a-09
@@ -2280,15 +2278,18 @@ EndRepeat
   11,R
    2,R,D
   17,L,D
+   2,L,J
    5,L
-  10,L,J
-  12,L
+   2,L,J
+   5,L,G
+   1,L,G
+   4,L,J,G
+  11,L
   10,R,G
-  87,L,U,G
+  61,L,G
    9,L,D,G
-   1
-   1,J
-   7,L,J
+  15,L,G
+   9,L,J
   76,L,K
    5,L,X,G
   20,L,G
@@ -3727,4 +3728,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 5:51.560(20680)
+ChapterTime: 5:51.084(20652)
