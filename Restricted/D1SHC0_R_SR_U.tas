@@ -1203,52 +1203,61 @@ EndRepeat
 #0x
   14,R,D
    1,J
-  20,D
-  24,R,D
-  15,L,D
+  24,D
+  16,R,D
+   1,D
+  16,L,D
+   2,R,D
   40
 
 #lvl_9b (1)
-#1x
+#0x
    1,R,D
    1,R
    9,R,D
-   3,R
-   5
    1,J
    5,R,D
-   2
-   8,R,D
-   1,L,D
    1,G
-   6
-   1,D
    1
-   1,D
-   4
-   1,K
-   5,J,G
+   1,R,D
+   1,R,D
+   1,R,D
+   1,L
+   1
+   1,L,D
+   6,D
+   1,R,D
+   1,L,G
+  10,R,D
+   6,R
+   1
    1,R
-   3
-   3,J
+   1
+   1,R
+   7,J
    3,R,J
-   2,L
-   1,L,K,G
+   1,L,J
+   1,K,G
    1,J,G
    1,L,K,G
-   8,R,K
+  10,R,K
    5,R
-   1,R,K
-   8,R
-   5,R,D,J
+   2,R,K
+   2,R
+   5,R
+   3,R,J
   40,J
 
 
 #lvl_9c
 #0x
-  20,R,J
-  19,R
-  17
+   9,R,J
+   5,R,J
+   4,R,J
+  11,R
+   8,R
+   8
+  10
    1,S,N
    1,D,J
   69,O
@@ -1257,7 +1266,7 @@ EndRepeat
   40
 
 #lvl_9b (2)
-#0x
+#1x
    6,L,J
    4,L
    1,L,J
@@ -1629,4 +1638,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 3:03.277(10781)
+ChapterTime: 3:03.192(10776)
