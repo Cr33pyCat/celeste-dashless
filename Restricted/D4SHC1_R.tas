@@ -464,38 +464,31 @@ EndRepeat
   12,R
    1,R
    1
-   5,R,D,J
-   2,R,K,G
-   4,R
+   5,R,D,K
+   1,R,J,G
+  15,R,K,G
+   1,J,G
+   1,L,J
    1,R,J
-   4,R,J
-   3,R
-   9,R,J
-   1,K
-   2,J,G
-   8,L,J
-   2,J
-   3,R,K,G
+   1,K,G
+   4,L,K
+   6,R,K
+   1,R,J,G
+Repeat, 5
+   1,L,J
+   1,R,J
+EndRepeat
+   1,L,J
+   1,R,J
+   2,L,J
+   1,R,J
+   1,K,G
    1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
    1,J
-  29,L,J
-   1
-   1,L
-   1
-   1,G
-   1,R,J
-   8,R,K
-   7,R
-  14,R
+  11,R,J
+   6,R
+   2,R,J
+   3,R
    1,R,J
    1,R
    1,R,K,G
@@ -662,7 +655,6 @@ EndRepeat
    1,L
    3
    1,R
-
    1,L
    2,L,D
    6,L,G
@@ -684,4 +676,4 @@ EndRepeat
    1,J
   31
 
-FileTime: 1:14.885(4405)
+MidwayFileTime: 1:14.171(4363)
