@@ -630,59 +630,61 @@ console load 4
    1,J,G
    2
    1,R,K,G
-  19,R
-  19
-  18,J
-   4,K,G
-   1,R,K
-   1,L,K
-   1,R,K
-   1,J,G
-   1,L,J
-  10,L,K,G
-   1,J,G
-   7,L,J
-   1,R,J
-   1,K
-   1,J
-   2,L,J
-   1,K
-   5,J,G
-   6,R,J
-   1,R,K,G
-   1,R,J,G
-   3,J
-   5,R,J
-   1,R
-   1,R,K,G
-   8,R
-   1,R,K
-   9,R,J
-   1,K
-   2,J,G
-   8,L,J
+   5
    2,J
-   3,R,K,G
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,J
-  29,L,J
    1
    1,L
    1
-   1,G
+   1,L
+   1,R
+   1,J
+   7
+   6,R,G
+   1,U,G
+  20,R,J,G
+   6,K
+   1,J
+   2,K,G
+  10,L,K
+   1,J,G
+   3,L,J
+   2,J
+   1,L,J
    1,R,J
-   8,R,K
-   7,R
-  14,R
+   1,L,J
+   9,L,K,G
+   1,L,J,G
+   1,K
+   7,J,G
+   3
+   4,R
+   5,R,D,J
+   3,R
+   1,R,J,G
+  12,R,K,G
+   1,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+   4,L,K
+   6,R,K
+   1,R,J,G
+Repeat, 5
+   1,L,J
+   1,R,J
+EndRepeat
+   1,L,J
+   1,R,J
+   2,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   1,J
+  11,R,J
+   6,R
+   2,R,J
+   2,R
+   1
    1,R,J
    1,R
    1,R,K,G
@@ -2752,4 +2754,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 3:55.501(13853)
+ChapterTime: 3:54.753(13809)
