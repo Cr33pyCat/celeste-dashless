@@ -95,7 +95,8 @@ Repeat,5
    1,L,D
    1
 EndRepeat
-MidwayChapterTime: 0:08.823(519)
+   1
+MidwayChapterTime: 0:08.840(520)
    1,Q
    1,J
   31
@@ -411,5 +412,5 @@ EndRepeat
    1,U,J
    1,O
   31
-MidwayFileTime: 0:39.661(2333)
+MidwayFileTime: 0:39.678(2334)
 # midway so it doesn't show up as fullgame on improvements tracker
