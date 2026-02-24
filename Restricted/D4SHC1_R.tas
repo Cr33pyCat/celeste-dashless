@@ -345,35 +345,39 @@ console load 4 b-00
   15,R,Z
    2,R
    1
-Repeat,9
    1,G
    1
-EndRepeat
    1,J
-   3,L,J
-   1,J
-   5,L,J
-   1,J
+  13,L,J
+   8
+  10,G
    1
-   1,L
-   2
    1,J
-   1,K,G
-   4
-   2,J
-   4,R,J
+   3,R
+   2,L
+   5,J,G
+   1
+   1,J
+   2
+   1,L
    1,R
    1,R,J,G
-   7,R,K,G
-   4,R,J
-   1,J
-   3,R,J
-   5,R
-   1,R,J,G
+   2,R,K,G
+   5,R,D,J
+   2,R
+   5,R,J
+   2,J
    1,R,K,G
-  17,R
-  10,R,J
-   3,L,J
+   1
+   2,R
+   1
+   2,R
+   1,R,J
+   8,R
+   7,R,J
+   2,L
+   1,R
+   1,L
    1,K
    1,J,G
    6
@@ -688,4 +692,4 @@ EndRepeat
    1,J
   31
 
-MidwayFileTime: 1:14.137(4361)
+MidwayFileTime: 1:14.086(4358)
