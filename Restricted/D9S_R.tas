@@ -1097,8 +1097,7 @@ EndRepeat
    1,L,J
    1,R,J
    1,L,K,G
-   1,L,J,G
-  23,L,J,G
+  24,L,J,G
   10,R,K,G
   12,L,J,G
   40
@@ -1109,9 +1108,8 @@ EndRepeat
    1,D,J
   34
    8,L,J,G
-  14,L,G
+  17,L,G
    1,L,J,G
-   3,L,G
   22,L,K,G
    4,R,J,G
   13,R,K,G
@@ -1127,12 +1125,13 @@ EndRepeat
    2
    1,J,G
   17,J,G
-   9,K,G
-   3,G
+  12,K,G
   26,L,J,G
-   2,L,D
-  11,K,G
-   1,R,K
+   1,L,D,J
+   1,L
+   9,K,G
+   2
+   1,R
    1,L,J,G
    2,L,K,G
    1,J,G
@@ -1150,32 +1149,26 @@ EndRepeat
    1,R
    9,L
   11,L,K,G
-   2,K
+   1,K
    1,L,J,G
-   2,R,J
-   5,L,J
-   1,J
-   2,L,J
-   2,L
-  21,L,J,G
+   3,R,J
+   9,L,J
+  22,L,J,G
    5,L,J
    1,L,K,G
    1,L,J,G
    1,L
    1
    7,L
-   1,L,J
+   3,L,J
+  34,L,J,G
+   2,L,D,J
    1,L
-   1,L,K
-  35,L,K,G
-   3,L,D,K
-   1,L
-   1,L,K
+   3,L,J
+   2,L,K,G
    1,K
-   1,L,J,G
-   2,J
-   2,R,J
-   5,L,J
+   2,R,K
+   5,L,K
    1
    1,L
    9,L,G
@@ -1196,45 +1189,54 @@ EndRepeat
    8,L,D,G
   14,L,U,G
    2,L,D,G
-   1,R,D,G
+   1,D,G
    5,L,D,G
    2,R,D,G
    1,R,U,G
   18,R,D,G
   36,R,U,G
-   6,R,D,G
-   1,R,U,G
-  28,R,D,G
+  18,R,D,G
+   1,R,G
+  11,R,D,G
+   1,D,G
+   1,R,D,G
+   3,D,G
    1
-   5,L,D
-   4,R,D
-   1,L,D
-   4,R,D
-  16,R,G
+   4,L,D
+   9,R,D
+  15,R,G
    3,R,J,G
    9,R,G
-   7,R,J,G
-   3,R,G
-  14,R,D,G
+   1,R,J,G
    1,R,G
-  27,R,J,G
-   1,J,G
+   7,R,J,G
+  16,R,D,G
+  26,R,J,G
+   2,J,G
    1,D,J
-  21,G
+  19,G
+   2,R,G
    1,R,D
   15,R,G
-   6,G
-   1,R,D
-  20,R,G
    1,G
+   1,R,G
+   4,G
+   1,D
+  16,R,G
+   1,G
+   4,R,G
    1,L
   25,R,J,G
    3,R,J
-  59,R,U,J,G
-   1,R,K,G
-   7,K,G
-   1,D,K
-  21,K,G
+  38,R,U,J,G
+  11,R,U,G
+   4,R,D,G
+   1,R,G
+   1,R,D,G
+   3,R,J,G
+   6,J,G
+   1,D,J
+  21,J,G
    1,R,D
   17,R,G
    4,L,G
@@ -1242,12 +1244,13 @@ EndRepeat
   23,L,J,G
    1,L,D,J
   16,L,J,G
-   7,J,G
-   1,D,J
-  24,J,G
+   4,J,G
+   1,L,J,G
+   2,J,G
    1,D,J
   23,J,G
-   1,L,J,G
+   1,D,J
+  23,J,G
    2,K,G
    6,K
   15,R,D,X
@@ -1255,9 +1258,11 @@ EndRepeat
    6
    5,R,D,C
   12
-  28,R
-  28,R,U,G
-  13,R,D,G
+  27,R
+  29,R,U,G
+   4,R,D,G
+   1,R,G
+   8,R,D,G
    6,D,G
   13,L,D,G
    1,D,G
@@ -1268,22 +1273,25 @@ EndRepeat
    2,R,J,G
    1,J,G
    5,R,J,G
-  46,R,D,G
-   4,L,D,G
+  44,R,D,G
+   7,L,D,G
    1,L,D,J
-   7,L
+   6,L
    8
    1,L,J,G
    2,L,J
-   2,J
+   1,J
    1,L,J
-   3,J
-   7
    4,J
-   8
-   1,L
+   7
+   2,J
+   1
+   1,J
+   9
    5,R,J
-  33,R,D,G
+  23,R,D,G
+   1,R,D,J,G
+   9,R,D,G
    2,R,J,G
   43
 
@@ -1293,18 +1301,16 @@ EndRepeat
    1,R,J
   21,R,J,G
    1,L,J
-  17,R,J,G
-   1,J,G
-   8,R,J,G
-  13,R,D,G
+  26,R,J,G
+  14,R,D,G
    1,R
    7,R,D
-   4,R,D,J
+   7,R,J
    7,R
   24,R,U,J,G
-  88,R,U,G
+  81,R,U,G
    1,L
-   9,R
+  14,R
    1,S,N
    1,D,J
   69,O
@@ -7773,7 +7779,7 @@ EndRepeat
    1,D,J
   18
 AnalogMode,Ignore
-ChapterTime: 18:17.911(64583)
+ChapterTime: 18:17.809(64577)
 
 #Let moon berry sfx play
  100
