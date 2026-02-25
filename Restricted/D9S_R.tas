@@ -1097,7 +1097,8 @@ EndRepeat
    1,L,J
    1,R,J
    1,L,K,G
-  24,L,J,G
+   1,L,J,G
+  23,L,J,G
   10,R,K,G
   12,L,J,G
   40
