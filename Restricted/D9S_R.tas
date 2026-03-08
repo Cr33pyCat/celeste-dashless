@@ -7345,31 +7345,34 @@ AnalogMode,Precise
    1,L,J
   37,R,J
    5,R,D,J
- 101,R,U,J,G,AL
-  18,R,D,G
+  84,R,U,J,G,AL
+  17,R,D,G
    1,R,G
+  10,R,D,G
+ 394,R,U,G,AL
+   8,U,G
+   4,R,U,G
+   1,U,G
+   5,R,U,G
+   1,U,G
+  16,R,D,G
+   7,R,U,G
    1,R,D,G
- 409,R,U,G,AL
-  17,R,D,G,AL
- 120,R,U,G,AL
+ 107,R,U,G
   10,R,U,G
- 132,R,U,G
-   2,R,G
-   1,R,U,G
-   1,L,U,G
-   1,L,G
-   2,L,U,G
+ 134,R,U,G
+   4,L,U,G
    9,L,D,G
    1,S,N
    9,O
    1,J
   16,L,U,J,G
- 104,R,U,J,G
+ 105,R,U,J,G
+   1,U,G
+   1,G
    1,R,G
-   2,G
+   4,G
    1,R,G
-   2,G
-   1,R,D,G
    1,S,N
    9,O
    1,J
@@ -7381,18 +7384,20 @@ AnalogMode,Precise
   16,R,U,G
 AnalogMode,Precise
   27,R,U
- 119,F,4.673
-   1,F,4.673,0.69
+ 119,F,5.114
+   1,F,5.114,0.69
   10,R,U,G
-   8,U,G
+   9,U,G
    1,R,U,G
-   2,U,G
+   1,U,G
   34,R,U,J,G
    9,R,G
  208,R,U,J,G
-  11,U,G
+  17,U,G
    1,R,U,G
-  49,U,G
+   4,U,G
+   1,R,U,G
+  38,U,G
    6,G
    1,L,G
    4,R,U,J,G
@@ -7403,15 +7408,21 @@ AnalogMode,Precise
    2,U,K,G
    1,U,G
    1,R,U,G
-   5,U,G
+   4,U,G
+   1,G
+   1,U,G
    6,G
    1,R,D,G
   16,L,U,J,G
   17,U,J,G
    1,L,U,G
-  94,U,G
+  91,U,G
+   1,G
+   1,U,G
+   1,G
+   1,U,G
    6,G
-   1,L,G
+   1,L,D,G
    3,L,U,J,G
    2,U,J,G
    1,L,U,J,G
@@ -7425,10 +7436,11 @@ AnalogMode,Precise
    1,G
   20,U,K,G
    5,R,U,K,G
-   7,R,U,G
-   1,R,G
-   9,J,G
-   9,G
+   8,R,U,G
+   8,J,G
+  15,G
+   2,D,G
+   1,G
   12,K,G
   10,G
   38,L,U,J,G
