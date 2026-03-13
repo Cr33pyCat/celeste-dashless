@@ -441,22 +441,9 @@ EndRepeat
   12,R,J,G
    6,R,K,G
    7,R
-  23,D,G
-   7,U,G
-   1,G
-  22,U,G
-   1,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
-   1,U,G
+  19,D,G
+  18,G
+  28,U,G
    3,R,J,G
    2,R,K
   37,U,X
