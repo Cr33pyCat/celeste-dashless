@@ -209,42 +209,10 @@ console load 4
    2,R
    2,D
    1,R
+Repeat,18
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R,J
    1,R,K,G
@@ -402,16 +370,10 @@ console load 4
    3,R
    1,R,D,J
   14,R
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
    1,R,J
   21,R,D
@@ -570,20 +532,10 @@ console load 4
    2,R
    5,R,D
   44,R,J
+Repeat,7
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
    4,R
    9,R,J
@@ -605,16 +557,10 @@ console load 4
   11
   11,J,G
    1,L,J
+Repeat,5
   12,K
   12,J
-  12,K
-  12,J
-  12,K
-  12,J
-  12,K
-  12,J
-  12,K
-  12,J
+EndRepeat
    7,R,K,G
    3,J
   40
@@ -673,12 +619,10 @@ console load 4
    4,L,K
    6,R,K
    1,R,J,G
-Repeat, 5
+Repeat,6
    1,L,J
    1,R,J
 EndRepeat
-   1,L,J
-   1,R,J
    2,L,J
    1,R,J
    1,K,G
@@ -891,28 +835,10 @@ EndRepeat
    7,R
    3,D
    1,R
+Repeat,11
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R,J
    6,R
@@ -934,12 +860,10 @@ EndRepeat
    9,R
    7,D
    1,R
+Repeat,3
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
   19,R,J
    2,R,K,G
    9,K
@@ -1508,14 +1432,10 @@ EndRepeat
   14,R
    3,D
    1,R
+Repeat,4
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    3,D
    1,R
    5,R,J
@@ -1528,94 +1448,18 @@ EndRepeat
   14,R
    6,D
    1,R
+Repeat,35
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
   43
 
 #lvl_d-01
 #0x
+Repeat,7
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    5,D
    4
    7,L,U,G
@@ -1623,22 +1467,10 @@ EndRepeat
    1,K,G
   10
   10,R,D
+Repeat,8
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    4,R,J
    4,R
@@ -1648,16 +1480,10 @@ EndRepeat
   17,R
    1,D
    1,R
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    6,D
    3
    7,L,U,G
@@ -1669,16 +1495,10 @@ EndRepeat
    3,R
    7,U,G
   18,R
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
    6,D
@@ -1695,16 +1515,10 @@ EndRepeat
   17,R
    1,D
    1,R
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    6,D
    3
    7,L,U,G
@@ -1716,16 +1530,10 @@ EndRepeat
   11,R,D
    7,U,G
   18,R
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
    6,D
@@ -1747,24 +1555,18 @@ EndRepeat
    7,R
    3,D
    1,R
+Repeat,3
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
   40
 
 #lvl_d-02
 #0x
+Repeat,4
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    5,D
    4
    7,L,U,G
@@ -1774,48 +1576,26 @@ EndRepeat
    7,R
    3,D
    1,R
+Repeat,6
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    3,D
   11,R
+Repeat,4
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    5,D
    1,R,D
    1,D
    1,R,D
    1,J
   41,R,D
+Repeat,7
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
    4,R
    1,R,J
@@ -1823,7 +1603,6 @@ EndRepeat
    6,R,K,G
   14,R
   15,R,X
-
   50,G
   15,D,G
   35,G
@@ -1864,24 +1643,10 @@ EndRepeat
   19,R,D
    5,D
    1,R
+Repeat,9
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
    6,D
@@ -1891,58 +1656,16 @@ EndRepeat
    1,K,G
   10
   10,R,D
+Repeat,8
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
   14,R,D
+Repeat,17
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    3,D
    1,R
    1,D
@@ -1959,28 +1682,10 @@ EndRepeat
   12,R
    5,D
    1,R
+Repeat,11
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
   14,R,J
   15,R,K,G
@@ -1995,14 +1700,10 @@ EndRepeat
    9,R
    3,D
    1,R
+Repeat,4
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
    5,D
@@ -2012,51 +1713,27 @@ EndRepeat
    1,K,G
   10
   10,R,D
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
   40
 
 #lvl_d-04
 #0x
+Repeat,9
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
    1,R,J
   23,R,D
+Repeat,4
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    7,R,J
   15,R
@@ -2127,18 +1804,10 @@ EndRepeat
    7,R
    1,R,D,J
   35,R,D
+Repeat,6
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
   35,R,J
    2,R,K,G
@@ -2159,30 +1828,10 @@ EndRepeat
   15,R,U,X
   35,R,D
    1,R
+Repeat,12
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,R,J
   22,R
    4,R,D
@@ -2198,30 +1847,10 @@ EndRepeat
    3,R
    4,D
    1,R
+Repeat,12
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
    6,D
@@ -2331,72 +1960,18 @@ EndRepeat
    7,R
    5,D
    1,R
+Repeat,19
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
   40
 
 #lvl_d-06
 #2x
+Repeat,12
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    1,R
    6,D
@@ -2408,16 +1983,10 @@ EndRepeat
    6,R,D
    1,D
    6,R,D
+Repeat,5
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,R,D
    1,R
    1,R,D
@@ -2489,50 +2058,20 @@ EndRepeat
    7,R
    1,R,D,J
   35,R,D
+Repeat,12
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
    2,R
   40
 
 #lvl_d-07
 #5x
+Repeat,7
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    5,D
    4
    7,L,U,G
@@ -2587,30 +2126,10 @@ EndRepeat
    1,R
    1
    7,R
+Repeat,12
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    1,D
    4,R
   42,R,J
@@ -2623,12 +2142,10 @@ EndRepeat
    2,J,G
    3,R,J
   10,R
+Repeat,3
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
   14,R,J
   15,U,X
@@ -2643,20 +2160,10 @@ EndRepeat
    2,J,G
   10,R,J
    7,R
+Repeat,7
    2,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
+EndRepeat
    2,D
    1,R,J
   14,R
