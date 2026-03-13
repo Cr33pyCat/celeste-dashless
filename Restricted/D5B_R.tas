@@ -278,7 +278,7 @@ EndRepeat
   18,D
   16,L,X
   14,U,C
-  26,L,J
+  25,L,J
   24,L,X
   15,L,D,C
    4
@@ -1133,4 +1133,4 @@ Repeat,13
    1,K
    1,J
 EndRepeat
-ChapterTime: 2:52.601(10153)
+ChapterTime: 2:52.584(10152)
