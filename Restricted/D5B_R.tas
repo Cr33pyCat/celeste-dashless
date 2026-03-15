@@ -747,7 +747,12 @@ SaveAndQuitReenter
    9,R
    1,R,J
    3,R
-  37,R,D,G
+  38,R,D,G
+Repeat,4
+   1,R,J,G
+  14,R,G
+EndRepeat
+   1,R,G
    5,R
    1,R,J
   14,R
@@ -755,15 +760,6 @@ SaveAndQuitReenter
   14,R
    1,R,J
   14,R
-   1,R,J
-  11,R
-  21,R,G
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-   1
-  13,R
    1,R,J
    1,R
   40
@@ -963,22 +959,30 @@ SaveAndQuitReenter
   15,R
    4,R,J
   41,R
-  37,R,J,G
-   1,K,G
-  27,R,K,G
+  34,R,J,G
+   2,R,D,G
+   1,D
    1,J,G
-  27,R,J,G
-   1,K,G
-  34,R,K,G
-   1,R,J
-  14,R
-   1,R,J
-  15,R
-   1,R,J
-  43,R,G
-   5,R
-   1,R,J
-  11,R
+   1,L,J
+   1,R,K,G
+  10,R,K
+  16,R,K,G
+   1,J,G
+  19,R,J,G
+   4,R,G
+   1,R,D
+   2,R
+   1,R,K,G
+   1,R,J,G
+   4,R
+  13,R,G
+   1,R,J,G
+  15,R,G
+   1,R,J,G
+  21,R,D,G
+   1,R
+   6,R,D
+  13,R
   40
 
 #lvl_d-04
@@ -1133,4 +1137,4 @@ Repeat,13
    1,K
    1,J
 EndRepeat
-ChapterTime: 2:52.584(10152)
+ChapterTime: 2:51.632(10096)
