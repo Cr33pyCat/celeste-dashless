@@ -40,8 +40,8 @@ EndRepeat
    9,R
   15,D
   31,U,X
-   1,R,D,J
-  11,D
+   1,R,J
+  11
    8,R,D
    1,R
    1,R,D
@@ -74,11 +74,12 @@ EndRepeat
    1,R,D
   20,L,D
   10,R,D
-  26,R,U,X
-  24,R,D,C
+  17,R,U,X
+   8,R,C
+   1,R,J,G
+  24,R,D
   36,R,X
   13,U,C
-#everything before this was made by lith
    8,R,D,X
    3,R,J,G
   15,R
@@ -117,7 +118,7 @@ EndRepeat
    5,R,D,X
    1,J
    1,L,K,G
-  10,R,K,G
+  10,R,K
    5,R
    1,J,G
    4,R,J
@@ -217,10 +218,10 @@ EndRepeat
    3,R,J
    3,J
    2,L,K,G
-repeat 7
+Repeat,7
    1,R,K
    1,L,K
-endrepeat
+EndRepeat
   12,R,J
    6,L,J
    1,K,G
@@ -277,7 +278,7 @@ endrepeat
   18,D
   16,L,X
   14,U,C
-  26,L,J
+  25,L,J
   24,L,X
   15,L,D,C
    4
@@ -289,30 +290,38 @@ endrepeat
   11
    3,R
    1
-   4,L,J,G
-  37,L,D
+   3,L,J,G
+   5,L
+   1,L,K
+   2,L
+   1,L,K
+  24,L,D
+   6,L
+   1,L,D
    1,L,J
-  17,L
+  14,L
+   1,L,J
+  14,L
    1,L,J
   14,L
    1,L,J
   14,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  13,L,J
-   3,R,K,G
-   2,L,K
-   2,J
-   5,R,X
-  10,R,J,G
-   2,R
-  14,R,J
-   8
-   3,R,J
+  15,L
+   9,L,D,J
+   1,L
+   1,R
+   1,K,G
+   5,L
+   9,L,K
+   4,R,J,G
+   2,L,J
+   1,L
+   5,R,Z
+  12,R,J,G
+   5,R
+  10,R,K
+   7,R,D
   33,U,X
   40
 
@@ -326,16 +335,19 @@ endrepeat
   10,R,U,G
   14,G
   22,U,G
-  29,L,J
+  29,L
    1,K,G
-   1,R,K
+   1,R
    1,L,J,G
    6,L,K,G
    1,L,J,G
-   1,L,K,G
+   3,L,K,G
+   6,L
+   2,L,K
   10,L
-   1,L,J
-  15,L
+   2,L,J
+   2,L
+   1,L,K,G
    4,L,J
   14,L,X
    1,R,J
@@ -345,24 +357,29 @@ endrepeat
    1,J
   15
   13,L,D
+  13,L
+   9,L,D,J
+   2,J
+   3,R,K,G
+   1,J,G
    1,L,J
-  14,L
-   8,L,J
-   7,R,K,G
-  11,L,J
-  11,K
-   2
-  15,U,X
-   8,L
-   1
+   1,R,J
+   1,K,G
+   9,L,K
+   2,K
+   3,R,J,G
+Repeat,5
+   1,L,J
+   1,J
+EndRepeat
+   1,L,J
+   1,K
+  20,R,K
+   2,R
+  10,L,U,X
    1,L,J,G
-   1,L,K,G
-  14,L
-   1,L,J
-   5,L
-   2,L,K
-   8,L
-  18,L,D,J
+  13,L
+  19,L,D,J
    9,L,K
   40
 
@@ -375,58 +392,62 @@ endrepeat
    2
   47,R,X
    7,J,G
-  10,L,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-  12,L,J
-   6,L
-   3,R
    1,K
-  21,L,K
-   5
-   9,L,J,G
-  20,L
+   9,L,K
+Repeat,8
+   2,J
+   2,K
+EndRepeat
+   1,J
    1,L,J
+   1,K,G
+   4,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   9,L,J,G
+   7,L
+   1,L,J,G
+   5,L,K,G
+  20,L
+   6
+   1,R
+   1
   17,L
+   1
+   1,L
+   1
+   1,L,J
+   1,L,K,G
+  10,L,J,G
+  12,L
+   2
+  11,L
+   1
    3,L,J
    1,L,K,G
-   5,L,J,G
-  17,L
-   1,L,J
-  16
-   2,L
-   1
-   7,L
-   1,L,J
-   1,L,K,G
-  13,L,J,G
-#copied from euni's github until line 395[
-  14,L,D,X
-  42,U,C
-   2,R,J
-   8,R,K
-  27,R,J,G
-  18,R,G
-  57,R,U,G
-   1,R,J,G
-   4,R,K,G
-   2,L,J,G
-  37,U,C
-  11,L,X
+   9,L,J,G
+  11,L,D,X
+  41,U,C
+   2,J
+   1,K
+   8,J,G
+   1,R,J
+  16,R,K,G
+  12,R,J,G
+   6,R,K,G
+   7,R
+  19,D,G
+  18,G
+  28,U,G
+   3,R,J,G
+   2,R,K
+  37,U,X
+  11,L,C
    4,J,G
    2,L
    3,L,K,G
@@ -439,51 +460,51 @@ endrepeat
   52,U,X
   25,R,C
   14,R,U,Z
-   8,L,J
-   1,R,K
-   2,R,J
-   1,R,K,G
+   1,J
+   3,L,J
+   2,L
+   2,K
+   1,R
    1,R,J,G
-  13,R
+   1,R,K,G
+   9,R
+   1,R,K
    1,R,J
   14,R
-   2,R,J
-   4,R
-   5,R
-   2,R,J
-   1,R,K,G
-   8,R,J,G
-   1,R,K,G
-   6,R,J,G
-  10,R,D,X
+   4,R,J
+   3,R,K,G
+   2,R,J,G
+   1,J
+   4,R,J
+   6,R,K,G
+   3,R,J,G
+   6,R,D,X
    1,L,J
   21,L,D
    1,L,J
   14,L
-  17,L,J
-   4,J
-   8,L,K,G
-  14,L,D,X
+  18,L,J
+   5,L,K,G
+   3,L,J,G
+   9,L,D,X
    1,R,J
-   9,J
+   4,J
+   5,R,J
    3,R,K,G
   12,R
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   1,D
+  14,R,J
    1,S
    1,D,J
   18
 
 #lvl_c-00
 #2x
- 206
+ 110
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    4,R,J
   48,R
   16,R,D
@@ -646,7 +667,6 @@ endrepeat
   12,R,J,G
    6,R,K,G
   10,R,G
-
    2,J,G
   31,L,K
   62,R,D
@@ -727,7 +747,12 @@ endrepeat
    9,R
    1,R,J
    3,R
-  37,R,D,G
+  38,R,D,G
+Repeat,4
+   1,R,J,G
+  14,R,G
+EndRepeat
+   1,R,G
    5,R
    1,R,J
   14,R
@@ -735,15 +760,6 @@ endrepeat
   14,R
    1,R,J
   14,R
-   1,R,J
-  11,R
-  21,R,G
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-   1
-  13,R
    1,R,J
    1,R
   40
@@ -943,22 +959,30 @@ endrepeat
   15,R
    4,R,J
   41,R
-  37,R,J,G
-   1,K,G
-  27,R,K,G
+  34,R,J,G
+   2,R,D,G
+   1,D
    1,J,G
-  27,R,J,G
-   1,K,G
-  34,R,K,G
-   1,R,J
-  14,R
-   1,R,J
-  15,R
-   1,R,J
-  43,R,G
-   5,R
-   1,R,J
-  11,R
+   1,L,J
+   1,R,K,G
+  10,R,K
+  16,R,K,G
+   1,J,G
+  19,R,J,G
+   4,R,G
+   1,R,D
+   2,R
+   1,R,K,G
+   1,R,J,G
+   4,R
+  13,R,G
+   1,R,J,G
+  15,R,G
+   1,R,J,G
+  21,R,D,G
+   1,R
+   6,R,D
+  13,R
   40
 
 #lvl_d-04
@@ -1113,4 +1137,4 @@ Repeat,13
    1,K
    1,J
 EndRepeat
-ChapterTime: 2:54.641(10273)
+ChapterTime: 2:51.632(10096)
