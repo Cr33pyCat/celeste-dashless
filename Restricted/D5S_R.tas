@@ -257,7 +257,7 @@ console load 5
    4,R
   40
 
-#lvl_a-00 (0)
+#lvl_a-00
 #0x
   10,R
    1,R,J
@@ -594,7 +594,7 @@ endrepeat
 Read,D5A,lvl_a-00b,lvl_a-01 (0)
 #0x
 
-#lvl_a-00 (1)
+#lvl_a-01 (1)
 #1x
    4,R
   31,R,J
@@ -893,7 +893,7 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
   12,L,D
   40
 
-#lvl_a-01 (1)
+#lvl_a-01 (2)
 #1x
   10,L,D
   14,D
@@ -1013,7 +1013,7 @@ endrepeat
    1,L,J
   58
 
-#lvl_a-01 (2)
+#lvl_a-01 (3)
 #0x
    7,L,J
   12,R,K,G
@@ -1115,7 +1115,8 @@ endrepeat
 
 #Overworld
 Add 58
- 195
+  51
+   1,S
    1,J
   30
    1,R
@@ -4435,4 +4436,4 @@ EndRepeat
    1,S
    1,D,J
   18
-FileTime: 12:49.233(45249)
+MidwayFileTime: 12:49.233(45249)
