@@ -118,7 +118,7 @@ console load 2
 Read,D2A,Start,lvl_d0 (1)
 #2x
 
-#lvl_d0 (1)
+#lvl_d0 (0)
 #1x
    4,L
    1,L,J
@@ -194,7 +194,7 @@ EndRepeat
    2,K
   40
 
-#lvl_d0 (2)
+#lvl_d0 (1)
 #1x
   12,L,J
   35,U,X
@@ -216,4 +216,4 @@ EndRepeat
 Read,D2A,lvl_d6
 #18x
 
-FileTime: 3:09.907(11171)
+MidwayFileTime: 3:09.907(11171)
