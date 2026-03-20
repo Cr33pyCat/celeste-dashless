@@ -1,4 +1,4 @@
-#6B 34x (SR)
+#6B 33x (SR)
 
 #StunPauseMode,Simulate
 
@@ -1101,78 +1101,55 @@ EndStunPause
 
 #lvl_c-01
 #3x
-  24,R
+  23,R
   12,R,J
   43,R,D
-  40,R,J
-  15,R,U,X
-   4,L
-   1,R,J,G
-   3,L,J
-   2,R,J
-   1,L,J
-   2,R,J
-   1,R,K,G
-   1,R,J,G
-   6,R,K,G
-  31,R
-   3
-   1,R,D,X
-  65,R
-   1,R,D,X
-  14,R
-   6,R
-   1,J
-   6,R,D
-StunPause
-   8,R,D
-EndStunPause
-   1,S,N
-   3
-  10,O
-   2,R,D
-StunPause
-   4,R,D
-   1,G
-   1,R,J,G
-   1
-  12,R
-   2
-   2,R
+  37,R
+  29,R,U,X
    1
    1,R
+   1,L
+   1,J
+   1,K,G
+   1
+  11,R
+  28,R,X
+  47,L
+  15,R,X
+   3
+   7,R
+   1,R,J
+  12,R
+   2,R,J
+   2,R,D
+  17,R
   27,R,U
-   9,F,55
-  10,F,88
-  10,R
-EndStunPause
-  63,R
+  24,F,59.744
+   1,F,64.038
+  35,F,96.239
+  33,F,93
   40
 
 #lvl_c-02
-#7x
-   2,F,93
-StunPause
-  25,F,99
-   1,R,U
-  32,R
-EndStunPause
-   2,R
-  18,R,U,X
-  36,R
-  15,R,U,X
-  22,R
-  46,L,J
-  15,U,X
-   2,R,J,G
-  16,R
+#6x
+   7,F,93.355
+  12,F,146.210
+   7,F,90
+  27,R,J
+  53,R,U,X
+  36,R,U,C
+  37,L
+  17,L,U,X
+   1,L,J,G
+  10,L
+  23
+   1,R
+   5,J
    1,R,J
-  33,R,D
-   7,L,D
-  14,R,D,X
-  25,R,J
-  42,R,U,X
-  17,R,C
+  14,R,Z
+   2,R,J
+  20,R,D,J,X
+  45,R,K
   47,L,D
   19,R,D
    1,D,X
@@ -1203,10 +1180,10 @@ EndStunPause
 #lvl_c-03
 #1x
  270
-Repeat 5
+Repeat 6
 9999
 EndRepeat
-9707
+ 533
    7,R
   17,R,D,J
   27,R,D
@@ -1852,4 +1829,4 @@ EndStunPause
   32,R,J
   18,R,U,X
  135,D
-ChapterTime: 29:15.165(103245)
+ChapterTime: 29:13.890(103170)
