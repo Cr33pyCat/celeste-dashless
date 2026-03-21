@@ -6,6 +6,6 @@ Unrestricted (U) - Any tech is allowed
 Semirestricted (SR) - Spinner freeze is banned  
 Restricted (R) - Spinner freeze and spinner stun are banned  
 
-Utilizes files from the [maingame Celeste repository.](https://github.com/EuniverseCat/CelesteTAS)
+Utilizes files from the [maingame Celeste repository.](https://github.com/VampireFlower/CelesteTAS)
 
-You can find the most up-to-date input files here, or download them all [here](https://github.com/elestrophe/celeste-dashless/archive/refs/heads/master.zip).
+You can find the most up-to-date input files here, or download them all [here](https://github.com/Cr33pyCat/celeste-dashless/archive/refs/heads/master.zip).
