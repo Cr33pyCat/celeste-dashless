@@ -1219,9 +1219,13 @@ EndStunPause
 
 #lvl_c-03
 #1x
-   1,S
-   1,D,J
-  72,O
+   3,R,J
+   9,R
+   1,R,J
+   4,R
+   3,L
+  13,L,D
+  75,O
    5,R
    6,R,J
   12,R
@@ -1264,7 +1268,7 @@ EndStunPause
    1,D,J
   72,O
 9999
-1625
+1593
    7,R
   17,R,D,J
   27,R,D
@@ -1908,4 +1912,4 @@ EndStunPause
   32,R,J
   18,R,U,X
  135,D
-ChapterTime: 15:27.129(54537)
+ChapterTime: 15:27.112(54536)
