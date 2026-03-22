@@ -1122,12 +1122,16 @@ EndRepeat
    5,R
   24,R,J
   11,K,G
-  12,J,G
-   5,K
+   1,R,J,G
+   2,L,J
+   3,J
+   1,K
+   8,R,K
+   1,K
    1,J
    2,K,G
   12,L,K
   20,L,U,X
   71,L
   64,L,D
-ChapterTime: 1:32.871(5463)
+ChapterTime: 1:32.854(5462)
