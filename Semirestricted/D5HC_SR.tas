@@ -169,7 +169,7 @@ console load 5
   17,R,D
   40
 
-#lvl_a-01
+#lvl_a-01 (0)
 #0x
    4,R,D
    1,R,J
@@ -194,7 +194,7 @@ console load 5
    8,R,J
   40
 
-#lvl_a-08
+#lvl_a-08 (0)
 #0x
   10,R
    1,R,J,G
@@ -249,7 +249,7 @@ endstunpause
    1,L,J
   40
 
-#lvl_a-08
+#lvl_a-08 (1)
 #1x
   17,L
    1,L,J
@@ -274,7 +274,7 @@ endstunpause
    6,L,D
   40
 
-#lvl_a-01
+#lvl_a-01 (1)
 #0x
    3,L,D
   26,D
@@ -601,7 +601,7 @@ endRepeat
    1,R,J
   40
 
-#lvl_b-02
+#lvl_b-02 (0)
 #0x
   14,R
    1,R,J
@@ -620,7 +620,7 @@ endRepeat
    2,R
   40
 
-#lvl_b-11
+#lvl_b-11 (0)
 #1x
   12,R,D
   12,R,J
@@ -649,7 +649,7 @@ endRepeat
    6,R
   40
 
-#lvl_b-13
+#lvl_b-13 (0)
 #1x
    8,R
    1,R,J
@@ -750,7 +750,7 @@ EndStunPause
    5,R,D
   58
 
-#lvl_b-17
+#lvl_b-17 (0)
 #0x
    2,R,D
    4,R,J
@@ -853,7 +853,7 @@ EndStunPause
    6,L
   40
 
-#lvl_b-17
+#lvl_b-17 (1)
 #0x
    1,L
    3,L,J
@@ -899,7 +899,7 @@ EndStunPause
   11,L
   58
 
-#lvl_b-13
+#lvl_b-13 (1)
 #0x
    1,L
    1,L,J
@@ -928,7 +928,7 @@ EndStunPause
   11,L
   40
 
-#lvl_b-11
+#lvl_b-11 (1)
 #0x
    3,L
    1,L,J
@@ -955,7 +955,7 @@ EndStunPause
    5,L
   40
 
-#lvl_b-02
+#lvl_b-02 (1)
 #1x
    9,L
   19,L,J
@@ -1047,7 +1047,7 @@ EndStunPause
   53,D
   40
 
-#lvl_b-02
+#lvl_b-02 (2)
 #0x
   75,R,D
    1,R,J
@@ -1180,7 +1180,7 @@ EndRepeat
  137
   40
 
-#lvl_b-14
+#lvl_b-14 (0)
 #1x
   28
   33,R,D
@@ -1239,7 +1239,7 @@ EndRepeat
    3,L
   40
 
-#lvl_b-14
+#lvl_b-14 (1)
 #1x
   11,L
    1,L,J
@@ -2376,7 +2376,7 @@ AnalogMode,Ignore
    8
   40
 
-#lvl_d-19b
+#lvl_d-19b (0)
 #0x
   19,D
   11,R,D
@@ -2439,7 +2439,7 @@ AnalogMode,Ignore
    8,J
   40
 
-#lvl_d-19b
+#lvl_d-19b (1)
 #0x
   12,L
    1,J,G
@@ -2874,7 +2874,7 @@ AnalogMode,Ignore
    1,R,J,G
   25,R,G
   40
-   
+
 #lvl_e-05
 #0x
   13,R,J,G
@@ -3219,4 +3219,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-FileTime: 7:49.353(27609)
+MidwayFileTime: 7:49.353(27609)
