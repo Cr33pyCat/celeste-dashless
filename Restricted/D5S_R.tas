@@ -128,8 +128,8 @@ Read,D5A_R,Start,lvl_a-01 (0)
    3,L,J
    5,L
   15,R,U,X
-  30,D
-  14,L,D
+  30
+  14,L
   20,R,D
   20,R,G
    1,U,G
@@ -415,7 +415,9 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
 #lvl_a-01 (1)
 #1x
    4,R
-  31,R,J
+   1,R,J
+  14,R
+  13,R,J
   63,R,U,X
   63,R,D,C
   18,L,X
@@ -627,14 +629,15 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
    1,L,J
    7,L
    1,L,J
-  14,L,D
-   4,L,J
+   6,L
+   1,L,J,G
+  11,L
   44,R,X
   40
 
 #lvl_a-12 (1)
 #0x
-  86,R
+  86
   63,U,X
   40
 
@@ -642,10 +645,11 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
 #0x
    2
    4,R,J
-  12,U,X
-   9,L,J
+  13,U,X
+   8,L,J
   24,U,X
-  32,L,D
+   1,J
+  25,L,D
   10,D
    1,L,D
    1,D
@@ -654,50 +658,64 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
    1,L,J
    7,R,J
    1,L,J
-  20,R,J
+  19,R,J
    1,J
-   5,K,G
-   1,L,K
+   1,R,J
+   1,R,K,G
+   3,L,K
+   1,R,K
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   5,R,K,G
-  12,R
-  25,R,X
-  11,R,J,G
+   4,R,J,G
+   8,R
+   1,R,K
    5,R
-   1,R,J
-  11,R
-  38,R,J
-  34,L,K
-   3,L,D
+  25,R,X
+   1,R,J,G
+   3,L,J
+   3,R,J,G
+   4,R,K,G
+  14,R
+   2
+  35,R,J
+   2,R,D
    1,D
+  26,L,K
+  11,L
+   1,L
    2,L,J,G
   13,L
    2
-   2,L,J
-  33,L,D
-  41,R,X
    1,L,J
-  10,L,D
-   5,D
-   4,L,D
-   1,D
+   5,L
+   1,L,K
+   2,L
+   1,L,K
+  25,L,D
+  42,R,X
+   1,J
+  10
+  11,L
+   1,L,J
    1,L,K,G
    1,L,J,G
   11,L
    1,L,J
-  18,L
-   1,L,J
-  14,L
-   4,L,J
-   8,L
+   5,L
+   1,L,K
+  12,L
+   2,L,J
+  11,L
   15,L,D,X
   40
 
 #lvl_a-12 (2)
 #0x
-  57,D
+Repeat,28
+   1,R,D
+   1,L,D
+EndRepeat
+   1,R,D
   94,L,X
   40
 
@@ -747,38 +765,31 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
    3,R,J
   19,R
   63,R,D,C
-  33,R,D,X
+  34,R,D,X
    1,R,J
-  61
+  58
 
 #lvl_a-13 (0)
 #0x
   14,R
    1,R,J
-  13,R
-   1
+  25,R
+   6,R,J
+   1,J
    1,R,J
-  14,R
-   1,R,J
-  10,R
-   2
-   2,R
-  12,D
-   1,R
-   1
-   1,R
-   1
-   1,R
-   2
+   1,K
+   1,J
+  14
+   7,R
 repeat 29
    1,D
    1
 endrepeat
-   1,L
-   5
-   1,L
-   5
-  10,R
+# KEY CYCLEEEEEEEEEE
+  13
+   1,R
+  11
+   9,R
    1,R,J
    1,R,K,G
    1,R,J,G
