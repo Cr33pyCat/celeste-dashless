@@ -108,63 +108,76 @@ console rmx2 3
   32,R
   34,R,J
   33,R,K,G
-  14,R,G
+  34,R,G
+  21,L,J
+  26,R,J
+   1,K
+  25,L,K
+   1,J
+  27,R,J
+  17,D
+   8,L,D
+   6,L,G
+   2,D,G
+   1,G
+   1,D,G
+  26,L,G
+   1,R,J
+  26,R,K
+  10,L,K
+  18,R,K
+  20,L,K
+   1,R,J
+  28,R,J
+  25,L,D
+  12,L,G
+   2,D,G
+  41,L,G
+   1,R,J
+  22,R,K
+   4,L
+  25,R,J
+   7,J
+  15,R,J
+   1,R,K,G
+   3,L,K
+   3,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+  24,R,J,G
+  41,R
+   1
+   4,R,J,G
+   8,R
+   1
+   1,R
+  17
+  20,L,G
   14,J,G
    1,L,J
-  14,R,K,G
-   8,J,G
-   1,L,J
-  15,R,K,G
+   1,R,J
+  35,R,J
    1,J
-  25,R,J
    1,R,K,G
-  12,R
-  28,L,D
-  76,L,G
-   1,R,J
-  53,R,K
-   4,L,K
-  11,R,K
-   1,R,J,G
-   3,L,J
-   3,R,J
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  13,R
-  27,L,D
-  68,L,G
-   1,R,J
-  65,R,K
-   1,R,J,G
-   4,L,J
-   3,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-  21,R,K,G
-  44,R
-   1,R,J,G
-   6,R,K,G
+   6,R,J,G
+  27,R,D
    4,R
-  11,R,J
-  15,R
+   1
+   1,D
+   1,R
    1,R,J,G
-   6,R,K,G
-  30,R
-   2,L
-   9,R
-   1,R,J,G
-  10,R,K,G
+   7,R,K,G
+   1
+   1,R
+   1,R
    1,R,J
-  35,R,K
-   3,R,J,G
-   1,R,K,G
+  38,R,K
+   4,R,J,G
    4,R
- 107
+  19
    4,R,Z
    1,R,J
    8,R
@@ -184,9 +197,15 @@ console rmx2 3
    1
    1,L
    6,R
-  83,R,J
-   2,R,D
-Repeat, 47
+  20,R,J
+   5,R
+  59,R,J
+   1,K
+   7,R,K
+   5,R
+   1,R,K
+  13,R
+Repeat, 34
    1,R,G
    1,R
 EndRepeat
@@ -196,15 +215,16 @@ Repeat, 3
    1,R
 EndRepeat
    1,R,G
-  33,J,G
+  20,J,G
   12
-  20,R,D
+  16,J
+  18,R,D
   15,L,D
-  15,L,G
+  13,L,G
    1,D
    1,J
    1,L,K,G
   25,R,K
  149,R,X
 
-ChapterTime: 0:34.867(2051)
+ChapterTime: 0:33.932(1996)
