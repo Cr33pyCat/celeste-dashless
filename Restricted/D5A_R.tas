@@ -470,35 +470,25 @@ EndRepeat
    1,R,J,G
    5
    4,R
-   1,R,J,G
+   1,R,J
    1,R,K,G
-   1,R,J,G
-   5,R,K,G
-   4,R,J,G
-  10,R,G
-   1,R,J,G
-   1,R,K,G
-   1,R,G
-   3,R,J,G
+   8,R,J,G
    2,R,K,G
-   1,R,G
-  11,R,H
-  14,R,J,H
-   1,R,H
-   1,R,J,H
-   6,R,K
-   7,R,J
+  11,R
+   1,R,J
+   5,R
+   1,R,K
+  12,R
+  14,R,J
+   1,R
+  15,R,J
+   1,G
+  30,R,J,G
+   2
+   1,J,G
+   1,R,K,G
    2,R,J,G
-  15,R,K,G
-   2,R,U,J,G
-  10,R,U,G
-   2,R,U,J,G
-   1,R,U,G
-   2,U,G
-   1,U,J,G
-   1,R,U,K,G
-   2,R,U,J,G
-  11,R,U,G
+  11,R
    1,R,J
   14,R
    1,R,J
