@@ -1,4 +1,4 @@
-#7SHC 256x (R)
+#7SHC 255x (R)
 
 #console load 7 3088 -1768
 #play,500M,37
@@ -4889,17 +4889,28 @@ EndRepeat
   16,R,J
   15,R,X
   24,R,D
-   5,R,X
-  30
-  15,U,X
-  65,L,G
-  30,R,J
-   5,J
-   9,R,D
+  18,R,X
+  15,R,U,Z
+  10,J,G
+   1,L,J
+   3,K
+   1,J
+   2,R,J
+   8,J
+   6,L,K,G
+  10,R,J
+   8,R,K
+   9,R
+   1,R,K
+  19,R
+   3,R,D
   15,R,Z
-   8,R
+   4
+   5,R
    1,R,J,G
-  24,R,D
+   5,R
+   1,R,K
+  18,R,D
    5,R,X
   62
 # evil section made by satan
@@ -7240,4 +7251,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 15:54.176(56128)
+ChapterTime: 15:53.428(56084)
