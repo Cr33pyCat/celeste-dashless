@@ -4878,17 +4878,17 @@ EndRepeat
   10,K,G
    2,R,K
   11,R,J
-   5,R,X
-  16
-  15,R,U,X
+  21,R,X
+  15,R,U,C
    5
-  21,R,J
+  21,R
   18,R,U,Z
-  37,R,J
-  18,R,U,X
-  16,R,J
-  15,R,X
-  24,R,D
+  24,R
+# fuck you
+  15,R,Z
+  16,R
+  15,R,Z
+  20,R,D
   18,R,X
   15,R,U,Z
   10,J,G
@@ -7251,4 +7251,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 15:53.428(56084)
+ChapterTime: 15:53.139(56067)
