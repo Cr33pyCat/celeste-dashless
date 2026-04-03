@@ -275,8 +275,9 @@ console load 5
    2,R
   10,R,K,G
    5,R
-  21,R,J
-  20,L,D
+  17,R,J
+   4,R,D
+  19,L,D
   15,L,X
   52
    1,L,J,G
@@ -2585,4 +2586,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-ChapterTime: 5:43.077(20181)
+ChapterTime: 5:43.060(20180)
