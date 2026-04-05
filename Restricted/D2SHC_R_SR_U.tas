@@ -975,17 +975,19 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    4,L
    1,L,K
    3,L
-   4,R,J
-   1,R,K,G
+   1,L,J
+   5,L
+   1,L,K
+   1,J,G
    5,R
-   2,R,K
-  16,R
-   1,R,J
-   9,R
+   1,R,K
+  12,R,D
    3,R,J
-   5,R
-  15,R,X
-  21,R,D
+   7,R
+   1,R,J
+  22,R,X
+#2:37.216(9248)
+  15,R,D
   19,R,Z
    7,L,J
    1,R,J
@@ -2030,4 +2032,4 @@ Read,D2A_R_SR_U,lvl_end_0,lvl_end_3b
    1,S
    1,D,J
   18
-ChapterTime: 4:38.409(16377)
+ChapterTime: 4:38.273(16369)
