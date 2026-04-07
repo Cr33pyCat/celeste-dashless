@@ -1441,12 +1441,13 @@ SaveAndQuitReenter
    8,R,J
   15,R,X
   44
-   1,L,J
-  36,L
+   1,J
+   1,K,G
+   1
+  31,L,D
   15,L,X
-   4,L
-  15,U,X
-  54
+   6,L
+  69,U,X
   40
 
 #lvl_d-01 (0)
@@ -2595,4 +2596,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-ChapterTime: 5:43.026(20178)
+ChapterTime: 5:43.009(20177)
