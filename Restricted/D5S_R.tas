@@ -101,30 +101,31 @@ Read,D5A_R,Start,lvl_a-01 (0)
   21,D,C
    6,R,D,X
    1,L,J
-  18,L,D
-   7,L,D,J
-   1,R,K,G
-   7,L,K
-  23,L,D
-   1,L
-   5,L,D
+  14,L,D
+   1
+   1,L,D
+   2,L
+   6,L,D,J
+   8,L
+  11,L,D,X
+  15
+   4,L,D
   40
 
 #lvl_a-04
 #1x
-  17,L,D
-   2,L,J
-   9,L
-   1,K
-   1,L
-   7,R
-   1,J,G
-   3,R
-   2
-   1,R
+  18,L,D
    1
-   1,L
-  25,L
+   1,L,J
+   6,L
+   2
+   2,L
+   6
+   1,R,D
+   1,J,G
+   4,R
+   3
+  26,L
    4,L,Z
   20,G
    1,L,J,G
@@ -135,20 +136,29 @@ Read,D5A_R,Start,lvl_a-01 (0)
    8,R,J
    7,R
    2,R,J
-   9,R
-Repeat,6
-   1,G
+   3,R
+   6,R,J
+   1,J,G
+   1,J
+   1,J,G
+   2,J
+   1,J,G
+   2,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   2,J,G
+   2,J
+   1,J,G
+   1,J
+   2,J,G
+   1,J
    1
-EndRepeat
-   3,G
-   4,R
-Repeat,4
-   1,G
-   1
-EndRepeat
-   8,U,G
-   1,G
-   2,U,G
+  11,G
+   3,U,G
    1,R
    1,R,J,G
    1,R,K,G
@@ -3962,4 +3972,4 @@ EndRepeat
 #0x
 Read,D5A_R,lvl_e-05
 
-MidwayFileTime: 12:19.381(43493)
+MidwayFileTime: 12:19.330(43490)
