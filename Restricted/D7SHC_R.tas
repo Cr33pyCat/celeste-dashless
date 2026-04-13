@@ -1,4 +1,4 @@
-#7SHC 255x (R)
+#7SHC 254x (R)
 
 #console load 7 3088 -1768
 #play,500M,37
@@ -4387,32 +4387,37 @@ EndRepeat
   40
 
 #lvl_e-11 (1)
-#3x
+#2x
    1
    4,R,D
-  63,R
-  48,R,U,G
-   1,K,G
-   1,L,K
-   2,R,J,G
-   2,R
-   1,R,K,G
-   1,R,J,G
-   0
-  10,R
-  14,R,J
-  42,R
-  15,R,U,X
-  10,L
-   6,D
-  15,R,U,C
-  15,R,Z
+  62,R
+   1,R,D
+  24,U,G
+  24,R,U,G
+  31,R,G
+   6,G
+   8,R,U,G
+   1,G
+   1,R,G
+   1,J,G
+   4,R,J
+   6,L,Z
+   1,R,J
+   3,R,K,G
+   4,R,D
+   1,R,D,J
+   1,R,J
    1,R
-  15,U,X
-   4
-  22,R
-  15,R,Z
-  13,D
+   5
+   1,J
+   1
+   7,R,D
+   4,D
+   2,R,D
+   1,D
+   3,R,D
+   6,R
+  15,R,X
   26,L,D
    1,L,J
   24,L,D
@@ -4421,7 +4426,7 @@ EndRepeat
 #lvl_e-10
 #4x
    6,L,D
-   1,J
+   1,L,J
   20,D
   15,R,D
   14,R,D,J
@@ -7228,4 +7233,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 15:48.073(55769)
+ChapterTime: 15:46.679(55687)
