@@ -57,9 +57,9 @@ Read,D3A,lvl_s0,lvl_s2
    7,L,K
    9,L,J,G
   12,L,K,G
-   5,L,J,G
-   3,R,J
-   3,L,J
+   3,L,J,G
+   4,R,J
+   4,L,J
    7,L
    1,L,J
   14,L
@@ -69,7 +69,7 @@ Read,D3A,lvl_s0,lvl_s2
    8,L
    1,L,J
    9,L
-   7,L,J
+   7,L,D,J
    4,L
    1,L,K,G
    1,L,J,G
@@ -100,41 +100,41 @@ Read,D3A,lvl_s0,lvl_s2
    1,J,G
    5,L
    5,L,K
-   2,K
-   3,L,K
-   1,R
-   2,R,J,G
-   1,K,G
-   1,L,K
-   7,R,K
-  17,R
-   1,R,K,G
+   1,K
+   4,L,K
+   1,L
    1,R,J,G
+   3,L,J
+   2,R,J
+   8,R
+   3,R,K
+   2,R
+   1,R,J,G
+   1,R,K,G
    1,R
    1,J,G
    6,R,J
    4,R
-   2,L
    3,L,J
    1,L
+   2,L
   10,L
   14,R,D
    1,R,J
   18,R
    1,R,J
   18,R
-   5,R,D
-   4,R,D,J
-   1,R
+   4,R,D
+   1
+   5,R,J
    1,R,K,G
-   1,R,J,G
-   9,R
-   7,J
-   1,L,J
-   1,K
-   2,J,G
-   1,R,J
-   6,R,J
+   8,R,J,G
+   5,R
+   1,L
+   1,J
+   2,K,G
+   1,R,K
+   6,R,K
    5,R
   22,R,J
    2
@@ -4115,4 +4115,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 8:12.201(28953)
+ChapterTime: 8:11.980(28940)
