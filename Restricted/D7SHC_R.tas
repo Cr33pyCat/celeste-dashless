@@ -1,4 +1,4 @@
-#7SHC 255x (R)
+#7SHC 254x (R)
 
 #console load 7 3088 -1768
 #play,500M,37
@@ -3148,42 +3148,42 @@ EndRepeat
    1,R,K
   12,R,J
   12,L,K
-  12,R,J
-
-   4,R,K,G
+  12,L,J,G
+   2,L,K,G
+   2,R,J
   40
 
 #lvl_d-06 (0)
-#0x
+#1x
 # this just worked somehow???
 # -143.83 xspd before the dcb
 # i barely had to manip it
 # thank you celeste gods
-   1,J
-   2,K,G
-   5
-   1,L
-   1
-   2,L
-   1,L,J
+   5,L,J,G
    1,L,K,G
+   1,L
    1,L,J,G
-  16,L
+   2,L
+   2,L
+   2
+   1,L
+   9,R,Z
+   1,L,J
+   7,L
+   1,L,D
+   3,L,D,J
   40
 
 #lvl_d-07
-#4x
-  10,L,D,J
-  10,L
-   2
+#3x
+   9,L,D,J
    1,L
-  18,L,Z
-   6,L,J
-  15,L,U,Z
-  28,L
+  13,L,J
   15,L,U,X
-  31,L,D
-  19,L,J
+  24,L
+  15,L,U,X
+  37,L,D
+  18,L,J
   15,U,X
   40,L,J
    9,D
@@ -7233,4 +7233,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 15:46.679(55687)
+ChapterTime: 15:46.475(55675)
