@@ -463,8 +463,7 @@ EndRepeat
    1,L,K,G
    9,L
    1,L,J
-  18,L
-   3,L,D
+  21,L
    1,L,J
    3,L
    8,L,J
@@ -517,68 +516,68 @@ EndRepeat
    3,L,D
    3,L
    2,L,J,G
-   6,L
-   2,L
-   2,L
-   2,L
+  12,L
    3
    1,L,J
-   6,L
-   4,L
-   1,L,J,G
-   1,L,K,G
-   6,L
-   3,L,K
-   6,L
-   2,L,J
    5,L
-  16,L,J
-   5,R,K
-   1,R
-   5,R
-   2,R
+   5,L,K
+   4,L,J,G
+   5,L
+   2,L,K
+  10,L
+   7,L,J
+  16,L
    2,R,J
    7,R
+   2,R,K
+  11,R
    1,R,J,G
-  20,R
-  26,R,J
-  26,U,Z
-   6,R,J
+   1,R,K,G
+  12,R
+  28,R,J
+  20,U,Z
+   4
+   1,R
+   1,L
+   1,J
+   5,K,G
   40
 
 #lvl_00-c
 #0x
-# can be improved by walljumping earlier to spend longer at 240 speed
-  12,R,J
-   4,R,K,G
+   2,R
+  10
+   1,K,G
+   1,R,K
+   2,K
    1,J
    3,K,G
    6
    1,L
-   1,L,D,J
-   2,J
-   2,L,J
-   2,J
-   1,L,K,G
-   8,L,J,G
-   4,L
-   4,L,J
-   3,L
-   1,K
-   9,L,K
-   1,K
-   4,R,J
-   5,R
-   2,R,J
-   1,R
-   1,K
-   5,J,G
-   5,L,J
-   1,L
-   1,L,K,G
-   9,L,J,G
+   4,L,D,J
+   2,L
+   1,L,J,G
+  10,L,K,G
    5,L
-  20,L,J
+   1,R
+   3,J,G
+   3,L,J
+   1,J
+   1,L,J
+   3,J
+   1,L,J
+  12,R,K
+   1,J
+   1,K,G
+   4
+   2,L
+   3,L,K
+   1,L,K
+   1,L,J,G
+   9,L,K,G
+   5,L
+  10,L,K
+  10,L
    2,D
    2,R,D
    2,D
@@ -593,8 +592,7 @@ EndRepeat
    2,L,D
    6,L,J
    5,L
-  10,L,J
-   1,L,K
+  11,L,K
   21,L,D
   40
 
@@ -602,8 +600,7 @@ EndRepeat
 #1x
    3,L,D
    3,R,D
-   3,L,D
-   8,L,D
+  11,L,D
    6,L,Z
    1,L,J
   40
@@ -671,43 +668,33 @@ EndRepeat
    1,R
    1,R,K
    4,R
-Repeat,7
+Repeat,6
    3,R,J
    1,R
    1,R,K
    4,R
 EndRepeat
+   5,R,D,J
+   1,L,J
+   1,K
+   1,J,G
+   4
+   6,R
+Repeat,5
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,J
-  10,R
+EndRepeat
   40
 
 #lvl_00-b (2)
 #0x
-   4,R
+Repeat,6
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,K
-  14,R
-   6,R
+EndRepeat
    4,R,J
    1,R
-   1,R,J
+   1,R,K
    4,R
 Repeat,8
    3,R,J
@@ -715,34 +702,55 @@ Repeat,8
    1,R,K
    4,R
 EndRepeat
-   3,R,J
-   2,R
-   2,R,K
-   1,R
+   2,R,J
   40
 
 #lvl_01-b (1)
 #0x
-   4,R
-   4,R,J
-   1,R
    1,R,J
+   1,R
+   1,R,K
    4,R
-Repeat,11
+Repeat,2
    3,R,J
    1,R
    1,R,K
    4,R
 EndRepeat
-   4,R
-   6,R,D,J
+   3,R,J
+   1,R
+   1,R,K
+   3,R
+   1
+   1,D,J
+   5,L,J
    1,K
-   2,J
-   6,R,J
-   3,K,G
-   4,R,K
-   1,R,J,G
-   3,R,K,G
+   1,J,G
+   9
+   1,R
+   4,R,J
+   1,R
+   1,R,K
+   4,R
+Repeat,4
+   3,R,J
+   1,R
+   1,R,K
+   4,R
+EndRepeat
+   1,R,J
+   3,R
+   6,R,K
+   3,R
+   4,R,D,J
+   3,R
+   1,K
+   2,K
+   6,R,K
+   3,J,G
+   4,R,J
+   1,R,K,G
+   3,R,J,G
   27,R,D
    1,R,J
    3,R
@@ -750,6 +758,7 @@ EndRepeat
 
 #lvl_02-b (1)
 #0x
+# if this comment is here, that means this doesn't have a possible -1f yet: https://discord.com/channels/510279444368457730/510606000454107148/1494896655953039513
   19,R
   13,R,J
    1,L
@@ -1174,11 +1183,12 @@ EndRepeat
    6,L
    2,L,J
    2,L,D,K
-  10,K
+   9,K
+   1
   12,L,J,G
    3,K,G
    1,R,K
-   1,L,K
+   1,L
    2,J,G
    1,R,J
    5,L,J
@@ -1193,25 +1203,25 @@ EndRepeat
    2,L
    1,L,K,G
    1,L,J,G
-  10,L
+   9,L
    1,L,J
   14,L
    1,L,J
   14,L
    1,L,J
-   7,L
+   8,L
   43
 
 #lvl_05-c
 #2x
    7,L
-  10,L,D,J
-  16,L,D
+  12,L,D,J
+  14,L,D
    2
    2,L
   20,L
    1
-   1,L,G
+   1,G
    3,L,J,G
   15,L,D,X
    2,L
@@ -1234,12 +1244,12 @@ EndRepeat
    6,L
   10,L,J
    1,L
-   8,L,J
-  12,L,K
-  10,J,G
-   1,J
-   1,R,J
-  13,L,K,G
+   8,L,K
+  12,L,J
+  10,K,G
+   1,K
+   1,R,K
+  13,L,J,G
    1,L
   11,K,G
    1,R,K
@@ -1255,24 +1265,29 @@ EndRepeat
    2,R,J
    5,R
   33,R,J
-  12,R,K,G
-  11,R,J,G
+  11,R,K,G
+   1,R
+  10,R,J,G
+   1,R
    1,K
    4,J,G
    5,L,J
    2,L
    1,L,K,G
    1,L,J,G
-  10,L
+   9,L
    6,L,J
-   8,R,J
+   7,R,J
    4,R,K,G
-   3,L,K
-   4,L
-   2
-   2,J
-   6,R,K
-   1,R,J,G
+   4,L,K
+   2,L
+   3
+   1,K
+   1
+   1,K
+   6,R,J
+   0,R
+   1,R,K,G
    8,R
    1
    1,R,D,J
@@ -1291,6 +1306,7 @@ EndRepeat
    7,R,J,G
   19,R
    6,R,D
+# midair wallboost?
    1,R,J,G
    4,R,K,G
    1,R
@@ -1314,7 +1330,8 @@ EndRepeat
   11,R,J
    2,R,K
    5,R
-  42,R,K
+  10,R,K
+  32,R
    1,R,J,G
    2,L,J
    1,R,J
@@ -1356,14 +1373,16 @@ EndRepeat
    1,R,K,G
    6,R,J,G
    5,R
-   1,R,K,G
+   1,R,J,G
   11,R
    1,R,J
   23,R,D
   21,D,X
-   1,J
-  20,R,D
+   1,R,J,G
+   9,L
+  11,R
   40
+
 #lvl_07-b (1)
 #0x
   12,R,D
@@ -1372,70 +1391,63 @@ EndRepeat
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   1,R
-   1,K,G
    6,R
-   4,L
+   1,R,K
+   5,R
+   2
+   1,K,G
+   2
+   1,R
    1
+   2,R
+   1,L
    1,L,J
   18,L
    1,L,J
   14,L
-   2,L
   13,L,J
    1,K
+   5,L
+   3
    1,J
-   3,L,J
+   1,K,G
+   6
+   1,R
+   1,R,J,G
+   1,R,K,G
    1,J
-   1,L,J
-   1,L,K,G
-   1,J
-   2,K,G
-   1,R,K
   40
 
 #lvl_06-c (2)
 #0x
-   3,R
    1,R,J,G
-   9,R
+   1,R
+   1,R,J,G
+  12,R
+   1,R,D,J
+  14,R
    1,R,J
-   7,R
-   3,R,J
-   7,R
-   1,R,J
-   3,R
-   1,L
-   1,J
-   2,K,G
-   3,R,K
-   5,R
-   5,R,K
-   1,K
-  11,R
+   6,R
    1
-   3,R,J
-   1,R,K,G
-   4,R,J,G
-   4,R
-   2
+   2,R
+   1
+   1,R,J,G
+   4,R,K,G
+   5,R
   40
 
 #lvl_08-c
 #0x
+   1,R
    1,R,D,J
-   6,R
-   1,R,J
-   6,R
+  13,R
+   6
+  12,R
+  21,R
+   6,R,D
    1
-   5,R
+  29,R
    1
-  37,R
-   1
-  30,R
-   2
    5,J,G
    3
    1,K,G
@@ -4063,4 +4075,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 8:11.317(28901)
+ChapterTime: 8:10.637(28861)
