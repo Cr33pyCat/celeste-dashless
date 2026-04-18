@@ -1326,42 +1326,52 @@ EndRepeat
   22,L,D
   13,R,D
   14,L,D
-  49,R,D
-   1,R,J
-   8,R
+  40,R,D
+  14,R
+   5,R,J
   43
 
 #lvl_d-03 (0)
 #0x
-   6,R
+   6,R,J
+   2,L,J
+   1,K
+   1,J,G
+   1
+  22,R,D
+   2,R,J
+   5,R
+   1,J
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  19,R
-   1,R,J,G
-   1,K,G
-   1,R
-   2
+  13,R
+   1,J,G
+   1
+   3,R
    1,L
   39,L,D,G
    1,L,J,G
-  18,L,D,G
+  16,L,D,G
+   1,D,G
+   1,L,D,G
   10,R,D,G
    2,R,G
   40
 
 #lvl_d-00 (2)
 #0x
-   5,R,G
+   3,R,J,G
   43
 
 #lvl_d-03 (1)
 #0x
-   1,R,G
-  26,R,J,G
-  31,R,D,G
+   6,R,J,G
+   1,J,G
+   3,R,J,G
+   1,R,K,G
+   8,R,J,G
+  37,R,D,G
+   1,D,G
+   1,R,D,G
    3,R
    2,R,J
   34,R,J,G
@@ -1379,11 +1389,11 @@ EndRepeat
   14,G
    8,R,G
    1,L,J
- 267,R,U,J,G
+ 269,R,U,J,G
    1,L
-  11,R
-   1
   15,R
+   1
+  10,R
   77
    8,L
   16,L,D,J,G
@@ -3173,7 +3183,7 @@ EndRepeat
 #Spinner cycle (f-05)
 #0-1
 
-   0
+   1
 # ---------
 
    3,J,G
