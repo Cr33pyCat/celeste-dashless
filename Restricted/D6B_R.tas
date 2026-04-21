@@ -954,19 +954,18 @@ AnalogMode,Ignore
   10,R,J
   21,R
   39,L
-   4,L,J,G
-   1,K,G
-   9,L
-   5,R
-  44,R,J
-   1,R,D
-   1,R,G
-   8,R,J
-  49,R
-   1
+   7,R,J
+   9,R
    1,R
-  15,U,X
-   5,R
+  21,R
+   2
+  14,R,U,Z
+   3,R
+   3,L
+   3,L,J,G
+   1,K
+   2,J,G
+  33,R,J
   42,L
    3,R,J
   30,R,D
@@ -1747,4 +1746,4 @@ EndRepeat
   15,R,X
  135,D
 AnalogMode,Ignore
-ChapterTime: 4:24.401(15553)
+ChapterTime: 4:23.636(15508)
