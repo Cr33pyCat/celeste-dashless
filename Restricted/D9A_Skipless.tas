@@ -397,7 +397,7 @@ Read,D9S,Start,lvl_j-14
   10,R,D,G
   46,R,U,G,AL
    1,U,G
- 347,R,U,G,AL
+ 347,R,U,G
    8,U,G
    4,R,U,G
    1,U,G
@@ -415,9 +415,9 @@ Read,D9S,Start,lvl_j-14
    1,R,D,G
    2,D,G
    1,R,D,G
-  40,R,U,G,AL
- 116,R,D,G,AL
-  51,R,U,G,AL
+  40,R,U,G
+ 116,R,D,G
+  51,R,U,G
   10,R,D,G
    5,R,U,G
    1,R,D,G
@@ -434,25 +434,26 @@ Read,D9S,Start,lvl_j-14
    1,J
    5,R,J
    8,R
- 196,R,D,G
-   1,L
-  60,R,D
-   3,D
-  58,R
-  44
-  52,R
-   1,R,J
-   4,R
-  44,R
-  51,R
-  44,R
+ 373,R,U,G
+  23,R,D,G
+   1,R,G
+ 144,R,D,G
 AnalogMode,Precise
-  27,L,U
- 182,F,0.6
-  38
+  27,R,U
+  26,F,90
+   1,F,88.062
+  11,F,28
+  79,F,335
+   3,D
+  31,U,G
+   1,U,J,G
+  31,U,G
+   6,D
+  12
+  26,G
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:09.112(60536)
+ChapterTime: 17:09.095(60535)
 
 # optional waiting for
 # visuals to play out
@@ -462,7 +463,8 @@ ChapterTime: 17:09.112(60536)
    1,J
   30
    1,J
- 100
+  70,U,G
+  30,D,G
 #-----------------
    1,S,N
    1,D,J
