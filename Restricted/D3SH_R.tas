@@ -924,13 +924,16 @@ EndRepeat
    1
    3,R
    3
-  58,D
+  57,D
    5,R
    5,R,D
    1,R,J
    5,R
-  10,R,J
    1,R,K
+   1,R
+   7,R,K
+   1,R
+   1,R,J
    6,R
    2,R,K
    2,R
@@ -4076,4 +4079,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 8:10.620(28860)
+ChapterTime: 8:10.603(28859)
