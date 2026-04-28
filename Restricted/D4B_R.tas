@@ -1121,69 +1121,75 @@ EndRepeat
   15,R,C
   17,D
   11,R,D
-  15,R,U,X
-  21,D
-   3,R,D
-   3,R
-  14,R,Z
-   1,R,J,G
-  12,R
-   1,R,J
+  20,R,U,X
+   9
+  11,D
    1,R
+   1,R,D
+  14,R,Z
+   1,R,J
+   6,R
+   3,R,J
   40
 
 #lvl_d-00
 #1x
-  17,R
-   1,R,J
-  28,R,D
-  25,R
-  69,R,J
-Repeat,4
+   1
+  10,R,D
+   1,D
+  20,R,D
+  19,R
+   1,D
+   4,R
+  68,R,J
+Repeat,5
    2,D
    1,R
 EndRepeat
-   1,D
    1,R
    1,R,D,J
-  21,R
+  15,R
+   2
+   8,R,K
    1,R,J,G
-  27,R,K,G
-  30,R
-   1
-   1
-   1,R
+  10,R,K,G
+   1,K
+  16,R,K
+  33,R
    6,R,J
    1,R,K,G
    8,R,J,G
    1,R
-   1,R
-   6,R,K,G
-   4,R
+   9,R,K,G
+   2,R
    1,R,J,G
   26,R,D
-   9,R
+  11,R
+   1,R,D,J
+Repeat, 7
    1
-   1,R,J
-   1
-  16,R
+   1,R
+EndRepeat
+   5,R,K
    1,R,J,G
    2,R,K,G
-  26,R
+   6,R
+   2,R,J
+  18,R
    1,R,J,G
-   6,R,K,G
+   5,R,K,G
   23,R
    1,R,J
-  14
-   2,R
-  15,R,J
+  12
+   4,R
+   1,J
+  14,R,J
    1,R,K,G
    1,R,J,G
    3,R
    9
   27,R,J
-  22,R
-   1,R,J
+  20,R
   11,R,Z
   40
 
@@ -1536,4 +1542,4 @@ EndRepeat
   11,R,U,X
  135
 
-ChapterTime: 3:14.701(11453)
+ChapterTime: 3:14.429(11437)
