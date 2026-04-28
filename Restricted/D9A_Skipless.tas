@@ -1,13 +1,12 @@
-#FAREWELL SKIPLESS 184x (R)
+#FAREWELL SKIPLESS 183x (R)
 
-console hearts 15
 console load 10
    1
 
 #Start
 
 Read,D9S,Start,lvl_j-14
-#172x
+#171x
 
 #lvl_j-14
 #3x
@@ -453,7 +452,7 @@ AnalogMode,Precise
   26,G
 #End_IGT
 AnalogMode,Ignore
-ChapterTime: 17:09.095(60535)
+ChapterTime: 17:25.449(61497)
 
 # optional waiting for
 # visuals to play out
