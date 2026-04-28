@@ -965,17 +965,17 @@ EndRepeat
   24,L,J
    1,J
   12,R,D
-   1,R
    1,R,D
    1,R
-   1
-   5,R,G
-Repeat, 17
+   1,R
+   3
+   4,R,G
+Repeat, 13
    1
    1,G
 EndRepeat
-   3,L
-   2,R
+   8,U,G
+   3,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -984,11 +984,11 @@ EndRepeat
    7,R
    3,R,D,J
    8,R,D
-   1,R,J
+   1,R
    3,R
-   1,R,J
+   1,R
   16,R
-  19,R,D
+  18,R,D
    1,R,J
   40
 
@@ -1526,4 +1526,4 @@ EndRepeat
   11,R,U,X
  135
 
-ChapterTime: 3:15.500(11500)
+ChapterTime: 3:15.466(11498)
