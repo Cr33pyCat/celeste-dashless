@@ -837,16 +837,15 @@ EndRepeat
    1,J,G
   12,R,J
    5,R
-  30
+  34
+   1,L
+   1
    5,L
-  25,L,J
-   7
-   2,R
-   1,R,D
-   5,D
-   3,R,D
-   3,R
-   1,R,D
+  10,L,J
+  15,L
+   9
+   1,R
+   6,R,D
    1,R,J,G
    1,R,K,G
    1,R
@@ -985,30 +984,26 @@ EndRepeat
    1,J
   12,L
    1,D
-   1,R,D
-  38,R,D
-   1,R,J
-   3,R
+  39,R,D
+   4,R
    1,S
    1,D,J
   34
-  11,R
+  38,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  10,R
+  20,R
   40
 
 #lvl_05-a
 #0x
-   4,R
-  13,R,J
-  12,L,K,G
-   3,J,G
+  12,R,D,J
+   5,R
+   2,R,K
+  10,L,K,G
+   1,K
+   1,J,G
    1,K
    2,J,G
   14,R,J
@@ -1016,12 +1011,12 @@ EndRepeat
    5,R
    2,R,J
    5,R
-   7,D
+   7
    1,R,D
    5,D
    1
-   1,D
    1
+   1,D
   19,R,J
    1,L,J
    1,K
@@ -1205,11 +1200,7 @@ EndRepeat
    1,L,J,G
    9,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-   8,L
+  42,L
   43
 
 #lvl_05-c
@@ -1285,42 +1276,19 @@ EndRepeat
    1,K
    1
    1,K
-   6,R,J
-   0,R
-   1,R,K,G
-   8,R
-   1
-   1,R,D,J
-   1,R,K,G
-   5,R,J,G
-  10,R
-  14,R,D
-   2,R,J
-  12,R
-   1,R,J,G
-   1,R,K,G
-  12,R
-   1
-   4,R,D,J
-   1,R,K,G
-   7,R,J,G
-  19,R
-   6,R,D
-# midair wallboost?
-   1,R,J,G
-   4,R,K,G
-   1,R
+   9
+   1,S
+   1,D,J
+  69,O
+   5,R
    1,R,J
-   4,R
-   1,R,J
-   7,R
   40
 
 #lvl_06-c (1)
 #1x
-   7,R
-   1,R,J
-  14,R
+   1,R
+   1
+  23,R
    4,R,D,J
    5,R
   16,R,J
@@ -1645,22 +1613,25 @@ Read,D3A,Huge Mess,H1-Return
    2
    1,R,K,G
    1,R,J,G
-   6,R
-   1,R,J
+   3,R
+   3
+   1,J
    2
    1,J
    2
-   9,L,Z
+   8,L,Z
    1,R,J
    6,R
-   1,R,J
-   1,R
+   2,R,D,J
    1,R,K,G
-  10,R
    1,R
    1
-   1,R,D,J
-  14,R
+   5,R
+   1,R,K
+   4,R
+   1,R,J
+   1
+  13,R
    1,R,J
    9,R
    5
@@ -1691,15 +1662,16 @@ Read,D3A,Huge Mess,H1-Return
 #0x
    1,L
    3,L,D
-   3,L,J
-   1,L
-   1,L,J
-   4,L
-   3,L,D,J
+  11,L
+   2,L,D,J
    5,L
-   5,L,J
-  36,L,D
-   1,K
+   1,L,K
+   1,L,K
+   0,L
+   2,L
+   1,L,K
+  37,L,D
+   1,J
   15,R,D
    1,R,J
   19,R
@@ -1817,41 +1789,42 @@ Read,D3A,Huge Mess,H1-Return
 #1x
    8,L
   10,L,J
-   5,L
-   1,L,J
-   1,L
-   1,L,J
-   1,L,K
-   1,L,J,G
-   9,L
-   3,L,J
-   1,L
-   2
-   1,L
-   5,D,X
- 103
-   9,R
-   1,R,D,J
-   1,R
-   1,R
-   1,R,J,G
-   9,R
-   1,R,J
-   2,R
+   7,L
+   2,L,J
+   6
+  11,L
+   4,L,J
+   3,L
+   6,L,D,X
+  12
+   1,S
+   1,D,J
+  69,O
   12,R,D,J
-   1,R
-   5,R,J
+  10,K,G
+   1,L,K
+   1,R,K
+   2,J,G
+  12,L,J
+   1,R,J
   12,K,G
-   6,J,G
+   8,J,G
+   0
+   1,L
+   1,K,G
+   3,R,K
+   1,R
+   2,R
+   1,L
+   1,J,G
+  11,R,J
+   1,K,G
+   7,L,K
+   1,J,G
+   1,R,J
    1,L,J
-   5,R,K,G
-   6,R
-   5,R,J
-  12,R,K
-  10,J
-   1,K
-   1,K
-   1,K
+   1,K,G
+   1,R,K
    1,R,J,G
    1,R,K,G
    1,J
@@ -1862,12 +1835,13 @@ Read,D3A,Huge Mess,H1-Return
    1,R,J,G
    1,R
    1,R,J,G
-   9,R
+   5,R
+   3
   40
 
 #lvl_13-a (1)
 #0x
-   2,R
+   4
   10,L,J
    1,K,G
   10,L,K
@@ -1878,9 +1852,7 @@ Read,D3A,Huge Mess,H1-Return
    6,R
    1,R,J
    1,R
-   1,R,G
-   1,R
-   1,R,G
+   1,G
    1
    1,J
    2,K,G
@@ -1905,13 +1877,12 @@ Read,D3A,Huge Mess,H1-Return
    4,R
    1,L
    1,J,G
-   5,R
-   3,R,J
-   1,J
-   1,R,J
-   1,R,K,G
-   1,R,J,G
+   5
    1,K
+   5,R,K
+   1,R,J,G
+   1,R,K,G
+   1,J
   40
 
 #lvl_13-b (1)
@@ -1922,62 +1893,71 @@ Read,D3A,Huge Mess,H1-Return
   14,R
    1,R,J
   14,R
+   4,R,J
+   5,K,G
+   7,L,K
+   2,K
+   1,J
    3,R,J
-  11,R
-   8,L,J
-   2,L,J
+   1,J
+   6,L,K,G
+   2,L,K
+   1,J,G
+   3,L,J
    1,L,J
-   2,L
+   1,R,J
    1,K
-   4,R,K
-  10,L,J,G
-   1,K,G
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,R,K
-  12,L,J,G
-   2,L
+  16,L,J,G
    1,L,K,G
    1,L,J,G
-  11,L
-   3,L,D,J
-  15,L
+   8,L
+   1,L,K
+   5,L
    1
-   1,L
+   4,L
+   2
+   1,L,K,G
    1,L,J,G
-   2,L,K,G
+   1,L,J
+   3,L,J
+   1,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,J
+   1,L,J
+   1,L
+   1
+   4,L
+   1,L,K
+  12,L
+   1,L,J
    2,L
-   1,L,J,G
    1,L,K,G
-  14,L
-   7,L
-   1,L,J
-   1,L
-   1,L,J,G
-   1,L,K,G
-  16,L
-   1,L,J
-  23,L,D
+   3,L,J,G
   18,L
    1,L,J
-   2,L
+  23,L,D
+   1,L,J
+  15,L
+   1,L,J
   40
 
 #lvl_12-b (1)
 #0x
-  12,L
-   3,L,J
-   6,L
+  14,L
    2,L,J
-  10,L
-   1,L,K
+   7,L
+   2,L,J
+   8,L
+   1,L,J
    1,J
    3,L,J
    6,L
-   4,L,J
-   8,L
+   3,L,K
+   1,L
+   1,L,K
+   7,L
    1,L,J,G
    1,L,K,G
    9,L
@@ -4075,4 +4055,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 8:10.042(28826)
+ChapterTime: 8:08.886(28758)
