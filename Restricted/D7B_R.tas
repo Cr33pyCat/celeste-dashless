@@ -161,13 +161,14 @@ console hard 7
    6,R
   37,R
   10,R,D
-  11,R
+   9,R
+   2,R,D
   15,R,Z
   12,R
   15,R,U,X
-  23,R,D
+  22,R,D
    1,R,J
-  15,R
+  16,R
    9,R,D,J
   40
 
@@ -383,10 +384,14 @@ EndRepeat
   12,R,J,G
    5,R
    7,R,J
-   8,R,K
-  23,R
-  12
-   6,L
+   6,R,K
+  21,R
+   1
+   2,R,J,G
+   1,R,K,G
+   2,R
+   5,L,J
+  10,L
    4,L,D,J
   17,R,D,J
    1,R,K,G
@@ -1603,26 +1608,24 @@ EndRepeat
    7,D
    1,G
    2,R,J,G
-   1,R
    3,R
-   7,R
-   1,G
-   1,R
-   1,G
-   1,R
-  20,R,J
-  14,R,Z
-   3,J,G
-   2,R,K,G
-   9,K
-   7
+   9,R,J,G
+  18,R,J
+  15,R,Z
+   1,R,J,G
+  14,R,K,G
+   5,K
+   1
    1,L,J,G
-   2,R,J
+   1,R,J
    1,L,J
    1,R,J
    8,L,J
-   8,L,K,G
-  15,L
+   1,R,J
+   2,L,J
+   7,L,K,G
+   1,L
+  14,L,J
    1,U,X
   19,U
    8,R,D,X
@@ -2143,7 +2146,6 @@ EndRepeat
   15,R,U,X
   31,R
   12,R,D
-
 #CP-13
 #4x
    1,R,J
@@ -2948,4 +2950,4 @@ Repeat, 23
    1,R
 EndRepeat
    3,R
-ChapterTime: 6:33.533(23149)
+ChapterTime: 6:33.465(23145)
