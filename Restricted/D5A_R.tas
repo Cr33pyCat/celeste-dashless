@@ -594,20 +594,19 @@ EndRepeat
    1,J,G
    1
    9,R
-   1,R,J
-   4,R
+   5,R,J
   40
 
 #lvl_b-19
 #1x
-  10,R
-   1,R,J
-   6,R,K
-  34,R
-   3,R,D
+   9,R
+   1,L
+   1,J
+   2,K,G
+   2,R,K
+  39,R
    1,R,J,G
   15,R,K,G
-   1
   15,R,X
   44
    1,R,J,G
@@ -2588,4 +2587,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-ChapterTime: 5:42.788(20164)
+ChapterTime: 5:42.771(20163)
