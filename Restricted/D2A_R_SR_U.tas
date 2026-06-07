@@ -146,31 +146,27 @@ console load 2
    5,R
    2,R,J
    1,J
-   1,L,K,G
-  10,K
+  10,L,K,G
    1
-  19,R,J
+   1,J
+   2,K,G
+  17,R,K,G
    1,L,J
    1,K
    2,J,G
    1,R,J
    5,R
-   1,R,J
-   1,R
-   5,R,J
-   4,R
-   1
-   1,R
-   1
+   2,R,J
+  11,R
    1,R,J,G
-  13,R
-  13,R,J
+  12,R
+  16,R,J
    2,R,K,G
    3,L,K
    1,K
    1,R,J,G
    1,R,K,G
-   3,R,J,G
+   1,R,J,G
   11,R
   40
 
@@ -983,29 +979,21 @@ console load 2
    2,R,D
    2
    4,L,D
-   1,D
-   6,L
-   3
-   5,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L,J,G
-   1,L,K,G
-   9,L
+   1
+   2,L
    1,L,J
-  10,L
-   2,L,D
-  25,R,D
-  11,D
-  15,R,D
-  28,L,D
    1,L
-  13,R,D
-   6,R
+  14,L,J
+  26,L,D
+  26,R,D
+   9,D
+  11,R,D
+   9,D
+  20,L,D
+  11,R,D
+   9,R
    1,R,D
    1,R
-   1,R,D
    1,R,J
    5,R
   34,R,X
@@ -1646,4 +1634,4 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
-ChapterTime: 2:29.787(8811)
+ChapterTime: 2:29.736(8808)
