@@ -759,29 +759,25 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    1,R,J,G
    1,R,K,G
   10,R
-   8,R,J
-  15,R,X
-  52,L
-   1,L,J
-  81,L
+   1,R,J
+  14,R
+   5,R,J
+   8,R
+   4,X
+  21,L,D,X
+   8,L,J
+  40,L,D
+  65,D
   60
    1,J
   30
-   1,L
-   1,L,J
-  17,L
-   1,L,J
-  14,L
-   1,L,J
-  21,L
-   1,L,J
-  22,L,D
+   1,L,D
   40
 
 #lvl_s1 (2)
 #0x
-  15,L,D
-  29,R,D
+  13,L,D
+  30,R,D
   40
 
 #lvl_s0 (2)
@@ -792,6 +788,7 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
 #lvl_start (1)
 #0x
   47,R,D
+   1,R
    1,R,J
   21,R
    1,R,J
@@ -979,14 +976,10 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    5,L
    1,L,K
    1,J,G
-   5,R
-   1,R,K
-  12,R,D
+  18,R
    3,R,J
-   7,R
-   1,R,J
-  22,R,X
-#2:37.216(9248)
+   5,R
+  23,R,X
   15,R,D
   19,R,Z
    7,L,J
@@ -1111,17 +1104,13 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    3
    1,D
    1
-   4,R
-   1,R,J
-   1
-  11,R
-   1
-   6,R
+   2,R,J
+  20,R
    6,R,J
    6,R
-   2,R
-  10,R
-   5,R,D
+   2,R,J
+  15,R
+   1,R,D
    1,R,J,G
   10,R,K,G
    5,R
@@ -1138,20 +1127,14 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    1,L
    4
    1,J
-   1,R,J
-  17,R,D
+  18,R,D
    1,R,D
    1,J
   18,R
    2,R,D
    1,R
   15,R,D
-   2,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R
+   7,R
   14,R,J,G
    2,K,G
    1,R,K
@@ -1226,10 +1209,11 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    1,L,J
    1,R
    1,R,K,G
-  21,D
+  19,D
+   1,R,D
+   1,D
   17,R,D
-   8,R
-   2
+   9,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -1447,7 +1431,6 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    5,R
    1,R,D
    1,R
-   0,R
    1,R,J
    6,R
   34,R,X
@@ -1651,9 +1634,7 @@ Read,D2A_R_SR_U,lvl_d0 (1),lvl_0 (1)
    6,R
    1,R
    4,R,J
-   9,R
-   1,R
-   3,R
+  13,R
   30,R,Z
    5,R,J
    3,R
@@ -2032,4 +2013,4 @@ Read,D2A_R_SR_U,lvl_end_0,lvl_end_3b
    1,S
    1,D,J
   18
-ChapterTime: 4:38.273(16369)
+ChapterTime: 4:37.032(16296)
