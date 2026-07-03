@@ -9,53 +9,53 @@ Read,D5A,Start,lvl_b-02
 
 #lvl_b-02 (0)
 #0x
-  14,R
-   1,R,J
-  18,R
-   1,R,J
+   4,R
+   2,R,J
+   9,J
+   5
+   3,K
+  11
    1,R
-  10,L,J
-  27,L
-   2,L,D
-   1,L,G
+  26,L
+   2
+   1,G
    1,L,J,G
   32,L
-   5,R,X
-  55
-   3,R,J
-   2,R
+  59,R,X
+   1,R,J
+   4,R
+   1,R,J
   40
 
 #lvl_b-11 (0)
 #1x
-  12,R,D
-  12,R,J
-  16,R
-   1,R,J
-   6,R
+   9,R,D
+  10,R,J
+   9,R
    1
-   7,R
-  28,R,J
-   6,K,G
-   1,L,K
-   1,R,K
-  14,R,J,G
-   1,R,K,G
+   8,R
    1,R,J,G
+   1,R,K,G
   13,R
+  23,R,J
+   3,K,G
+   1,L
+  12,R,J,G
+   2,R
+   1,R,J,G
+   1,R,K,G
+   9,R
    1,R,J
-  17,R
-  15,R,U,X
-   7,R
-   1,L,J
-  14,L,D
-  37,D
-   4
-  22,R,D
+  19,R
+  15,R,U,Z
+  25,L,D
+  39,D
+  21,R,D
+   2,R
    1,G
    1,R,J,G
    1
-   1,J
+   1,K
   14,R
    3,R,J
   40
@@ -93,75 +93,58 @@ Read,D5A,Start,lvl_b-02
   26,R,J,G
    8,L,K
   15,U,X
-   2,D
-  60,R,D
-   1,R
-   1,R,J
-   4,R
-   6,R,J,G
-   1,J
-   5,R,J
+  31,L,D
+  11,R,D
+  27,G
+   1,D,G
+   1,G
+   1,D,G
+   1,R,J,G
    1,R,K,G
    1,R,J,G
-  12,R
+   1,R,K,G
+   7,R
    1,R,J
-  14,R
-   1,R,J
+  32,R,D
   58
 
 #lvl_b-17 (0)
 #0x
-  14,R
-   1,R,J
-  18,R
-   1,R,J
-  20,R,D
-   1,R,J
-   5,R
-   1
-   5,R
-   2
-   1,R
-   1,R,J
-   4
-  10,R
-   1,R,J
-   1,R,K,G
-   2,R,J,G
-  17,R
-   1,R,J
-  13,R
-   1
-   8,R
-   2,R,J
-   1,R,K,G
-   1,R,J,G
-   3,R
-   1,R,J,G
-  10,R
    1,R,D,J
-  14,R
+  23,R,D
    3,R,J
-   7,R
+   1,R
+   1,R,K,G
+   1
+  16,R
    3,R,J
-   7,R
+   1,R
+   3,R,K,G
+   9,R
    3,R,J
-   5,R
-  40
+   1,R
+   1,R,K
+   4,R
+   3,R,J
+   1,R
+   1,R,K
+   4,R
+   3,R,J
+   1,R
+   1,R,K
+   4,R
+   2,R,J
+  40,J
 
 #lvl_b-22
 #0x
-   2,R
-   5,R,J
-   3,R
-   1,R,J
-   1,R,J
+   3,J
+   3,R,J
    1,R,K,G
-  13,R
-   1,R,J
-   6,R
-  60,R
-  20,R,D
+  32,K
+  10
+  44,R,X
+  19,R,D
   18,G
    1
    1,L
@@ -425,7 +408,7 @@ Read,D5A,lvl_b-06,lvl_b-14
    1,R,J
   18,R
 ### Key Cycle
-  96
+  97
 ###
    1,J
   14,R
@@ -513,4 +496,4 @@ Read,D5A,lvl_b-06,lvl_b-14
 Read,D5A,lvl_b-16
 #8x
 
-ChapterTime: 6:59.203(24659)
+ChapterTime: 6:56.704(24512)
