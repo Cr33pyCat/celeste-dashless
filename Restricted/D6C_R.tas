@@ -230,6 +230,11 @@ EndRepeat
    1,R,D
   10,D
   26,R
-  17,R,U,X
- 135
+  18,R,U,X
+  12
+Repeat,61
+   1,L
+   1,R
+EndRepeat
+
 ChapterTime: 0:31.331(1843)
