@@ -386,40 +386,42 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
 #lvl_c-00b
 #0x
    1,K
-   1,J
-  10,R,J
+   5,J,G
+   3
+   4,R
+   1,R,J
    1,R,K,G
-   1,R,J,G
-  13,R
-  17,R,J
-   1,K
+   2,R,J,G
+   5,R
+   5,R,J
+   9,R,D
+  29,R,J
+# this is where i stopped
+   3,R,K
+   5,R
+   5,R,J
+  12,R
+   7,L
+   7,R
+  55
+   1,L,J
   11,L,K
-   1,J
-   1,K
-  23,R,K
-  34,R
-   3,R,D
-  60,R,J
-   1,L
-   1,K
-   1,J
-   8,L,J
-   1,L
-   5,L,J
-   1,K
-  11,L,K
-   8,J
+   4,L
+  12,L,J
+   8,K
    5
    1,J
-  27,D
-   6,R,D
-  70,L
-   1,J
-   1,K
-  11,L,K
-  36,L,D
+  24,D
+   7,R,D
+  47,L
+   4
+  22,L
+  20,L,K
+  10,L
+   2
+  17,L,D
    1,L,J,G
-   8,L,K,G
+   7,L,K,G
   18,L
    5,R
    1,R,J
@@ -1109,4 +1111,4 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
 #lvl_d-07
 #2x
 Read,D8A_R_SR_U,lvl_d-07
-ChapterTime: 6:03.630(21390)
+ChapterTime: 6:03.290(21370)
