@@ -323,9 +323,24 @@ console rmx2 1
    5,L
   26,R
   16,D
-Repeat,31
+Repeat,18
    1,R,D
    1,D
 EndRepeat
-  32,D
+   1,R,D
+   1
+Repeat,12
+   1,R,D
+   1,D
+EndRepeat
+   1,D
+   1,R,D
+   5,D
+   1,L,G
+Repeat,8
+   1,R,J
+   1,R,K
+EndRepeat
+   1,R,J
+   7,R
 ChapterTime: 0:24.990(1470)
