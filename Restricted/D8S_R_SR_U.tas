@@ -396,7 +396,6 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    5,R,J
    9,R,D
   29,R,J
-# this is where i stopped
    3,R,K
    5,R
    5,R,J
@@ -421,20 +420,20 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    2
   17,L,D
    1,L,J,G
-   7,L,K,G
-  18,L
-   5,R
-   1,R,J
-   8,R,D
-  15,D
+   1,L,K,G
+   9,L
+   8,L,J
+  12,R,J
+  12,R,D
+   5,D
   40
 
 #lvl_c-00 (2)
 #0x
    6,D
-  27,R,D
+  26,R,D
    1,R,J
-   6,R
+   7,R
   40
 
 #lvl_c-01 (2)
@@ -450,15 +449,19 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    5,R
   29,R,J
   34,R
- 210,R,J
+ 167,R,J
+  32,R
   33,R,D
    1,R,J
   16,R
-   9,R,J
-   3
-   2,R
    1,R,J
-  20,R
+  16,R
+   4,R,D,J
+   5,R
+   3,R,J
+   3,R
+   1,R,J
+  11,R
    1,R,J,G
    1,R,K,G
   13,R
@@ -639,25 +642,22 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
   43,R
    9,R,J,G
    1
-  27,R,D
-   6,D
+  33,R,D
    1,R,J
   14,R
    1,R,J
-   6,R
+   2,R
   40
 
 #lvl_d-00
 #1x
-   8,R
+  12,R
    1,R,J
   14,R
    1,R,J
-  12,R
-   1,L
-   1,R
+  14,R
    1,R,J
-  26,R
+  21,R
    5,R,J
    1,R,K,G
    1,R,J,G
@@ -681,8 +681,9 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    1,R,J,G
    1,R,K,G
    1,R,J,G
-  10,R
+   9,R
    1,R,J
+   1,R,K
   14,R
    1,R,J
    5,R
@@ -697,15 +698,19 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    1,R,K
    1,K
    1,R,K
-   6,K
+   5,K
+   1,R,K
    1,L,K
-  14,R,J,G
-   5,K,G
+  13,R,J,G
+   1,J
+   1,K,G
+   1,R,K
+   3,K
   10,J,G
    1,L,J
    1,R,J
    2,K,G
-  22,L,K
+  18,L,K
   12,R,J,G
   11,K,G
    1,L,K
@@ -717,30 +722,30 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    1,J
    1,L,J
    1,R,J
-  15,L,K,G
-   5,L
+  11,L,K,G
+   7,L
    1,L,J
    7,L
-  17,L,J
-  28,L,K
-  16,L,U,G
+  18,L,J
+  30,L,K
+  15,L,U,G
    3,J,G
    1,R,J
    1,L,J
-  10,R,K
-   3,L,K
-   4,R,K
+  16,R,K
    1,R,J,G
    1,R,K,G
-  10,R
-  10,R,J
+   9,R
+   1,R,J
+  10,R,K
    4,R
    2,L
   11,R
    1,R,J,G
    1,R,K,G
-  10,R
-  10,R,J
+   9,R
+   1,R,J
+  10,R,K
    4,R
    2,L
   11,R
@@ -1106,9 +1111,7 @@ Read,D8A_R_SR_U,Start,lvl_b-00 (1)
    1,J
    9,K,G
   40
-
-
 #lvl_d-07
 #2x
 Read,D8A_R_SR_U,lvl_d-07
-ChapterTime: 6:03.290(21370)
+ChapterTime: 6:02.967(21351)
