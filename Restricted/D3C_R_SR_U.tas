@@ -195,12 +195,12 @@ console rmx2 3
    5,R
    1,R,K
   13,R
-Repeat, 34
+Repeat,34
    1,R,G
    1,R
 EndRepeat
    3
-Repeat, 3
+Repeat,3
    1,R,G
    1,R
 EndRepeat
@@ -215,6 +215,12 @@ EndRepeat
    1,J
    1,L,K,G
   25,R,K
- 149,R,X
+  15,R,X
+  12
+Repeat,30
+   2,L,D
+   2,R,D
+EndRepeat
+   2,L,D
 
 ChapterTime: 0:33.779(1987)
