@@ -77,13 +77,17 @@ console load 5
   11,J,G
    1,R,J
    3,K
-  12,J
-  12,K
-   9,J
+   5,J
+Repeat,14
+   1,K
+   1,J
+EndRepeat
    2,R,K
-   7,R
-   3,R
-  19
+  17,R
+Repeat,6
+   1,G
+   1
+EndRepeat
    1,Q
    1,J
   31
@@ -753,11 +757,11 @@ EndRepeat
 #lvl_a-08 (3)
 #0x
   36,L
-  42,L,X
-   2,R,J
-  15,R
-   2,L
-  12,L,D
+  40,L,X
+   1,L,J
+   1,K
+  13,R
+  16,L,D
   40
 
 #lvl_a-01 (2)
@@ -766,15 +770,15 @@ EndRepeat
   12,D
    1,L,D
    1,D
-   6,L,D
-  27,L
+  12,L,D
+  14,L
    1,L,D
-   7,L,J
    2,L
-  10,L,J,G
-   5,J
-   1,L,J
-   2,J
+   1,L,D
+   1,L
+   9,L,J,G
+   8,L,K,G
+  10,K
   59,L,X
    8,J,G
   10,K,G
@@ -817,12 +821,11 @@ EndRepeat
    1,J
   14
    7,R
-Repeat,29
+# KEY CYCLEEEEEEEEEE
+Repeat,37
    1,D
    1
 EndRepeat
-# KEY CYCLEEEEEEEEEE
-  14
    1,R
   11
    9,R
@@ -831,9 +834,9 @@ EndRepeat
    1,R,J,G
    4,R
    1,R,J,G
-  15,R,D
+  15,R
    1,R,J
-  18,R,D
+  18,R
    1,R,J
   14,R
    1,R,J
@@ -959,13 +962,12 @@ EndRepeat
    1,K
   23,R,K
    2,R
-   2,R,J,G
-  18,R
+   3,R,J,G
+  17,R
 Repeat,6
    1,G
    1
 EndRepeat
-   1,G
    1,S,N
    1,U,J
    1,O
@@ -1145,10 +1147,9 @@ EndRepeat
   10,J,G
    1,R,J
    1,L,J
-   1,K
-  10,L,K
-   1,J,G
-   1,R,J
+   8,K
+   3,R,K
+   1,J
   20,L,J
    1,L,K,G
   12,L,J,G
@@ -1188,30 +1189,32 @@ EndRepeat
    1,J
    3
   34,R,D
-   6,R,J
-   5,R
-   2,R,K
-   9,R
-   1,R,J,G
-  11,R,K,G
-  21,R
-   1,R,J
-  13,R
+   7,R,J
+  15,R
+   2,R,J,G
+   8,R
+   1,R,K
+  13,R,D
+  12,R,U,X
+   2
+   4,R,J,G
+   4,R
   40
 
 #lvl_b-20 (1)
 #0x
    1,R
-   7,R,J
-  42,R,D
-  13,R
+   5,R,K
+  40,R,D
+  16,R
    1,J
   20,R,D
   40
 
 #lvl_b-01 (1)
 #1x
-   7,R,D
+   6,D
+   1,R,D
    1,G
   46,R,J,G
    5,R,D
@@ -1226,8 +1229,7 @@ EndRepeat
   10,R
    1,R,J
   14,R
-  22,R,J
-   2,R,J
+  24,R,J
   10,K,G
    2,L,K
   20,L,J
@@ -1750,7 +1752,6 @@ EndRepeat
    7,R,J
   40,R
    7,R,D
-
    1,R
    1,R,D
    4,R,J,G
@@ -1892,7 +1893,6 @@ EndRepeat
 #lvl_b-02 (1)
 #1x
    1
-   0,L,K
    7,L
   20,L,J
    1,L,K,G
@@ -4001,5 +4001,4 @@ EndRepeat
 #lvl_e-05
 #0x
 Read,D5A_R,lvl_e-05
-
-MidwayFileTime: 12:13.703(43159)
+MidwayFileTime: 12:13.533(43149)
