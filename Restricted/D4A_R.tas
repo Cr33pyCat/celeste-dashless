@@ -226,14 +226,13 @@ EndRepeat
   10,K,G
    1,L,K
    6,R,J,G
-   1,K,G
-   3,R,K
-   3,K
-   1,R,K
-   1,L
-  23,R,J,G
-   1,R,K,G
+   6,J
+   4,K,G
+   1,L,K
    1,R,J,G
+  12,R,K,G
+   1,R,J,G
+   1,R,K,G
    3
    5,R
    1
@@ -245,14 +244,14 @@ EndRepeat
    4,R,K,G
    5,R
    1,R,J
-   1,R
-   1,R,J
-   3,R
+   5,R
    1,R,J,G
    1,R,K,G
-  10,R
+   9,R
    1,R,D,J
-  19,R,D
+   5,R
+   1,R,J
+  13,R
    1,G
   28,R,J
    1,R,K,G
@@ -274,18 +273,16 @@ EndRepeat
    1,R,D,J
   14,R
    2,D
-   1,R
-   1,D
+   1,R,J
    1,R
   40
 
 #lvl_a-03
 #0x
-   1,R,J
-  21,R
+  20,R
    1,R,J
   14,R
-  20,R,J
+  22,R,J
   10,R,X
   39,L,D
    4,D
@@ -323,20 +320,24 @@ EndRepeat
   14,R
    1,R,J,G
    8,R,K,G
-  31,R,D
-  13,R
-   5,R,D
-   6,R,D,J
-  13,R
+  23,R,D
+  21,R
+   4,R,D
    7,R,J
+  14,R
+   2,R,J
    1,L,J
-  11,K,G
-   1,J
+   1,K
+   2,L,J,G
+   1,R,J
+   2,L,J
+   1,K
+   2,J,G
+   8,R,J
+   6,R
    2,K,G
-  15,R,K
-   2,R
+   3,R,K
    1,R
-   1,R,K
    1,R,J,G
    1,R,K,G
    9,R
@@ -2254,4 +2255,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 3:52.560(13680)
+ChapterTime: 3:52.254(13662)
