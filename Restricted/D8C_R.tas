@@ -134,7 +134,15 @@ console rmx2 9
 
 #lvl_02
 #5x
-  98
+   6
+Repeat,11
+   2,L,D
+   2
+   2,R,D
+   2
+EndRepeat
+   2,L,D
+   2
 #Spinner cycle 0-1
    0
 #-----------------
@@ -185,28 +193,15 @@ console rmx2 9
    5,R
    4,R,J
   13,R,D
-   3,R,J
-   4,J
-   1,R,J
-   1
-  12,R
-  38,U,X
-   1,L
-   1,R
-Repeat,7
-   1,R
-   1
-   1,L
-   1
-EndRepeat
-  15
-   1,R
+   2,R,J
+   3,J
    2
-Repeat,9
    1,R
    1
+  12
+  17,L,U,X
+Repeat,61
    1,L
-   1
+   1,R
 EndRepeat
-  17
 ChapterTime: 0:30.447(1791)

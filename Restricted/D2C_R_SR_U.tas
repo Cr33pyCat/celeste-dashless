@@ -125,8 +125,19 @@ console rmx2 2
    5,K,G
  114,L,X
    4,L,J
-   1,L,K
-  13,L,X
-  66,L,D
-  69,L,J
+   6,L,K
+  14,L,D,X
+  12
+  11,L
+Repeat,4
+   1
+   1,G
+EndRepeat
+   3,R,J
+  16,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  76,R,K,G
+
 ChapterTime: 0:21.760(1280)

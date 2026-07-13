@@ -167,5 +167,13 @@ console rmx2 4
   16,R
   39,R,K
   35,R,J
- 155,R,U,X
+  15,R,U,X
+   6,R
+  12
+Repeat,20
+   3,L,D
+   3,R,D
+EndRepeat
+   2,L,D
+
 ChapterTime: 0:31.807(1871)

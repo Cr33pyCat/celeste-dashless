@@ -169,13 +169,10 @@ EndRepeat
    1,J
    3,K,G
   10,R,K
-   3,R,J
-  21,R
-   4,X
-  15,D,X
-  28,R,D
-  16,D
-   3
-   1,D
-  72
+   4,R,J
+  20,R
+  40,L,D,X
+  24,L,D
+  81,D
+
 ChapterTime: 0:21.080(1240)

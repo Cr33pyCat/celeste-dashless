@@ -240,5 +240,16 @@ console rmx2 7
    2,R,J
    8,R
   32,R,J
- 158,R,X
+  15,R,X
+   7,R
+  12
+Repeat,24
+   1,L,D
+   1,R,D
+EndRepeat
+Repeat,37
+   1,L
+   1,R
+EndRepeat
+
 ChapterTime: 0:46.937(2761)
