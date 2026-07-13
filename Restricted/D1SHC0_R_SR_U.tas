@@ -1136,13 +1136,14 @@ EndRepeat
    8,R
    1,R,J
   12,R
+  11,R,J,G
+   1
+   1,K
    2,J,G
-   3,R,J
-   1,L,J
-  16,R,K,G
-  27,L,J
+  25,L,J
   12,K,G
-   3,L,J,G
+   8,J,G
+   3,L,K,G
    1,R
    1
    1,R
@@ -1358,4 +1359,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 2:20.284(8252)
+ChapterTime: 2:20.267(8251)
