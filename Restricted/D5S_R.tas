@@ -641,7 +641,7 @@ Read,D5A,lvl_a-00b,lvl_a-01 (0)
    1,D
    1,R,D
   18,R,J
-  68,L,X
+  67,L,X
    1,L,J,G
    1,J
    3,R,J
@@ -3988,4 +3988,4 @@ EndRepeat
 #lvl_e-05
 #0x
 Read,D5A_R,lvl_e-05
-MidwayFileTime: 12:12.496(43088)
+MidwayFileTime: 12:12.479(43087)
