@@ -1,4 +1,4 @@
-#7B 180x (R)
+#7B 179x (R)
 
 #console hard 7 2080 -1624
 #play,500M,37
@@ -1277,7 +1277,7 @@ EndRepeat
  295
 
 #lvl_e-00
-#4x
+#3x
   78
    6,R
 Repeat, 13
@@ -1317,41 +1317,28 @@ EndRepeat
   14,L,J
    2,R,K
    5,R,J
-  15,R,X
-  35,R,D
-   3,D
-  12,R,Z
-   6,R,J
-   1,R
+  31,R,X
+   5,R,D
+   9,D
+  15,R,D,X
+  10,R
    1,R,J
-   2,R
-  15,R,Z
-   2,R
-   8
-   1,D
-   5,L,D,X
-   1,R,J
-   4,R
-   6,R,J
-   5,R
-   1,R,J
-   9,R
-  12
-   6,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
+   7,R
+   2,R,D
+   7,R,J
+  14,R
+  22,R,J
+  14,R,D,X
+  31,R,J
+  12,R
    1
-   1,R
+  11,R
    1,J
   25,L,J
   14,U,X
-   1,R,J
-   1,J
-   1
+   2,J
+   2
    1,R
-   1
    1,R,K,G
    1,R,J,G
    1,K
@@ -2950,4 +2937,4 @@ Repeat, 23
    1,R
 EndRepeat
    3,R
-ChapterTime: 6:33.465(23145)
+ChapterTime: 6:34.128(23184)
