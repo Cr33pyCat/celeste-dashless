@@ -21,7 +21,7 @@ Read,../CelesteTAS/LoadA
 
 Read,D4A_R,Start
 
-Read,../CelesteTAS/LoadANoCollects
+Read,../CelesteTAS/LoadA
 
 Read,D5A_R,Start
 
