@@ -1,4 +1,4 @@
-FileTime: 1:55:58.202(409306)
+FileTime: 1:56:13.910(410230)
 #1268x
 #Start from Begin
 
@@ -75,10 +75,22 @@ Read,D4SHC1_R,Start
   46
 
 Read,D4SHC2_R_SR_U,Start
+  51
+   1,S
+   1,J
+  32
+   1,R
+   1,F,90
+   1,R
+   1,J
+  46
+
+Read,D4SHC3_R,Start
 
 Read,../CelesteTAS/LoadAFromB,SkipExit
 
 Read,D5SHC_R,Start
+
 Read,../CelesteTAS/LoadA
 
 Read,D6HC_R,Start
@@ -190,4 +202,5 @@ Add 58
    1,L
    9
    1,L
+
 Read,../LoadJournalD
