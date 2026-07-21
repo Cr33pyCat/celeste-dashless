@@ -3070,10 +3070,9 @@ Read, D4A_R, lvl_d-00, lvl_d-01
    8,R,J
   13,R,X
   15,U,C
-   3,J
-  20,D
-   6,L,D
-   2,R,D
+   5,J
+   1,K,G
+  24,L,D
   15,R,Z
    1,R
    1,L,J,G
@@ -3286,4 +3285,4 @@ Read, D4A_R, lvl_d-00, lvl_d-01
    1,D,J
   18
 
-ChapterTime: 5:25.924(19172)
+ChapterTime: 5:25.907(19171)
