@@ -49,9 +49,10 @@ Read, D1AC_R_SR_U, lvl_10
 #1x
 
 #lvl_11z
- 110
-  22,R,D
-  12,R
+ 124
+   2,R
+   1
+  16,R
   40
 
 #lvl_11
@@ -176,4 +177,4 @@ EndRepeat
    1,U,J
    1,O
   31
-MidwayFileTime: 0:34.731(2043)
+MidwayFileTime: 0:34.714(2042)
