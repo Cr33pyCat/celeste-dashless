@@ -404,44 +404,65 @@ EndRepeat
    6,R,J
    6,R
    3,R,K
-  12,R,D
+  28,R,D
+   2,R
    4,D
-   6,D
-   4,D
-   8,D
-  44,R,G
-   3,J
-   2,L,K
-   3,L
-   6,L,J
-   5,L
-   5,L,J
-   1,L,K
-  49,R,K
-  13,R,D
-   8,R,J
-  22,R
-  22,R,J
-   3,K
-  12,R,J,G
-  11,K,G
-   1,L,K
-   5,R,J,G
-   8,J
-   3,K
-   2
-   1,R,J,G
-   2,L,J
-   9,R,J
-   7,R
-   1,R,J
+   1,L,G
+   1,R
+   1,D
+   6,L,G
+   4,U,G
+   3,G
+   1,R
+   3,R,G
+   1
+   1,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   4
+   4,L
+   1
+   2,D,J
+   4,L,J
+   2,R,K,G
+   6,L,K
+   1,R,K
+   3,J,G
+   1,L,J
+   7,R,J
+   5,R
   14,R
-   2,R,D,J
+   7,R,D
+   2,D
+   2,R
+   1,J,G
+   9,R
+   1,R,J
+   1,L
+   9
+   1,L
+   1
+  19,R,J
+   1,L,J
+  11,K,G
+   1,R,K
+   1,L,J,G
+  10,J
+   2,K,G
+   2,R,K
+   1,J
+  10,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   7,R,D,J
   40
 
 #lvl_b-00 (2)
 #0x
-  14,R,J
+   9,R,J
    1,L,J
    4,L,K,G
    1,K
@@ -692,4 +713,4 @@ EndRepeat
    1,J
   31
 
-MidwayFileTime: 1:14.086(4358)
+MidwayFileTime: 1:12.743(4279)
