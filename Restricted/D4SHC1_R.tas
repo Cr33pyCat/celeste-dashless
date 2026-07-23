@@ -339,76 +339,55 @@ console load 4 b-00
    9,R
    1,R,G
   12,R,J,G
-   8,R,D,X
-   1,R,J,G
-  25,R,D
-  15,R,Z
-   2,R
-   1
-   1,G
-   1
-   1,J
-  13,L,J
-   8
-  10,G
-   1
-   1,J
-   3,R
-   2,L
-   5,J,G
-   1
-   1,J
+  15,R,X
+  22,R,D
+  15,R,X
+   3
+   6,G
+   2,D,G
+  26,G
+  29,R,G
+   4,R,U,G
+   2,R,G
    2
    1,L
-   1,R
-   1,R,J,G
-   2,R,K,G
-   5,R,D,J
-   2,R
-   5,R,J
-   2,J
-   1,R,K,G
    1
-   2,R
-   1
-   2,R
-   1,R,J
-   8,R
-   7,R,J
-   2,L
-   1,R
    1,L
-   1,K
-   1,J,G
-   6
+   2,L,G
+   1,J
    1,R
-   1,R,J,G
    1,R,K,G
-   2,R
+   1,J
+   1,R,K,G
+   1,J
+   1,R,K,G
+   1,J
+   1,R,K,G
+   6,R
+   1,R,K
+   6,R
+  15,R,D,J
+   2,R,K,G
    1,R,J,G
-   8,R
+   1,R
+   1,R,K,G
+   6,R
   40
 
 #lvl_b-03
 #0x
-   1,R
-Repeat,4
+   4,R
+Repeat,3
    1,R,J
   14,R
 EndRepeat
-   6,R
-   1,R,J
-   9,R
-   1,R,J
-  14,R
    6,R,J
-   6,R
-   3,R,K
-  28,R,D
+  34,R,D
    2,R
+   1,R,D
    4,D
    1,L,G
-   1,R
+   1,R,D
    1,D
    6,L,G
    4,U,G
@@ -713,4 +692,4 @@ EndRepeat
    1,J
   31
 
-MidwayFileTime: 1:12.743(4279)
+MidwayFileTime: 1:12.131(4243)
