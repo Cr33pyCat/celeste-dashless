@@ -140,106 +140,132 @@ Read,D5A_,lvl_a-00b,lvl_b-01b
    8,R
   40
 
-Read,D5A_,lvl_b-06,lvl_b-14
+Read,D5A_R,lvl_b-06,lvl_b-14
 
 #lvl_b-14 (0)
 #1x
-  28
-  33,R,D
-   1,R
+   4
    1,R,J
-   4,R
-  10,R,D,X
-   1,J
-  13,D
-  28,R,D
-   1,R
+  29,R,D
+   1,G
+   1,R,J,G
+  15,R,D,X
+   4
+  26
+  29,R,D
    1,R,J
-  18,R
-#key cycle
-  97
-   1,J
+   7,R
+   1,L,K
+  10,L
+   1,R,J
+   5,L
+   2,R
+   1,L
+   6
+   1,L,J
+   4,L
+   9
+   1,G
+   2
+   2,G
+   1
+# key cycle
+Repeat,24
+   1,D
+   1
+EndRepeat
+   1,D
+  13,R
+   1,R,J
+   1
   14,R
    1,R,J
    1,R,K,G
-  15,R
-   1,R,J
-  14,R
-   8,R,D,J
+   1,R,J,G
+  16,R
+   1,R,D,J
+   1,J
+   8,R,J
+   3,J
   40
 
 #lvl_b-15
 #1x
-   1,R,J
-  10,D,J
-   1,L,J
-   3,K,G
+   4,J
+   2,L,K,G
+   1,J,G
    1,R
    1,L
-   1,J,G
-  15,R,J
-   5,L,J,G
-  12,L,K,G
-  12,L,J,G
-   9,K,G
-   1,R,K,G
-   1,J
-  18,L,J
-  17,R,K
+   2,K,G
+  12,R,K
+   7,K
+   1,L,K
+  10,J,G
+   1,L,J
    1,R,J
-  21,R
+   1,L,J
+  13,L,K,G
+  12,L,J,G
+   3,K,G
+   5,R,J
+  34,R,K
   15,R,X
-  70,L
-   1,L,J
-  66,L
-  58,L
+   7,R
+  12
+  34,R,D
+   2,R,J
+  74,R
+   5
    1,J
-  30,L
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
    1,S
-   1,D,J
-  69,O
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+   5,L
    1,L,J
-   3,L
   40
 
 #lvl_b-14 (1)
 #1x
-  11,L
-   1,L,J
   14,L
    1,L,J
   14,L
    1,L,J
   14,L
-   1,L,D,J
-   9,J
-   4,R,J
-   2,L,J
-   3,R,J
-   1,J
+  17,L,D,J
+   1,R,J
    1,K,G
    9,L,K
-   1,L
-  16,L,K
-  12,L,J
-   9,L,K,G
-   7,L
-   1,L,J
-  14,L
-   4,L,J
-   2,K
-   3,R,K
-   9,L,K
-  12,L,J,G
-  12,L,K,G
-  12,L,J,G
-   8,L,K,G
    5,L
-   5,R
-   1,R,J
-  17,J
+   8,L,K
+   2,R,K
+   1,J,G
+   9,R,J
+   1,L,J
+  11,L,K
+   4,L,J,G
+  11,L
+  13,J
+   8,K,G
+   1,L,K
+   1,R,K
+  14,L,J,G
+   8,K,G
+   1,R,K
+  14,L,J,G
+   1,K,G
+   4,L,K
+   5,R,K
+   4,K
   13,U,X
   40
 
-Read,D5A_,lvl_b-16
-ChapterTime: 6:05.262(21486)
+Read,D5A_R,lvl_b-16
+ChapterTime: 6:01.964(21292)
