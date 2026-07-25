@@ -1415,7 +1415,7 @@ EndRepeat
    1,R
    1
    7,R
-   1,R,J
+   1,R,D,J
   18,R
    5,R,D
 Repeat, 14
@@ -1426,43 +1426,42 @@ EndRepeat
    1,R,J
   12,R,K
    5,R
-   2,R,K
+   2,R
+   0,R
+   1,R,J
    3,R
-   1,R,K
-   1,R
   14,R,Z
    1,R,J
    6,R
-  21,R,D,J
+  23,R,D,J
    1,R
-   4,R,J
-   7,R
+   9,R,J
+   0,R
+   0,R,J
   14,R,Z
    1,R,J
-   5,R
-   1
-   1,R
-   7,R,D,J
+   6,R
+   6,R,D,J
   25,R
    2,R,D
-   1,R
   14,R,Z
    1,R,J
-  11,R
+  11,R,D
    2,R,J
-   5,R
-   1,R,J,G
-  11,R
-   2,R,J
+   4,R
+   1,R,K,G
+  10,R
+   1,R,D,J
+   2,R
   10,R,D,X
    1,R,J,G
-  11,R
-   3,R,J
+  12,R
+   1,R,J
   40
 
 #lvl_e-03
 #7x
-  26,R,J
+  25,R,J
   41
   15,R
   16
@@ -2937,4 +2936,4 @@ Repeat, 23
    1,R
 EndRepeat
    3,R
-ChapterTime: 6:34.128(23184)
+ChapterTime: 6:34.009(23177)
