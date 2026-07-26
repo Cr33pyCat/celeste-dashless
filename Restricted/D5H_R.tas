@@ -8,7 +8,7 @@ console load 5
 
 #lvl_a-00b
 #0x
-Read,D5A_,lvl_a-00b,lvl_b-01b
+Read,D5A_R,lvl_a-00b,lvl_b-01b
 
 #lvl_b-01b
 #1x
@@ -114,8 +114,7 @@ Read,D5A_,lvl_a-00b,lvl_b-01b
   12,L,K,G
    5,L,J,G
    8,L
-   4,D,X
-  10,L,X
+  14,L,Z
    1,R,J
    6
    1,J
@@ -149,19 +148,31 @@ Read,D5A_R,lvl_b-06,lvl_b-14
   29,R,D
    1,G
    1,R,J,G
+   1
   15,R,D,X
-   4
-  26
-  29,R,D
+   1,J
+  12
+   8,R,D
+   1,D
+  14,R,D
+   6,R
+   1,R,D
    1,R,J
-   7,R
+   6,R
+   1,L
    1,L,K
   10,L
-   1,R,J
-   5,L
+   1,R,D,J
+   2,L
    2,R
    1,L
-   6
+   1,R
+   3,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
    1,L,J
    4,L
    9
@@ -170,7 +181,7 @@ Read,D5A_R,lvl_b-06,lvl_b-14
    2,G
    1
 # key cycle
-Repeat,24
+Repeat,26
    1,D
    1
 EndRepeat
@@ -269,4 +280,4 @@ SaveAndQuitReenter
 
 #lvl_b-16
 Read,D5A_R,lvl_b-16
-ChapterTime: 6:01.964(21292)
+ChapterTime: 6:01.777(21281)
