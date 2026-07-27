@@ -4,7 +4,7 @@ console load 4
    1
 
 #Start
-Read, D4A_R, Start, lvl_a-01x
+Read,D4A_R,Start,lvl_a-01x
 
 #lvl_a-01x
 #0x
@@ -151,7 +151,7 @@ Read, D4A_R, Start, lvl_a-01x
    1,D,J
   69,O
    6,R
-Repeat, 6
+Repeat,6
    1,R
    2,D
 EndRepeat
@@ -604,7 +604,7 @@ EndRepeat
    1,L,J,G
   10,L
    6
-Repeat, 11
+Repeat,11
    1,D
    1
 EndRepeat
@@ -617,7 +617,7 @@ EndRepeat
    1,R,J
    1,R,K
   31,R,D
-Repeat, 6
+Repeat,6
    1,G
    1
 EndRepeat
@@ -788,7 +788,7 @@ EndRepeat
   10,K
    9,J
    9,G
-Repeat, 64
+Repeat,64
    1,G
    1
 EndRepeat
@@ -1458,7 +1458,7 @@ EndRepeat
    1,R,J
    7,R
   30,R,J
-Repeat, 58
+Repeat,58
    1,J,G
    1,J
 EndRepeat
@@ -1545,7 +1545,7 @@ EndRepeat
    1,J
    1,R,K,G
    2,R,J,G
-Repeat, 6
+Repeat,6
    1,L,J
    1,R,J
 EndRepeat
@@ -1664,44 +1664,43 @@ EndRepeat
    1,K,G
    4,R,K
    4,K
+   1,L,J,G
+   1,L,K,G
+   2,L
+   1,J,G
+   1,L
+   5
+   1,L
+   1,R
+  12,J
+   1,K
    1,J
-   2,R,J
+  11,L,J
+   5,K,G
+   1,R,K
+  10,J
+   1,L,J
+   1,K
+   2,L,K
+   1,J
+   1,K
+   3,L,K
    1,K
    1,L,K
    1,J
-   1,R,J
-   1,K
-  10,L,K
-   1,J
-  10,R,J
-   1,K
-  10,L,K
-   1,J,G
-   1,R,J
-   1,K
-   1,J
-   5,R,J
-   2,K
-   2,L,K
-   8,J
-   1,K
-   1,J,G
-   8,J
-   5,R,J
-   8,R,K,G
-  16,R
-   1
-   1,R
-   1
-   1,R
+   1,K,G
+   8,K
+   5,R,K
    1,R,J,G
-  11,R,K,G
-  21,R,D
-   1,D
+   4,R,K,G
+  17,R
+   1,R,J,G
+  10,R,K,G
+   9,R
+   1,R,K
+  11,R,D
    1,J
-  13,R,D
-   1
-   1,R,D
+  16,R,D
    3,D
    4,R,D
    1,J,G
@@ -1712,8 +1711,11 @@ EndRepeat
   28
    1,J
    1,K
-  16,L,K
-   3,K
+  15,L,K
+   1,K
+   1
+   1,L,K
+   1,K
    1,J
    1,K,G
    6,K
@@ -1787,7 +1789,7 @@ EndRepeat
    1,R,J,G
    1,J
    2,R,K,G
-Repeat, 5
+Repeat,5
    1,L,K
    1,R,K
 EndRepeat
@@ -2022,7 +2024,7 @@ EndRepeat
    1,J
   40
 
-Read, D4A_R, lvl_d-00, lvl_d-01
+Read,D4A_R,lvl_d-00,lvl_d-01
 
 #lvl_d-01
 #0x
@@ -2548,5 +2550,4 @@ Read,D4A_R,lvl_d-08,lvl_d-09
    1,S
    1,D,J
   18
-
-ChapterTime: 5:25.091(19123)
+ChapterTime: 5:25.040(19120)
