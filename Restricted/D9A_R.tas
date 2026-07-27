@@ -5,7 +5,7 @@ console load 10
 
 #Start
 
-Read,D9S,Start,lvl_c-00
+Read,D9S_R,Start,lvl_c-00
 #36x
 
 #lvl_c-00 (0)

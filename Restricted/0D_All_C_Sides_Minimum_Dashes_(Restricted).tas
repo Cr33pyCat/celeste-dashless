@@ -1,4 +1,6 @@
 FileTime: 4:13.844(14932)
+#101x
+
 #Start from Begin
 
 Read,../CelesteTAS/StartFullGameFile
@@ -7,38 +9,38 @@ Read,../CelesteTAS/LoadEnableCheatMode
 
 Read,../CelesteTAS/LoadCCheatMode,SelectC
 
-Read,D1C,Start
+Read,D1C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadCCheatMode
 
-Read,D2C,Start
+Read,D2C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadCCheatMode
 
-Read,D3C,Start
+Read,D3C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadCCheatMode
 
-Read,D4C,Start
+Read,D4C_R,Start
 
 Read,../CelesteTAS/LoadCCheatMode
 
-Read,D5C,Start
+Read,D5C_R,Start
 
 Read,../CelesteTAS/LoadCCheatMode
 
-Read,D6C,Start
+Read,D6C_R,Start
 
 Read,../CelesteTAS/LoadCCheatMode
 
-Read,D7C,Start
+Read,D7C_R,Start
 
 Read,../CelesteTAS/LoadCCheatMode,0,Core
    1,R
    9
 Read,../CelesteTAS/LoadCCheatMode,Core
 
-Read,D8C,Start
+Read,D8C_R,Start
   59
    1,J
  196

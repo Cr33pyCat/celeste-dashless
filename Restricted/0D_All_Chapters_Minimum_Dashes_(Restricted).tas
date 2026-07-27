@@ -1,3 +1,4 @@
+FileTime: 1:22:39.886(291758)
 #Start from Begin
 
 #Ensures variants postcard
@@ -10,10 +11,10 @@ Read,../CelesteTAS/0 - Prologue,Start
 
 Read,../CelesteTAS/LoadANoCollects,Prologue
 
-Read,D1HC0,Start
+Read,D1HC0_R_SR_U,Start
 
 #Reenter City
-Read,../CelesteTAS/LoadA,0,control
+Read,../CelesteTAS/LoadA,0,Control
    1,L
    9
    1,J
@@ -25,27 +26,40 @@ Read,../CelesteTAS/LoadA,0,control
   46
 Add 1
 
-Read,D1HC1,Start
+Read,D1HC1_R_SR_U,Start
 
 Read,../CelesteTAS/LoadAFromB,SkipExit
 
-Read,D2HC,Start
+Read,D2HC_R_SR_U,Start
 
 Read,../CelesteTAS/LoadA
 
-Read,D3HC,Start
+Read,D3HC_R,Start
 
 Read,../CelesteTAS/LoadA
 
-Read,D4HC,Start
+Read,D4AC_R,Start
+#Reenter Ridge
+Read,../CelesteTAS/LoadA,0,Control
+   1,L
+   9
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,J
+  46
+
+Read,D4H1_R_SR_U,Start
+
+Read,../CelesteTAS/LoadAFromB,SkipExit
+
+Read,D5HC_R,Start
 
 Read,../CelesteTAS/LoadA
 
-Read,D5HC,Start
-
-Read,../CelesteTAS/LoadA
-
-Read,D6HC,Start
+Read,D6HC_R,Start
 
 Add 197
  165
@@ -63,88 +77,88 @@ Add 29
   32
 Add 1
 
-Read,D7HC,Start
+Read,D7HC_R,Start
 
 Read,../LoadCoreFromSummitD
 
-Read,D8A,Start
+Read,D8A_R_SR_U,Start
 
 Read,../CelesteTAS/Load1B
 
-Read,D1B,Start
+Read,D1B_R_SR_U,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D2B,Start
+Read,D2B_R_SR_U,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D3B,Start
+Read,D3B_R,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D4B,Start
+Read,D4B_R,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D5B,Start
+Read,D5B_R,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D6B,Start
+Read,D6B_R,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D7B,Start
+Read,D7B_R,Start
 
 Read,../CelesteTAS/LoadB,0,Core
    1,R
    9
 Read,../CelesteTAS/LoadB,Core
 
-Read,D8B,Start
+Read,D8B_R,Start
 
 Read,../CelesteTAS/Load1C
 
-Read,D1C,Start
+Read,D1C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D2C,Start
+Read,D2C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D3C,Start
+Read,D3C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D4C,Start
+Read,D4C_R,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D5C,Start
+Read,D5C_R,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D6C,Start
+Read,D6C_R,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D7C,Start
+Read,D7C_R,Start
 
 Read,../CelesteTAS/LoadC,0,Core
    1,R
    9
 Read,../CelesteTAS/LoadC,Core
 
-Read,D8C,Start
+Read,D8C_R,Start
 
 Read,../CelesteTAS/LoadB,0,Farewell
    1,J
   46
 Add 1
 
-Read,D9A,Start
+Read,D9A_R,Start
 
 #Epilogue
 Add 58

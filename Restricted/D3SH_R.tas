@@ -15,7 +15,7 @@ console load 3
   61
 
 #lvl_s0
-Read,D3A,lvl_s0,lvl_s2
+Read,D3A_R,lvl_s0,lvl_s2
 #0x
 
 #lvl_s2
@@ -1463,7 +1463,7 @@ EndRepeat
   15,R,D
 #Huge Mess
 
-Read,D3A,Huge Mess,H1-Return
+Read,D3A_R,Huge Mess,H1-Return
 #0x
 
 #lvl_09-b (0)
@@ -3009,7 +3009,7 @@ EndRepeat
    1,L,D
    1
    1,R,D
-Read,D3A,H3,lvl_06-d
+Read,D3A_R,H3,lvl_06-d
 #0x
 
 #lvl_06-d

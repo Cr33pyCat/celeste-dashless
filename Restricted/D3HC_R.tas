@@ -5,8 +5,8 @@ console load 3
 
 #Start
 
-Read,D3H_,Start,H3-End
-Read,D3A,H3,lvl_02-c
+Read,D3H_R,Start,H3-End
+Read,D3A_R,H3,lvl_02-c
 #5x
 
 #lvl_02-c (0)
@@ -176,6 +176,6 @@ EndRepeat
    7,R
   90,D
 
-Read,D3A,C-Return
+Read,D3A_R,C-Return
 #7x
 ChapterTime: 6:31.935(23055)

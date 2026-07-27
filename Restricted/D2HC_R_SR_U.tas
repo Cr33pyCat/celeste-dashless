@@ -115,7 +115,7 @@ console load 2
    1,J
   31
 
-Read,D2A,Start,lvl_d0 (1)
+Read,D2A_R_SR_U,Start,lvl_d0 (1)
 #2x
 
 #lvl_d0 (0)
@@ -213,7 +213,7 @@ EndRepeat
   10,L
   40
 
-Read,D2A,lvl_d6
+Read,D2A_R_SR_U,lvl_d6
 #18x
 
 MidwayFileTime: 3:09.839(11167)

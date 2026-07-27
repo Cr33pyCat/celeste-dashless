@@ -4,7 +4,7 @@ console load 5
    1
 
 #Start
-Read,D5A,Start,lvl_b-02
+Read,D5A_R,Start,lvl_b-02
 #5x
 
 #lvl_b-02 (0)
@@ -390,7 +390,7 @@ Read,D5A,Start,lvl_b-02
    8,R
   40
 
-Read,D5A,lvl_b-06,lvl_b-14
+Read,D5A_R,lvl_b-06,lvl_b-14
 #2x
 
 #lvl_b-14 (0)
@@ -493,7 +493,7 @@ Read,D5A,lvl_b-06,lvl_b-14
   13,U,X
   40
 
-Read,D5A,lvl_b-16
+Read,D5A_R,lvl_b-16
 #8x
 
 ChapterTime: 6:53.746(24338)

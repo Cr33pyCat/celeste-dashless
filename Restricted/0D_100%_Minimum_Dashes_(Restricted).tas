@@ -1,5 +1,6 @@
 FileTime: 1:55:44.840(408520)
-#1268x
+#1254x
+
 #Start from Begin
 
 #Ensures variants postcard
@@ -123,7 +124,7 @@ Read,D1B_R_SR_U,Start
 
 Read,../CelesteTAS/LoadB
 
-Read,D2B_R,Start
+Read,D2B_R_SR_U,Start
 
 Read,../CelesteTAS/LoadB
 
@@ -162,7 +163,7 @@ Read,D2C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadC
 
-Read,D3C_R,Start
+Read,D3C_R_SR_U,Start
 
 Read,../CelesteTAS/LoadC
 

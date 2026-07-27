@@ -1,3 +1,6 @@
+FileTime: 47:54.462(169086)
+#403x
+
 #Start from Begin
 
 Read,../CelesteTAS/StartFullGameFile
@@ -76,5 +79,3 @@ Add 58
    9
    1,L
 Read,../LoadJournalD
-
-FileTime: 47:54.462(169086)
