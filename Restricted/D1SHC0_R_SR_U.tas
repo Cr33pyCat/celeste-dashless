@@ -1153,19 +1153,24 @@ EndRepeat
    2,R,J
   11,R,K
    1,K
-   8,L,G
-   5,J,G
+   7,L,G
+   1,J,G
    2,R,J
-  15,L,K,G
-   1,L,J,G
+   3,L,K,G
+   1,R,K
+   4,L,K
+   1,J
+   9,L,J
    1,L,K,G
-   1,L
+   1,L,J,G
+   1,J
+   2,L
    2,L,J,G
   13,L
-   1,L,D,J
+   1,L,J
   14,L
-   1,L,D,J
-  17,L
+   1,L,J
+  15,L
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -1361,4 +1366,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 2:20.250(8250)
+ChapterTime: 2:20.216(8248)
