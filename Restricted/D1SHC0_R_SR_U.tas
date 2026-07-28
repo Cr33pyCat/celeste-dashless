@@ -710,6 +710,8 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   14,R,D
+
+
    1,R,J
    8,R
   40
@@ -983,6 +985,8 @@ EndRepeat
    3
    3,R
    2,L
+
+
    1,L,K,G
    1,J,G
    1,L,K,G
@@ -996,6 +1000,7 @@ EndRepeat
 
 #lvl_9c
 #0x
+
   20,R,J
   19,R
   17
@@ -1014,6 +1019,7 @@ EndRepeat
    3,L
    6,L,K
    4,L
+
   19,R,D
    1,G
    9,R,J,G
@@ -1155,6 +1161,8 @@ EndRepeat
   10,R,J
    8,R
    1,R,J
+
+
   12,R
   11,R,J,G
    1
@@ -1257,16 +1265,27 @@ EndRepeat
    3,R,D
    1,R,J
   47,R,D
-  11,R
-   1,R,D
-  22,R,J
-  11,R
-   1,R,D
-   1,D
-   1,D
-  25,R,J
+   9,R
+   3,R,D
+   1,R
+   1,R,J
+   5,R
+   3,R,J
+   7,R
+   1,R,K,G
+   1,R,J,G
+   2,R
+   1
+   5,R
+   1,R,J
+   4,R
+  12,R,J
+   3,R
+   2
+   8,R,J
    6,R
-   5,R,J
+   3,R,J
+   2,R
    1,R,K,G
    1,R,J,G
    9,R
@@ -1278,7 +1297,8 @@ EndRepeat
 #lvl_12a
 #0x
    5,R,J
-   5,R
+   1
+   4,R
    3,R,J
    8,R
    3,L
@@ -1287,69 +1307,61 @@ EndRepeat
    2,L
    2,R
    1,L
-   1,G
-  10,J,G
-   1,R,J
+   6,G
+  10,U,G
    1
-   1,K
-   1,R,K
-   2,K
-   1,R
-   1
-   2,R
-   1
-   1,R
-   1,R,K
-   1
-   1,K
-   1
-   1,R
-   2,L
-   1,J,G
-   1,K,G
-   1,L,J,G
-  30,R,J
-   1,G
-   1,R,J,G
-   9,J
-   5
-   1,R,J
-   3
-   2,L
-   3,L,D
-   1,R,J
-   1,K,G
+   2,K,G
+   2,R,K
    1,L,K
-   1,R,K
+   3,R,K
+   3,L,K
+   2,L
    1,J,G
-  11,L,J
-   1,L
-   6
-   3,R,J,G
-   1
-   1,K
-   2,J,G
-  22,L,J
-   1,L,K,G
+   1,K,G
    1,L,J,G
+  25,R,J
+   5
+  11,J,G
+   1,L,J
+   1,R,J
+   3,K,G
+   5
+   1,K
+   2,L,K
+   2,L
+   2,L,D,J
+   1,R,J
+   3,K,G
+  10,L,K
+   4,R,K
+   2,R,K
+   1,R,J,G
+   1,R,J
+   1,R,K,G
+   1,J
+   5,K,G
+  20,L,K
+   1,L,J,G
+   2,L,K,G
    5,L
-   2,L,J
-  11,L
+   1,L,K
+  12,L
    4,L,J
    6,L
    1,L,D
    4,L,J
    6,L
-   1,L,J
+   1,R,J
    1,K
-   1,J
-   4,L,J
+   1,J,G
+   3,L,J
+   1,R,J
    1,K
-   1,J
+   1,J,G
    3,L
-   1
+   1,R
    1,K
-   1,J
+   1,J,G
    6,L
    1,J
    1,K,G
@@ -1380,4 +1392,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 2:19.978(8234)
+ChapterTime: 2:19.927(8231)
