@@ -26,7 +26,7 @@ Read,D7A_R,Start,lvl_a-06
 #12x
 
 #lvl_a-06
-#6x
+#5x
    8,R,J
    8,R
    1,R,J
@@ -57,34 +57,43 @@ Read,D7A_R,Start,lvl_a-06
   14,L,X
   41
   10,L
-  12,J,G
-   3,K,G
-   2,R,K
-  37,R,J
-  15,R,U,X
-  24,R,J
-  15,R,U,X
-  24,R,J
-   1,R,K,G
-   4,L,K,G
+   8,J,G
+   1,K,G
    1,R,K
+   1,K
+  10,L,J,G
+  37,R
+  37,R,U,X
+  37,R,U,C
+   3,R,D
+   1,R
    1,R,J,G
    1,R,K,G
-  21,R
-  11,R,J
-  15,R,X
-   4,R
-  33,L
+   1,R
+   1
+   7,R
+   7,R,J
+   5,R
+   2,R,J
+   1,R
+  16,R,X
+  34,L,D
    1,L,J
-  18,L
-   9,L,J
-  22,L
-   6,L,J
+   7
+  10,L
+   2
+   4,L
+   2,L,D
+   1,L,J
    1,L,K,G
-   1,L,J,G
-  12,L
-  48,L,J
-  11,L,D
+   4,L,J,G
+   6,L
+   4,L,J,G
+   4,L
+   1,L,K,G
+  10,L
+  10,L,J
+  39,L,D
  158
    1,S
    1,D,J
@@ -1608,4 +1617,4 @@ SaveAndQuitReenter
 Read,D7A_R,CP-25
 #70x
 
-ChapterTime: 12:26.929(43937)
+ChapterTime: 12:26.334(43902)
