@@ -1138,58 +1138,68 @@ Read,D7A_R,1000M,lvl_c-03
 #lvl_c-04 (1)
 #1x
    2,L
+  10,L,J
+   5,L
    1,L,J
   14,L
+   1,L,D
+  17,L,J
+   3,J
+  11,K,G
+   1
+   1,L,J,G
+   1,J
+   1,R,J
+   5,J
+   1,R,J
    1,L,J
-  14,L
-  19,L,J
-  12,L,K,G
-   8,L,J,G
-   4,L,K,G
    2
-   1,R
-   1,L
-   1,R
-   1,L
-   1,J,G
-   3,L
-   1
-   1,L
-   1
-   1,L
+   4,K,G
+   7
    1,R
    4,L
    1,L,J
-  29,L
-  25,L,G
-   1,U,G
-   1,L
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   4,L
-   3
-   1,L,D,J
-   2
    7,L
    1,L
-   5,L
-# can prob save a frame here but i couldn't manage it - rich
-   2,L,J
-   5
-   3,L,K
-   9,L
-   1
+   1,L,J
+   1,L
+   1,L,J
+   2,L
+Repeat, 5
+   1,L,G
+   1,L
+EndRepeat
+   9,L,D,G
+   1,L,G
+   3,L,D,G
+   5,L,G
+   1,L,U,G
+   8,L,G
+   1,L,D,G
+   4,L,G
+   1,L,U,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   7,L
+   1,L,J
+   7,L
+   3
+   4,L
+   1,L,J
+   3,L
+  13
    1,L,D,J
-   4,J
-   2
-   2,R,K,G
-  21,U,X
-   6,R
-   1
-   1,R,J,G
+   2,J
+   5
+   1,K
+   2,R,J,G
+  22,U,X
+   5,R
+   2,R,J,G
    1,K
   40
 
@@ -1197,16 +1207,15 @@ Read,D7A_R,1000M,lvl_c-03
 #1x
    1,R,J,G
    6,R,K,G
-   6,R
-   2,R,K
-   3,R
+   9,R
+   1,R,K
    1,R,J,G
    1,R,K,G
    9,R
-   7,R,J
-   9,R
-   1
-   6,R
+   4,R,J
+   7,R
+   5,R,K
+   3,R
   14,R,J,G
   12,K,G
   12,J,G
@@ -4327,4 +4336,4 @@ EndRepeat
 #CP-02
 Read,D7A_R,CP-02
 
-ChapterTime: 14:15.440(50320)
+ChapterTime: 14:15.321(50313)
