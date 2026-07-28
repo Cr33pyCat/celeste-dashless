@@ -4792,53 +4792,75 @@ EndRepeat
   12,R,K,G
    9,R,J,G
    1,L,K
-  20,L,J
+  17,L,J
+   1,J
+   1,L,J
+   1,J
+   0,L,J
   15,L,X
    7,L
+AnalogMode,Ignore
   27,R,U
-  46,F,63
-  10,F,
-  26,F,305
-  18,F,352
-   5,F,
-  11,F,51
+  43,F,65.123
+   1,F,60.556
+  11,F,1
+  24,F,319.4
+   1,F,323.665
+  19,F,343.5
+   1,F,347.706
+  14,F,41.5
+   2,F,36.2
    3,U
-   6
+   1,R
    1,L,J
    9,L,K
    1,L
   39,L,J
   27,L,U
-   5,F,270
-Repeat,65
+   5,F,296.4032
+   1,G
+   3
    1,G
    1
-EndRepeat
-   0,G
+  56,G
+   2,U,G
    4
+   1,L
+   1,G
+   2
+  57,G
    1
+   1,R
+   3
+   1,R
    1,R,J
   12,R,K
   27,R,U
-  36,F,21
-  60,F,
-  23,F,301
-  30,L
-  12,L,J,G
-   4,Z
-   8,L
+  36,F,20.549
+   1,F,19.533
+  54,F,1.532
+   1,F,358.294
+  23,F,303.15
+# gets unnecessary rounding error; realized you were doing the updashes suboptimally
+   1,F,304.776
+   4,F,303.15
+  25,L
+   7,L,J,G
+  12,L,Z
 
 #CP-02
 #9x
    1,L,J
    4,L
-   3,L,K
+   2,L
   20,L,J
   15,U,X
-   9,L
-  15,U,X
-  10,R,G
-  12,R,K,G
+   8,L
+  18,U,X
+   7
+   2,R,K,G
+   9,K,G
+   1,R,K,G
    9,J,G
    1,R,J
    1,L,J
@@ -4885,12 +4907,11 @@ EndRepeat
   17,L,J
    1,L
   19,L,U,Z
-   1,J,G
-   1,R
-   1,R,J
-  10,R,K
+   1,L,J,G
+   1,L
+  11,R,K,G
    9,R
-  11,R,J
+  11,R,K
    4,Z
    1,R
    1,R,J
@@ -5033,4 +5054,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 10:51.899(38347)
+ChapterTime: 10:51.627(38331)
