@@ -705,33 +705,44 @@ SaveAndQuitReenter
 #0x
    5,R
    1,R,J
-  24,R
-  39,R,J
-   7,R,K,G
-  34,R
-  26,R,J
-  65,R
-  25
-  30,J
-  28,L,J
-  24,R,J
-   5,J
-  20,K
-   5
-  12,R
+  14,R
+  14,R
+  10,R,J
+  31,L,J
+  26,L,U,G
+  17,G
+  18,J,G
+   1,K
+  16,R
+   4,L
+   1,R
+   2,L
+   7,L,J
+   1,R,K,G
+  10,R
+   1,J
+  22,R,J
+  20,R,D
    1,R,J,G
    1,R,K,G
   25,R
-  12,R,J
-   9,R
-   3,L
-  50,L,J
-  13,G
-   4,U,G
-   6,J,G
-   1,R,K
-  30,R,J
-  56,R
+   5,R,J
+  24,R
+   1
+   1,R,J,G
+   1,R,K,G
+  12,R
+  34,R,J
+   2,R
+   7
+  43,L,J
+  15,G
+   8,J,G
+   1,K
+   1,J
+  55,R,J
+  10,R,K
+  20,R
    9,L,J,G
    3,J
    9,K,G
@@ -1165,4 +1176,4 @@ Repeat,13
    1,K
    1,J
 EndRepeat
-ChapterTime: 2:47.229(9837)
+ChapterTime: 2:46.243(9779)
