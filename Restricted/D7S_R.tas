@@ -3857,37 +3857,39 @@ Read,D7A_R,3000M,CP-24
    2,K,G
    1,R,K
   13,R,J
-   9,R,K,G
-  27,R,D
-  10,R
-   6,R,J
+   8,R,K,G
+   5,R
+   3,R,K
    7,R
-  11,U,G
-  10,J,G
-   4,L,J
+  13,R,D
+   1,R,G
+   9,R,J
+   6,R
+   2
+   8,U,G
+  11,J,G
+   3,L,J
   12,R,K
-  12,J,G
+  11,J,G
   10,K,G
    1,L,K
-   1,R
+   1,R,K
   10,L,J
-   1,L
-  10,R,K
-   1,R
+   1,L,J
+  11,R,K
 
 #CP-23
 #0x
    1,R,J,G
    1,R,K,G
-   6,R
-   1,R,K
-   1,R
-   1,R,J
-   1,R
-   1
-   8,R
-   1,R,J
    7,R
+   1,R,J
+   8,R
+   1
+   1,R
+   1,R,J
+   5,R
+   2,R,J
    1,R,J,G
    1,R,K,G
    7,R
@@ -3897,7 +3899,7 @@ Read,D7A_R,3000M,CP-24
    4,R
    1,R,J
   10,R
-  13,R,J
+  11,R,J
    1,K,G
    1,L,K
    8,J
@@ -3915,20 +3917,20 @@ Read,D7A_R,3000M,CP-24
    1
   13,R,J,G
   12,K,G
-   2,J,G
+   4,J,G
    7,R
-  12,J
+  11,J
    1,K
-   2,L,K
-   4,L
+   6,L,K
    1,J
    4,L,J
-   2,R,J
+   1,R,J
   12,R,K,G
-   2,J,G
+   1,J,G
+   1
    1,K
-   4,J,G
-  12,L,J
+   3,J,G
+  13,L,J
 
 #CP-22
 Read,D7A_R,CP-22,CP-21
@@ -3936,66 +3938,74 @@ Read,D7A_R,CP-22,CP-21
 
 #CP-21
 #1x
-  19,R
-  28,R,K
-   1,L
-   5,R,J,G
-   5,K,G
-   1,L,K
-   1,R
-  14,R,J,G
-  14,R,K,G
+   1,R,J
+  10,R
+  12,R,J
+   9,R
+   1,R,J
+   4,R
    1,J,G
-   5,R
-   4,L
-  19,L,J
+   2,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  15,R,K,G
+  12,R,J,G
+   1,J
+   1,R,J
+   1,J
+  19,L,K
   15,U,X
    4,L
   27,L,J
-   7,K,G
-   2,R
-  27,R,J
-   1,R,K,G
-   1,R,J,G
-   5,R
-   2
-   1,R,D,J
-   9,R
+   8,K,G
    1,R,K
-   2
+   1,R,J
+  24,R,K
    3,R
-   1,K,G
-   3,R,K
-   1,R
-   1
-   1,R
-   3,L
-  29,R,D
-   3,R
+   1,R,J,G
+   1,R,K,G
+   7,R
    1,R,J
-  10,R
-   1,R,J
-  10,R
-   1,R,J
-  10,R
-   1,R,J
-   2,R
-   3
    5,R
+   6,R,J
+   1,R
+   1,R,J
+   4,R
+   3,L,J
+  12,L
+   8,R,D
+   2,L,D
+  13,R,D
+   1,L
+   3,R
+   1,L
    1,R,J
    1,R,K,G
    4,R,J,G
-   9,R
-   3,R,J
    6,R
-   2,R,K
-   3,R
-   2
-  12,R,J,G
-  11,K,G
-   1,L,K
+   2,R,J
+   1,R
+   1,R,J
+   8,R
+   1,R
+   1,L
+   2,R,J
+   8,R
+   1,R,J,G
+   1,R,K,G
+   7,R
+   1,R,J
+  10,R
+  13,R,J
+   7,K,G
    1,R,K
-  14,R,J,G
+   1,K
+   1,R,K
+   1,L,K
+   1,R
+  13,R,J,G
    4,K,G
    2,L,K
   12,L,J
@@ -4052,12 +4062,12 @@ Read,D7A_R,CP-20,lvl_g-01
   21,R
   33,R,J
   52,R
-   2,R,J
    1,J
-   4,R,J
-   1,R,K,G
-   1,R,J,G
-  17,R
+   6,R,J
+  25,R
+   1
+   1,R
+   1
   21,R,J
    7,K,G
    5,J,G
@@ -4173,7 +4183,7 @@ Read,D7A_R,CP-20,lvl_g-01
    4,R,J
    4,R
   15,R,Z
-  28,R,D
+  51,R,D
    1,S,N
    1,D,J
   69,O
@@ -4336,4 +4346,4 @@ EndRepeat
 #CP-02
 Read,D7A_R,CP-02
 
-ChapterTime: 14:15.321(50313)
+ChapterTime: 14:14.930(50290)
