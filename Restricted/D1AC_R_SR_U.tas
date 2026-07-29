@@ -33,27 +33,34 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
    1,L,K,G
    3,L,J,G
    3,L
-  18,L,K
-   2,L,J,G
-   2,R,J
-   7,L,J
-   4,L
-   7,K
-   6,J
-   1,R,K
-  12,R,J
+  14,L,K
+   4,L,D
+   8,L,J,G
+   7,L
+  12,L,J
    1,K
-   9,L,K
-   4,J
+   1,J
+   1,K
+   1,J
+  10,R,J
+   8,R,K,G
+   1,K
+   1,J
+   7,K,G
   40
 
 #lvl_10
 #0x
-   7,L
-   1,L,K,G
-   7,L,J,G
-  19,L
-   1,G
+   1,R,K,G
+   1,K
+   1,R,K
+   2,L,K
+   1,L,J,G
+   5,L,K,G
+  10,L
+   1,L,J
+   5,L
+   1,L,G
    2,L,J,G
    8,L
    7
@@ -161,6 +168,6 @@ EndRepeat
    1,R,D
    2,L,D,J
    9,R,K
-MidwayChapterTime: 1:04.345(3785)
+MidwayChapterTime: 1:04.277(3781)
  257
    1,J
