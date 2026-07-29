@@ -444,7 +444,7 @@ EndRepeat
 #Start 2
  110
 
-Read,D5A_R,lvl_a-00b,lvl_a-01 (0)
+Read,D5A,lvl_a-00b,lvl_a-01 (0)
 #0x
 
 #lvl_a-01 (1)
@@ -2084,7 +2084,7 @@ EndRepeat
    4,R,J
   40
 
-Read,D5A_R,lvl_b-06,lvl_c-08
+Read,D5A,lvl_b-06,lvl_c-08
 #8x
 
 #lvl_c-08
@@ -2143,7 +2143,7 @@ EndRepeat
   40
 
 #lvl_c-10
-Read,D5A_R,lvl_c-10,lvl_d-01 (0)
+Read,D5A,lvl_c-10,lvl_d-01
 
 #lvl_d-01 (0)
 #0x
@@ -3993,4 +3993,4 @@ EndRepeat
 #0x
 Read,D5A_R,lvl_e-05
 
-MidwayFileTime: 11:53.728(41984)
+MidwayFileTime: 11:53.507(41971)
