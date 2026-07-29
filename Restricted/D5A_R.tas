@@ -1784,10 +1784,17 @@ EndRepeat
    1,R,K,G
   14,R
    1,R,J
-  18,R
-  18
-   5,R
-  93,R,J
+  14,R
+  22
+   8,J
+  10
+   7,R
+   2
+  23,D
+   1,L,J
+   3,J
+   3,J
+  27,R,J
   12,R,K,G
   11,J,G
    1,L,J
@@ -1796,7 +1803,7 @@ EndRepeat
    1,K
   12,R,K
   12,J,G
-   6,K,G
+   1,K,G
   40
 
 #lvl_d-20
@@ -2500,4 +2507,5 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 5:15.996(18588)
+
+ChapterTime: 5:15.826(18578)
