@@ -137,10 +137,15 @@ Read, D1AC_R_SR_U, lvl_10
    1,J
    5
   13,L,J
-  10,L,K
-  42,L
-  17,L,J
-   4,L
+   7,L,K
+  24,L,D
+   5,L
+   1,L,D
+   1,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+  16,L,J
   16,R,K
    1,R,J,G
    1,K
@@ -158,15 +163,24 @@ Read, D1AC_R_SR_U, lvl_10
 #0x
    6,L
    1,L,J
-  15,L,D
-  11,R,D
-  14,R
+  14,L,D
+   3,R
+   5,R,D
+   1,D
+   5,R,D
+   4,R
+   1,R,D
+   3,R
+   4,R
    1,J,G
    1,L,J
-   6,R,J
-  12,K,G
-  12,J,G
-   6,K,G
+   7,R,J
+   3,K,G
+   1,L,K
+   3,R,K
+  11,R,J,G
+   1,R
+   9,R,K,G
    7,R
 Repeat,4
    1,D
@@ -177,4 +191,4 @@ EndRepeat
    1,U,J
    1,O
   31
-MidwayFileTime: 0:34.714(2042)
+MidwayFileTime: 0:34.578(2034)
