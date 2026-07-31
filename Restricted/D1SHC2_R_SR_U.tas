@@ -109,16 +109,12 @@ Read, D1AC_R_SR_U, lvl_10
    1
   13,L
    1,L,D,J
-  14,L
-   1,L,D,J
-  11,L
-   2
-   1,L
+  31,L
    4,L,J
    1,L
    1,L,K,G
    1,L,J,G
-   9,L
+  10,L
    1,L,J
    7,L
   40
@@ -127,7 +123,7 @@ Read, D1AC_R_SR_U, lvl_10
 #0x
    7,L
    1,L,J
-  18,L
+  19,L
   18,L,J
   15,L
    1,L,J,G
@@ -193,4 +189,4 @@ EndRepeat
    1,U,J
    1,O
   31
-MidwayFileTime: 0:34.510(2030)
+MidwayFileTime: 0:34.578(2034)
