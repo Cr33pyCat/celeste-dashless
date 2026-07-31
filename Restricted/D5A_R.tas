@@ -2256,35 +2256,38 @@ EndRepeat
    1,R,J
    1,J
    4,R,J
-   1,R,K,G
-  10,R
-   7,R,J
-  11,R,Z
-  32,R,G
-   1,R,J,G
-  18,R,G
-   1,R,J,G
-  18,R,G
+   2,R,K,G
+  12,R
+   4,R,D,J
    6,R
-   2
-   3,R
-   1,R,J
-   1,R,K,G
+   2,R,J
+  27,R,J,G
+   5,R,D,G
+   3,G
+   1,D
    1,R,J,G
-  11,R
+   7,R
+   4,R,Z
    1,R,J
-   1,R
+  13,G
+   1,R,J,G
+  21,R,G
+   2,R,J,G
+   8,R,G
+   3,R,J,G
   40
 
 #lvl_e-09
 #1x
-  13,R
-   7,R,J
-  15,R,J,G
-  14,R,G
-   3,R,J,G
-  14,R,J
-   7,U,X
+   7,R,J,G
+   5,R,G
+   1,R,J,G
+   9,R,G
+   1,R,J,G
+   2,R,G
+   1,R,J
+   3,J
+  12,U,X
    5,R,J
    2,L,J
    3,R,J
@@ -2302,20 +2305,19 @@ EndRepeat
   17,R,J,G
    7,R,G
    1,R,J,G
-  21,R,D,G
+  23,R,D,G
    1,R,J,G
-  13,R,D,G
+  11,R,D,G
    1,R
-   7,R,D
+   6,R,D
    1,R,J
   14,R
-   6,R,J
+   4,R,J
   40
 
 #lvl_e-10
 #0x
-   3,J
-   1,R
+   3,R,J
    1
    5,R
    1,R,J
@@ -2525,4 +2527,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 5:03.841(17873)
+ChapterTime: 5:03.178(17834)
