@@ -1,4 +1,4 @@
-FileTime: 1:04:00.793(225929)
+FileTime: 1:03:44.796(224988)
 #469x
 
 #Start from Begin
@@ -48,7 +48,7 @@ Read,D1B_R_SR_U,Start
 
 Read,../CelesteTAS/LoadAFromB
 
-Read,D2SHC_R_SR_U,Start
+Read,D2SH_R_SR_U,Start
 
 Read,../CelesteTAS/LoadA
 
