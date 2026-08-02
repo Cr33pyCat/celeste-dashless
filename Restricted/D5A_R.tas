@@ -1487,10 +1487,11 @@ EndRepeat
   12,K
   59,L,X
    4,J,G
-   2,R,J
-   4,L,K,G
+   1,R,J
+   1,L,J
+   2,L,K,G
    1,R,K
-  13,L,K
+  14,L,K
   12,J,G
   12,K,G
    7,J,G
@@ -2619,4 +2620,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 5:00.152(17656)
+ChapterTime: 5:00.135(17655)
