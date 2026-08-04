@@ -2127,7 +2127,9 @@ Read,D5A,lvl_b-06,lvl_c-08
    1,R,K,G
    3
    1,L
-  20,R
+   8,R
+   1,R,K
+  11,R
    5
    5,J,G
    1,R,J
@@ -2138,13 +2140,55 @@ Read,D5A,lvl_b-06,lvl_c-08
   13,R,K,G
    1,R,J,G
    1,R,K,G
-   9,R
-   1,R,J
    8,R
+   1
+   1,R,J
+   7,R
+   1
   40
 
 #lvl_c-10
-Read,D5A,lvl_c-10,lvl_d-01
+#0x
+#only difference from D5S_R is 1 frame of subpixel manip
+   6,R
+   1,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+  14,R
+   1
+  14,R,D
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   8,R
+   1,R,J
+  30,R,D
+   1,R,J
+  14,R
+  16,R,J
+   2,R,K,G
+   1,K
+   3,L,K
+   1,R,K
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   1
+   6,R
+  13,R,J
+  22,R,K
+   2,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   5,R,J
+   2,R
+  40
+
+#lvl_c-12
+Read,D5A_R,lvl_c-12,lvl_d-01
 
 #lvl_d-01 (0)
 #0x
@@ -3413,8 +3457,8 @@ endrepeat
    1,R,J
    1,L,J
    3,L,K,G
-   6,R,K
-   2,L,K
+   3,R,K
+   5,L,K
   40
 
 #lvl_d-19b (1)
@@ -3423,13 +3467,14 @@ Read,D5A_R,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-06
 #0x
-  28,R,J
-   1,R,K,G
-   5,L,K,G
-   3,R,K,G
-   1,L,K,G
-   5,R,K,G
-   7,R,K
+  29,R,J
+   1,K,G
+  14,R,K,G
+   2,R,K
+   1,K
+   1,R,K
+   1,K
+   3,R,K
    1,R,J,G
    2,L,J,G
    4,R,J,G
@@ -3477,7 +3522,7 @@ Read,D5A_R,lvl_d-19b (1),lvl_e-06
    9,R
    6
   16,R
-  36,R,G
+  37,R,G
    1,R,J,G
   12,R,G
   40
@@ -3535,4 +3580,4 @@ Read,D5A_R,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-07
 Read,D5A_R,lvl_e-07
-MidwayFileTime: 11:03.476(39028)
+MidwayFileTime: 11:05.720(39160)
