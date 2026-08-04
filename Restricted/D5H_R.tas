@@ -181,11 +181,11 @@ Read,D5A_R,lvl_b-06,lvl_b-14
    2,G
    1
 # key cycle
-Repeat,26
+
+Repeat,29
    1,D
    1
 EndRepeat
-   1,D
   13,R
    1,R,J
    1
@@ -280,4 +280,4 @@ SaveAndQuitReenter
 
 #lvl_b-16
 Read,D5A_R,lvl_b-16
-ChapterTime: 5:23.476(19028)
+ChapterTime: 5:19.226(18778)
