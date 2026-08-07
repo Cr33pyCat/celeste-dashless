@@ -86,15 +86,15 @@ EndRepeat
    4,J
    4,L,J
    2,L
-   1,L,K,G
    1,L,J,G
+   1,L,K,G
    9,L
    1,L,J
   14,L
-   1,L,J
-  10,L
+   6,L,J
+   5,L
   40
 
 #lvl_d6
 Read,D2SH_R_SR_U,lvl_d6
-ChapterTime: 4:36.250(16250)
+ChapterTime: 4:36.199(16247)
