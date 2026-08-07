@@ -992,8 +992,6 @@ EndRepeat
    3
    3,R
    2,L
-
-
    1,L,K,G
    1,J,G
    1,L,K,G
@@ -1007,7 +1005,6 @@ EndRepeat
 
 #lvl_9c
 #0x
-
   20,R,J
   19,R
   17
@@ -1262,14 +1259,18 @@ EndRepeat
   18,R
    1,R,J
   14,R
-   1,R,J
-  24,R
+   7,R,J
+   1,L,J
+   1,K
+   2,J,G
+  11,R,D
+   1,L
    1,R,G
    6,L
-  10,R,D,J
+  11,R,D,J
    1,R,K,G
    2,R,J,G
-   3,R,D
+   2,R
    1,R,J
   47,R,D
    9,R
@@ -1399,4 +1400,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 2:19.672(8216)
+ChapterTime: 2:19.638(8214)
