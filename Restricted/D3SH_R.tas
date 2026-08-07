@@ -97,26 +97,27 @@ EndRepeat
    2
    2,L
    1,L,K,G
-   5,L,J,G
-   5,L
-   1,L,J,G
-   1,L,K,G
-   2,K
-   2
+   9,L,J,G
    1,L
-   4
-  14,R,D,J
-   4,J
+   2,L,J,G
+   1,L
+   6
+   7,R,D,J
+   1,J
+   2,R,J
+   7,L,J
+   1,R,J
    1,K,G
    5,L
-  10,L,K
-   1
+   6,L,K
+   1,K
+   2,L,K
    1,R,J,G
    3,L,J
    1,R,J
    7,R
-   4,R,K
-   1,R
+   2,R,K
+   4,R
    1,R,J,G
    1,R,K,G
    1,R
@@ -3905,4 +3906,4 @@ Read,D3A_R,lvl_04-d (1),lvl_roof03
    1,S
    1,D,J
   18
-ChapterTime: 8:05.826(28578)
+ChapterTime: 8:05.775(28575)
