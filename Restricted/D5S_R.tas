@@ -2917,23 +2917,20 @@ endrepeat
   11,R,D
   16,L,D
   30,R,D
-  38,R,X
-  30,L,U,C
-   1,J
-   6
-  20,R,D
-   4,D
-   8,R,D
-   5,R
-  16
+   0,L
+  31,R,U,X
+   1,R,J,G
+   5,L
+   5
+  34,R,D
    6,R,K
-  11,K
-   2
-  43,U,X
+  12
+  41,U,X
   33,L,C
+   3
   19,L,X
    8,L,J,G
-   1,L,D
+   4,L
   40
 
 #lvl_d-00
@@ -3578,4 +3575,4 @@ Read,D5A_R,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-07
 Read,D5A_R,lvl_e-07
-MidwayFileTime: 11:05.618(39154)
+MidwayFileTime: 11:04.836(39108)
