@@ -2420,19 +2420,17 @@ Read,D5A_R,lvl_c-12,lvl_d-01
    1,L,J
   14,L
    2,L,J
-  19,L
-   2
-   1,L
-   1,L,J
-   8,R,J
-   5,R
-   2,R,K
-  11,R
-   1,R,J,G
-   2,R,K,G
-  13,R
-   2
-   1,R
+  21,L
+   2,L,K
+   8,R,K
+   4,R
+   1,J
+   1,K
+   4,R
+   1,J
+   1,K
+   3,R,K
+  16,R,D
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -3580,4 +3578,4 @@ Read,D5A_R,lvl_d-19b (1),lvl_e-06
 
 #lvl_e-07
 Read,D5A_R,lvl_e-07
-MidwayFileTime: 11:05.720(39160)
+MidwayFileTime: 11:05.618(39154)
