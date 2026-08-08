@@ -548,12 +548,14 @@ Read,D8A_R_SR_U,lvl_d-01,lvl_d-06
    1,J
   22,L,J
    9,L
-   9,R
+   6,R
    1,R,J,G
   39,R,U,G
-  33,L,J
-   5,L,K,G
-   1,K
+  23,L,J
+   1,R,J
+   1,K,G
+   3,L,J
+   9,L
    1,J
    9,K,G
   40
@@ -561,4 +563,4 @@ Read,D8A_R_SR_U,lvl_d-01,lvl_d-06
 #lvl_d-07
 #2x
 Read,D8A_R_SR_U,lvl_d-07
-ChapterTime: 5:58.513(21089)
+ChapterTime: 5:58.105(21065)
