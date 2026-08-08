@@ -1591,30 +1591,36 @@ EndRepeat
 #lvl_d-06
 #0x
    2,R
-   2
-   3,L
+   1,L
+   1,J,G
+   1,L
    1,L,J,G
-  22,L,J
-   1,J
-   3,L,J
+  26,L,K,G
   33,G
   11,R,J
   15,R
   32,U,G
    1,L
   20,L,J
-  12,L,K,G
-  37,L,G
-  37,R,J
+   7,L,K,G
+  12,J,G
+   9,G
    1
-  33,U,G
-  21,L,J
-   1,R,J
-   1,K
-   2,J,G
-   1,L,J
-   7,L
+   2,G
+   1
+   1,G
+   1
+   1,G
    2
+   1,G
+   1
+  21,G
+  26,L,J,G
+   2
+   1,J
+  31,G
+   4
+   3,J,G
    1,K
    9,J,G
   40
@@ -2300,4 +2306,4 @@ Repeat,61
    1,L,D
    1,R,D
 EndRepeat
-ChapterTime: 5:06.510(18030)
+ChapterTime: 5:05.949(17997)
