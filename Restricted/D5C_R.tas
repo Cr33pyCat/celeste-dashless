@@ -92,7 +92,7 @@ console rmx2 5
   14,R,J
   36,R,X
   12,U,C
-  23,R,J
+  22,R,J
   25,R,X
   32,R,D,C
   15,R,U,Z
@@ -175,4 +175,4 @@ EndRepeat
   24,L,D
   81,D
 
-ChapterTime: 0:21.080(1240)
+ChapterTime: 0:21.063(1239)
