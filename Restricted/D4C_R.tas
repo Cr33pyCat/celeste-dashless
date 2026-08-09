@@ -38,19 +38,22 @@ console rmx2 4
    6,R
    1,R,J
   14,R
+   8,R,J
+   1,R,K
+   1,R,J
+  24,R
    1,R,J
   14,R
-   1,R,J
-  26,R
-  12,R,J
+   2,R,J
    9,R,G
+  10,K,G
    1,R,J,G
-  10,J
-  15
+   9,J
+  11
   11,R,J
   11,L
-  10,J
-  11
+   8,J
+  10
   11,J
   11
   11,J
@@ -58,48 +61,55 @@ console rmx2 4
    6,L,J
    6,L
   13
-  26,R,G
+   8,R,G
+   2,U,G
+  11,G
+   1,D,G
+   1,G
    1,J
    5,L,J
   24,R,J
   12,R,K,G
   12,R,J,G
-  12,R,K,G
-  10,R
-   1,L,J,G
-  11
+   5,R,K,G
+   7,R
+   3,L,J,G
+   7
   10,L,J,G
-   9
-   4,L,J
-  32,R,G
-  26,L,J
-   3,J
-   1,K
-  10,R,K
-   5,R
-   2,R,K
-   8,R
-   1
+  45,R,U,G
+   2,K,G
+   2,L
+  27,L,J
+   9,R,K
+   6,R
+   1,R,J
+   3,R
+   1,R,J
+   7,R
    1,R,J,G
    3,R,K,G
    7,R
-   6,R,J
-  14,R
+   7,R,J
+   5,R
+   2,R,J
+   3,R
+   1,R,J
+   2,R
    1,R,J,G
    1,R,K,G
-  12,R
+   9,R
    1,R,J
   14,R
    1,R,J
-  18,R
-   9,R,J
+  14,R
+  15,R,D,J
   40
 
 #lvl_02
 #3x
-   4,R,J
+   3,R,J
    1,K
-  13,J
+  10,J
    5,R,K
   59,R,J
    6,L
@@ -175,5 +185,4 @@ Repeat,20
    3,R,D
 EndRepeat
    2,L,D
-
-ChapterTime: 0:31.807(1871)
+ChapterTime: 0:31.535(1855)
