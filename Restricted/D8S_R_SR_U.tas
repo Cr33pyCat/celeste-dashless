@@ -26,12 +26,12 @@ Read,D8A_R_SR_U,Start,lvl_b-01 (1)
    2,J,G
   27,L,J
    1,L,K
-  16,L
-  65,L,J
-  10,R,D
-   1,D
+  20,L
+  50,L,J
+  11,L,D
+   9,R,D
    1
-   1,R
+   2,R
    1,J
    1,K,G
    6
@@ -599,4 +599,4 @@ EndRepeat
 #lvl_d-07
 #2x
 Read,D8A_R_SR_U,lvl_d-07
-ChapterTime: 5:56.218(20954)
+ChapterTime: 5:56.201(20953)
