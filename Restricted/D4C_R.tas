@@ -38,14 +38,21 @@ console rmx2 4
    6,R
    1,R,J
   14,R
-   8,R,J
-   1,R,K
    1,R,J
-  24,R
+   1,J
+   5,R,J
+   1,L,J
+   1,K
+   1,J,G
+   1
+  22,R,D
    1,R,J
   14,R
    2,R,J
-   9,R,G
+   6,R
+   1,R,J
+   1,R
+   1,G
   10,K,G
    1,R,J,G
    9,J
@@ -76,7 +83,7 @@ console rmx2 4
    3,L,J,G
    7
   10,L,J,G
-  45,R,U,G
+  44,R,U,G
    2,K,G
    2,L
   27,L,J
@@ -89,12 +96,8 @@ console rmx2 4
    1,R,J,G
    3,R,K,G
    7,R
-   7,R,J
-   5,R
-   2,R,J
-   3,R
-   1,R,J
-   2,R
+   8,R,J
+  12,R
    1,R,J,G
    1,R,K,G
    9,R
@@ -185,4 +188,4 @@ Repeat,20
    3,R,D
 EndRepeat
    2,L,D
-ChapterTime: 0:31.535(1855)
+ChapterTime: 0:31.501(1853)
