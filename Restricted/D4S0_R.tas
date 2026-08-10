@@ -484,25 +484,18 @@ EndRepeat
 #1x
    5,R
    7,R,J
-  29,R
-   8,R,J
-   1,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1
-   7,R
-  14,R,K
-   5,L
+  27,R
+   9,R,J
+  24,R
+   9,L
    2
-   5,L
-   1
-   6,L
-  48,L,J
+   8,L
+  47,L,J
+   2,J
   12,L,K,G
-   1,J,G
-   1,R,J
+   2,J,G
+   1
+   1,R
    1,L,K,G
    2,R,K
    9,L,K
@@ -2437,4 +2430,4 @@ Read,D4A_R,lvl_d-08,lvl_d-09
    1,S
    1,D,J
   18
-ChapterTime: 5:04.351(17903)
+ChapterTime: 5:04.334(17902)
