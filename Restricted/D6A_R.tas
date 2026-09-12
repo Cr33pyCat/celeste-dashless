@@ -783,9 +783,10 @@ EndRepeat
   20,R,D
   17,R,D
    9,D,X
-   1,K,G
-  38,R,D
-   7,R,X
+   1,R,J,G
+  11,L
+  27,R,D
+   6,R,X
    1,R,J
   18,R
    5,R,J
@@ -919,7 +920,7 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   11,R
-   1,R,J,G
+   1,R,J
    1,R,K,G
    9,R
    2,R,J
@@ -1075,7 +1076,7 @@ EndRepeat
    6,R
   40
 
-#lvl_b-00 (0)
+#lvl_b-00
 #0x
    8,R
    1,R,J
@@ -1110,13 +1111,9 @@ EndRepeat
   11,R
    1,R,J
   10,R
-
-#cutscene skip
    1,S
    1,D,J
   34
-
-#lvl_b-00 (1)
    4,R
    1,R,J
   14,R
@@ -1484,21 +1481,24 @@ EndRepeat
    4,R
   18,R,J
   11,K
-  80,R
+  68,R,D
+   6,R
    1,R,J
-   9,R
-   2,R,D,J
+  14,R
+   3,R,D,J
    1,K
    1,J
    8,R,J
    4,J
    1,L,K,G
-   3,K
+   1,K
+   1,L,K
+   1,L,K
    1,J
    1,K,G
-   1,R
-   1,R,K,G
+   1,R,K
    1,R,J,G
+   1,R,K,G
    9,R
   12,R,J
   83,R,D
@@ -1872,12 +1872,12 @@ EndRepeat
 #lvl_boss-06
 #1x
   20,D
-  12,R,D,J
-   1,J
-   6,R,J
-  29,R,K
-  12,R,J,G
-   5,K,G
+  12,R,D,K
+   1,K
+   6,R,K
+  29,R,J
+  12,R,K,G
+   5,J,G
    1
    1,L
    1,J
@@ -1890,19 +1890,29 @@ EndRepeat
   39,L
   10,J,G
    1,R,J
-  20,R,K
-   1,R,J
-   5,R
-  32,R,J
-   7,K,G
-   1,L,K
-  14,R,J,G
-   1,R,K,G
-   1,R,J,G
-  11,R
+  12,R,K
+   4,R
+   3
+   1,R,K
+   1
    1,R
-  15,R,D
-  24,R
+   2,R,J
+   3,R
+   9,R,K
+   1,R
+   1,G
+  19,R,J,G
+   1,J
+   1,R,J
+   1,J
+   1,R,K,G
+   2,L,K
+   1,L
+   1,R,J,G
+   1,R,K,G
+   7,R
+   1,R,J
+  49,R
   42,L
   20,U,X
   14,R,J
@@ -1954,7 +1964,7 @@ EndRepeat
    5,R
   34,R,J
   27,R,D
-  73,R
+  73,F,90
   16,R,J
   43,L
    6,R,J
@@ -2997,4 +3007,4 @@ AnalogMode,Precise
    1,D,J
 AnalogMode,Ignore
   18
-ChapterTime: 7:15.744(25632)
+ChapterTime: 7:15.557(25621)
