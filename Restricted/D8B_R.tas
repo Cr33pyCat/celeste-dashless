@@ -596,23 +596,26 @@ EndRepeat
    4
   38,R
    1,G
-   3,J,G
-   1,J
+   1,R,J,G
+   3,L,J
+   2,J
    1,L,J
-   1,R,K,G
-   6,R,J,G
+   2,J
+   1,L,J
+   1,J
    1,R,K,G
    1,R,J,G
+   1,R,K,G
    9,R
    1,R,J
-  15,R
+  13,R
   40
 
 #lvl_b-03
 #6x
+   1,R
    2
    2,R
-   1
    9,R,J
    4,L,J
    1,L,K,G
@@ -1441,4 +1444,4 @@ EndRepeat
   94,R,D
   21,R,D,X
  135,R,D
-ChapterTime: 3:32.925(12525)
+ChapterTime: 3:32.891(12523)
