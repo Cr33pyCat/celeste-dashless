@@ -22,7 +22,7 @@ console load 7
    1
 
 #Start
-Read,D7A_R,Start,lvl_a-06
+Read, D7A_R, Start, lvl_a-06
 #12x
 
 #lvl_a-06
@@ -99,7 +99,7 @@ Read,D7A_R,Start,lvl_a-06
    1,D,J
  141
 
-Read,D7A_R,lvl_b-00,lvl_b-02 (0)
+Read, D7A_R, lvl_b-00, lvl_b-02 (0)
 #2x
 
 #lvl_b-02
@@ -198,7 +198,7 @@ Read,D7A_R,lvl_b-00,lvl_b-02 (0)
    1,R,J
    1,L,K,G
    1,L,J,G
-Repeat,5
+Repeat, 5
    1,R,J
    1,L,J
 EndRepeat
@@ -421,7 +421,7 @@ EndRepeat
    9,R
   40
 
-Read,D7A_R,lvl_b-06,lvl_c-06
+Read, D7A_R, lvl_b-06, lvl_c-06
 #17x
 
 #lvl_c-06
@@ -664,7 +664,7 @@ Read,D7A_R,lvl_b-06,lvl_c-06
    7,R
   40
 
-Read,D7A_R,lvl_c-08,lvl_d-03
+Read, D7A_R, lvl_c-08, lvl_d-03
 #10x
 
 #lvl_d-03 (0)
@@ -798,7 +798,7 @@ Read,D7A_R,lvl_c-08,lvl_d-03
    1,R,J
   12,R
   13,L,G
-Repeat 10
+Repeat, 10
    1,G
    1
 EndRepeat
@@ -889,7 +889,7 @@ EndRepeat
    7,R
   40
 
-Read,D7A_R,lvl_d-04,lvl_d-05
+Read, D7A_R, lvl_d-04, lvl_d-05
 #1x
 
 #lvl_d-05
@@ -1037,7 +1037,7 @@ Read,D7A_R,lvl_d-04,lvl_d-05
    1,J
   40
 
-Read,D7A_R,lvl_d-06,lvl_e-00b
+Read, D7A_R, lvl_d-06, lvl_e-00b
 #7x
 #lvl_e-00b
 #2x
@@ -1230,16 +1230,18 @@ Read,D7A_R,lvl_d-06,lvl_e-00b
    7,L
    5,L,D
   40,L,J
-  32,L,U,J,X,G
+  32,L,U,X
    3,K,G
    6,R,K
    1,J
-   9,R,J
-   2,K
-   6,R,K
+   6,R,J
+   3,L,J
+   1,L,K,G
+   1,J
+   6,K,G
   40
 
-Read,D7A_R,lvl_e-02,lvl_f-02
+Read, D7A_R, lvl_e-02, lvl_f-02
 #13x
 
 #lvl_f-02
@@ -1364,7 +1366,7 @@ Read,D7A_R,lvl_e-02,lvl_f-02
   43
   40
 
-Read,D7A_R,lvl_f-07,lvl_g-00b
+Read, D7A_R, lvl_f-07, lvl_g-00b
 #16x
 
 #lvl_g-00b
@@ -1502,7 +1504,7 @@ Read,D7A_R,lvl_f-07,lvl_g-00b
    4
    1,R,J,G
   32
-Repeat,19
+Repeat, 19
    1,G
    1
 EndRepeat
@@ -1614,7 +1616,7 @@ SaveAndQuitReenter
    6,R,J
    7,R
 
-Read,D7A_R,CP-25
+Read, D7A_R, CP-25
 #70x
 
-ChapterTime: 12:23.427(43731)
+ChapterTime: 12:21.863(43639)
