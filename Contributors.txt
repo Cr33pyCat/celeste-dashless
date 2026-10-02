@@ -8,6 +8,7 @@ atpx8
 Ayalyn
 Cadaeib65
 Celerity
+CelerityTAS
 Cr33pyCat
 Curcuit
 daffodilian
