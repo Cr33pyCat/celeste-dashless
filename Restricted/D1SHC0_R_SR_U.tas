@@ -707,23 +707,29 @@ EndRepeat
 #0x
    6,R
    6,D,J
-  27,R,D
-  20,R
-  11,R,J
-   7,R
+   9,R,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   6,R,D
+   9,R,D,K
+  16,R,K
+   2,K
    1,R,K
-  14,R
-   7,R,J
-   7
-  11,R
-   2,R,D
+   7,R
+   1,R,J,G
+   1,R,K,G
+   6,R
+  20,R,K,G
+  19,R,D
    1,R
-   3,L
-   2,R
+   2
    8,R,J
-   1,R
-  23,R,J
-   1,K,G
+   5,R
+  10,R,K
+   9,R
+   1,J,G
   17
   40
 
@@ -1223,27 +1229,28 @@ EndRepeat
    1,L,K
    1,J
   64,L,K
-  25,L,J,G
-  13,L
+  26,L,J,G
+  12,L
    6,L,J
-  23,L,D
-   1,J
-   6,R,J
+  20,L,D
+   3,R,D
+   1,J,G
+   1,L,J
+   5,R,J
    9,R
-   4,R,J
+   5,R,K
    1
-   5,R
+   4,R
   21,R,J,G
    8,R
    1
-  24,R,K,G
+  24,R,J,G
   14,R,D
   25,R,J
   25,R,D
    2,D
-   1,R
+   2,R,D
    3,R
-   1,R,D
    1,R,J,G
    1,R,K,G
    9,R
@@ -1406,4 +1413,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 2:19.400(8200)
+ChapterTime: 2:19.247(8191)
