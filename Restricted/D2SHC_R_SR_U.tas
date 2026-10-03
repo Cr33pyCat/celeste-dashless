@@ -5,7 +5,7 @@ console load 2
 
 #Start
 #lvl_start
-Read,D2SH_R_SR_U,Start,lvl_d0 (0)
+Read,D2S_R_SR_U,Start,lvl_d0 (0)
 #2x
 
 #lvl_d0 (0)
@@ -96,5 +96,8 @@ EndRepeat
   40
 
 #lvl_d6
-Read,D2SH_R_SR_U,lvl_d6
-ChapterTime: 4:36.131(16243)
+Read,D2S_R_SR_U,lvl_d6,lvl_0 (1)
+
+#lvl_0
+Read,D2SH_R_SR_U,lvl_0 (0)
+ChapterTime: 4:36.080(16240)
