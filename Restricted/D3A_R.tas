@@ -853,21 +853,17 @@ EndRepeat
    5,R
    5,R,K
    1,R,J,G
-   5,R,K,G
-   5,R
-   2,R,K
-  28,R
-   1,R,D
+   4,R,K,G
+  37,R
   11,J,G
    1,L,J
   15,R,K,G
-   8,J,G
-   3
+   7,J,G
+   4
    1,L
   12,R,K,G
-  27,R,D
-  10,D
-   9,L,D
+  25,R,D
+  19,L,D
   40
 
 #lvl_08-b
@@ -3649,4 +3645,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 5:54.433(20849)
+ChapterTime: 5:54.399(20847)
