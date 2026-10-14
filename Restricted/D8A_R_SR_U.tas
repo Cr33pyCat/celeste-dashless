@@ -145,7 +145,7 @@ console load 9
    1,R,J
    9,R
    1,S
-   1,D,O
+   1,D,J
   34
    5,R
    1,R,J
@@ -656,7 +656,7 @@ EndRepeat
    1,L,J
    3,L,K,G
    4,L
-   4,R
+   4
    2,L
    1,L,J,G
   10,L
@@ -682,26 +682,26 @@ EndRepeat
   14,L
    1,L,J
   14,L
-  57,L,J
-   1,L,K
-  18,L
-  16,L,D,J
-  19,L
-   0
-   1,L,K,G
-   1,L,J,G
-   9,L
+   8,L,J
+  34,L,D
    1,L,J
-  20,L
-   4,L,J
-   5,L
+  16,L
    1,L,J
-   5,L
-   7,L,J
-   2,L,J
-   2,L,J
-   2
+  16,L
+  10,L,J
    6,L
+   4,L,K
+  12,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   7,L
+   1,L,J
+  16,L
+   6,L,J
+  14,L
+  17,L,J
    1,L,K,G
    1,L,J,G
    9,L
@@ -736,8 +736,7 @@ EndRepeat
    1,L,K,G
    1,L,J,G
    9,L
-   1
-   4
+   5
    8,L,J
   42,L,D
   38,L,J
@@ -1072,17 +1071,19 @@ EndRepeat
   59,R,J,G
    1,R,K,G
    2,L,K
-   2,R,K
-   1,R,J,G
-   2,R
+   3,R,K
+   9,R,J,G
+  30,R
    1
-  28,R
-  15,R
-   4,R
-  33,R,J
-   6,J
-   7,K,G
-   1,L,K
+   7,R
+   1
+   2,R
+  28,R,J
+   1,J
+   1,R,J
+   7,J
+   5,K,G
+   1,L
   30,L,J
   66,R,D
    1,R
@@ -1120,9 +1121,8 @@ EndRepeat
   15,R
   56,R,J
   20,R,D
-   1,L,D
-   6
-  10
+   1,D
+  16
   46,R,J
   13,R
    3,R,J
@@ -1132,34 +1132,40 @@ EndRepeat
   20,L
   27,R
   19,L,D
-  32,G
+  16,G
+   8,D,G
+   6,G
+   2,D,G
    1,R,J
-  22,R
+  20,R
+   1,R,J,G
+   9,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   4,R
+  10,R
   40
 
 #lvl_c-04
 #1x
-  10,R
-   6,R,J
+   1
+   8,R
+   5,R,J
+   1,R
    1,R,K,G
-   9,R
+  10,R
   21,R,J
   21,G
   60,R,J,G
   25,G
    3,R,J,G
    7,R
-  14,D
-   2,R,D
-   4,D
+  14
+   2,R
+   1,D
+   3
   35,R,J
-   1,L,D
+   1,D
    1,R,D
    5,R,D
    3,R
@@ -1416,14 +1422,10 @@ EndRepeat
 #1x
    1,R
    1
-   1,L
-   1,L
-   3,L
+   5,L
    1,L,J,G
    2,L,K,G
-   1,L
-   1,L
-   1,L
+   3,L
    1
    2,L,K
    2,L
@@ -1589,8 +1591,7 @@ EndRepeat
    1,R,K
    1,J
    6,K,G
-   5,L,K
-   1,L,K
+   6,L,K
    1,L,J,G
    1,L,K,G
   18,L
@@ -1769,11 +1770,8 @@ EndRepeat
    1,R,J
    6,L,J
    1,R,J
-   1,L,J
-   1,L,J
-   1,L,J
-   1,R,J
-   1,R,J
+   3,L,J
+   2,R,J
    1,L,J
    1,R,J
    1,L,J
@@ -1835,7 +1833,6 @@ EndRepeat
   10,L,K
    1,J
   10,R,J
-
    1,K,G
    7,R,K
    1,K
@@ -1871,7 +1868,6 @@ EndRepeat
    1
    1,R,J,G
    2,R,K,G
-
   10,R
    1
    1,R,K,G
@@ -1990,7 +1986,7 @@ EndRepeat
    6,R
   59,R,J
   15,R,U,X
-  35,R,J
+  35,R
    1,R,D
    1,K,G
    1,L,K
@@ -2357,4 +2353,4 @@ Repeat,61
    1,L,D
    1,R,D
 EndRepeat
-ChapterTime: 5:03.620(17860)
+ChapterTime: 5:03.467(17851)
