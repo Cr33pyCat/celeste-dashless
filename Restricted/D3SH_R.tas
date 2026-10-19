@@ -1694,39 +1694,38 @@ Read,D3A_R,Huge Mess,H1-Return
    4,D
    1,J
   15,R,D
+   5,R
+   1
+   1,R
+   1
+   1,R
    1,R,J
-  19,R
+   8,R
+   2,R,J
+   5,R
    5,R,J
-   4,R
-   1,R,J,G
    1,R,K,G
+   1,R,J,G
    9,R
    1,R,K
-   4,R
-   3,R,J
-  20,R,D
+   5,R
+   6,R,J
+  11,R,D
    1,R,J
    1,R,K
    1,R,J
-   6,R,K
-   4,K
-   1,R,K
-   1,K
+  11,R,K
+   1
+   1,R
    1,J
-   2,K,G
-   4,L,K
+   6,L,J
+   1,J
+   9,K
+   3,L,K
    1,K
    1,L,K
-   7,J
-   1,L,J
-   1,J
-   1,L,J
-   1,L,J
-   4,J
-   1,K,G
-   1,K
-   1,L
-   1
+   2
+   3,K,G
    1,J
    7,K,G
    4,R,K
@@ -2847,38 +2846,41 @@ EndRepeat
    1,L,J
   14,L
    1,L,J
-  14,L
+  13,L
+   1
    1,L,J
-  14,L
-   8,L,J
+  13,L
+   1
+   7,L,J
    6,L
    2,L,K
    1,L
    2,L,K
   10,L
-   1,L,K
-   1,L
+   3,L,K
    1,L,J,G
-  23,L,K,G
-   1,L
-   1,J,G
-   1,R
-   2,L,K,G
-   8,L,J,G
-   9,L
+  24,L,K,G
+   1,L,J,G
+   3,R,J
+   3,J
+   3,L,J
+   1,L,K,G
+  10,L
    1,L,J
   14,L
    1,L,J
-  12,L
+  10,L
   40
 
 #lvl_08-a
 #0x
-   3,L
-   1,L,J
+   4,L
+   1,L,D,J
   14,L
    1,L,J
-  36,L,D
+  32,L,D
+   2,D
+   2,L,D
   40
 
 #lvl_08-x
@@ -2933,28 +2935,29 @@ EndRepeat
 #lvl_09-b (3)
    1,L
    1,L,J,G
-  10
-   1,J
-   1,K,G
-   1,L
+   5,L
+   2,L,J
    1
-   1,L
-   3
-   1,L
-   5,R
-  27,R,J
+   1,K,G
+   5
+   6,R
+  28,R,J
    1,K
    2,L,K
    1,L
-   1,L
+   1
    1,R,J,G
    1,R
    1,K,G
-   6,R,K
+   3,R,K
+   1,K
+   2,R,K
    2,R
    1,R,K,G
    1,R,J,G
-   9,R
+   1,R
+   1
+   7,R
    1,R,J
   14,R
    1,R,J
@@ -3008,7 +3011,7 @@ EndRepeat
    5,R
    3
    1,R
-  74
+  75
 Read,D3A_R,H3,lvl_06-d
 #0x
 
@@ -3742,4 +3745,4 @@ Read,D3A_R,lvl_roof04,lvl_roof06
    1,S
    1,D,J
   18
-ChapterTime: 8:03.701(28453)
+ChapterTime: 8:03.582(28446)
