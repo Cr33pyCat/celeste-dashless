@@ -7,7 +7,6 @@ arti
 atpx8
 Ayalyn
 Cadaeib65
-Celerity
 CelerityTAS
 Cr33pyCat
 Curcuit
@@ -43,7 +42,6 @@ Pandora
 pansear
 psyGamer
 RareBeeph
-reasonably arranged pasta
 RichConnerGMN
 RisingStar111
 Sango
