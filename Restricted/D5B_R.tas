@@ -768,10 +768,9 @@ SaveAndQuitReenter
    6,R,J,G
    3,R,K,G
    1
-   4,R
-   7,R
+  11,R
   13,R,G
-   1,R,K,G
+   1,R,J,G
   28,R,D,G
 Repeat, 3
    1,R,J,G
@@ -781,10 +780,10 @@ EndRepeat
    1,R,J,G
    1,R,G
   13,R
-Repeat, 2
    1,R,J
   14,R
-EndRepeat
+   1,R,J
+  14,R
    1,R,J
    7,R
   40
@@ -1129,43 +1128,56 @@ EndRepeat
   36,R,G
    7,G
    9,R,G
-   6,L,G
+   6,G
    5,R,J,G
   56,R,J
-  19,R,J,G
-   1,K,G
-  20,R,K,G
-   6,R,K
-   1,R,K
-   1,K
-   2,R,K
-   1,K
-   1,R,K
-   1,J
+  16,R,J,G
+   3,J,G
+   2
+   1,D
+   1,G
+   1,J,G
+   1,L,J
    1,R,K,G
-   1,J
-  13,R
-   1
+   1,L,K
+  12,G
+   1,L,K,G
+   9,R,K,G
+   9,R,K
+   4,R
+   5,R
    1,R,J,G
    1,R,K,G
-  11,R
-   1,R,J
-  69,R,D,K,G
+   9,R
+   3,R,J
+  12,G
+   2,R,J,G
+  30,R,G
+   2,G
+   6,R,G
+   6,R
+   2,R,D
    1,R
-   1,R,J
-  14,R
-   9,R,J
+   1,R,J,G
+   1,R,K,G
+   9,R
+   8,R,J
   19,R
    1,R,J,G
    1,R,K,G
-  18,R
-  18,R,G
+   4,R
+  13,G
    1,R,J,G
-  26,R,G
-   3,R,J,G
-  16,R
-   4
-Repeat,54
+  21,R,G
+   6,R,J,G
+   4,R,G
+  14,R
+Repeat,7
+   1,L,D
+   1,R
+EndRepeat
+  12
+Repeat,43
    1,L,D
    1,R
 EndRepeat
@@ -1178,4 +1190,4 @@ Repeat,13
    1,K
    1,J
 EndRepeat
-ChapterTime: 2:39.664(9392)
+ChapterTime: 2:39.069(9357)
