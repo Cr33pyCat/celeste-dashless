@@ -8,12 +8,15 @@ console load 4 d-00
 
 #lvl_d-00
 #0x
+   5,L
    1,L,J
   14,L
-   1,L,J
-  14,L
-   6,L,J
-  11,R,K
+   5,L,J
+   5,L
+   1,L,K
+   5,L
+   1,K
+   9,R,K
   12,L,J,G
    8,L,K,G
    1,R,J
@@ -47,11 +50,14 @@ console load 4 d-00
    5,L
    2,L,J
    6,L,G
-   4,L,J,G
-  11,L
-  10,R,G
-  61,L,G
-   9,L,D,G
+   3,L,J,G
+   5,L
+   2,L,K
+   5,L
+   8
+   1,R,G
+  59,L,G
+  11,L,D,G
   15,L,G
    9,L,J
   76,L,K
@@ -117,4 +123,4 @@ console load 4 d-00
    1,J
   31
 
-MidwayFileTime: 0:14.977(881)
+MidwayFileTime: 0:14.943(879)
