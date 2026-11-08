@@ -142,9 +142,10 @@ EndRepeat
   31,R,D
    1,R,J
   21,R,D
-  10,R
+   1,R,J
+   7,R
   40
 
 #lvl_a-08
 Read,D4S0_R,lvl_a-08 (1)
-ChapterTime: 5:24.955(19115)
+ChapterTime: 5:24.785(19105)
