@@ -145,10 +145,12 @@ Read,D5A_R,lvl_b-06,lvl_b-14
 #1x
    4
    1,R,J
-  29,R,D
-   1,G
-   1,R,J,G
-   1
+  21,R,D
+   2,D
+   1,R,D
+   1,D
+   2,R,D
+   2,R
   15,R,D,X
    1,J
   12
@@ -182,14 +184,15 @@ Read,D5A_R,lvl_b-06,lvl_b-14
    1
 # key cycle
 
-Repeat,29
+Repeat,16
    1,D
    1
 EndRepeat
-  13,R
+   1,D
+  12,R
+   1,D
    1,R,J
-   1
-  14,R
+  15,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -280,4 +283,4 @@ SaveAndQuitReenter
 
 #lvl_b-16
 Read,D5A_R,lvl_b-16
-ChapterTime: 5:19.073(18769)
+ChapterTime: 5:18.597(18741)
